@@ -1,14 +1,10 @@
 {
   "name": "zwjtano-icons",
-  "description": "zwjtano ????? PNG ????????????????????",
+  "description": "zwjtano ????? PNG ???????? Loon?Surge?Quantumult X ?????????????",
   "icons": [
     {
       "name": "ai",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
-    },
-    {
-      "name": "airalo",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/airalo.png"
     },
     {
       "name": "apple",
@@ -129,6 +125,10 @@
     {
       "name": "line",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png"
+    },
+    {
+      "name": "loon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png"
     },
     {
       "name": "microsoft",
