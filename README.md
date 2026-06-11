@@ -1,18 +1,18 @@
 # zwjtano icons
 
-Hand-painted transparent PNG icons for proxy clients and personal rule sets.
+手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，以及个人规则集、脚本配置和图标引用。
 
-## Icon Set
+## 图标合集
 
-Use the collection JSON:
+可直接使用下面的 JSON 地址：
 
-```text
+``text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
-```
+``
 
-## Icons
+## 图标列表
 
-| Name | Raw URL |
+| 名称 | 原始链接 |
 | --- | --- |
 | `dmit` | `https://raw.githubusercontent.com/zwjtano/icons/main/dmit.png` |
 | `ai` | `https://raw.githubusercontent.com/zwjtano/icons/main/ai.png` |
@@ -27,12 +27,12 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 | `usa` | `https://raw.githubusercontent.com/zwjtano/icons/main/usa.png` |
 | `netflix` | `https://raw.githubusercontent.com/zwjtano/icons/main/netflix.png` |
 | `youtube` | `https://raw.githubusercontent.com/zwjtano/icons/main/youtube.png` |
-| `hupu` | `https://raw.githubusercontent.com/zwjtano/icons/main/hupu.png` |
-| `hupujr` | `https://raw.githubusercontent.com/zwjtano/icons/main/hupujr.png` |
-| `friday` | `https://raw.githubusercontent.com/zwjtano/icons/main/friday.png` |
+| `tiktok` | `https://raw.githubusercontent.com/zwjtano/icons/main/tiktok.png` |
+| `hbomax` | `https://raw.githubusercontent.com/zwjtano/icons/main/hbomax.png` |
+| `disneyplus` | `https://raw.githubusercontent.com/zwjtano/icons/main/disneyplus.png` |
 
-## Notes
+## 说明
 
-- Most new icons are hand-painted sticker-style PNGs with transparent backgrounds.
-- File names are lowercase and stable, so they can be referenced directly in Loon, Surge, Quantumult X, or rule documents.
-- Some icons are generated or edited for personal use; trademarks and service names belong to their respective owners.
+- 图标以小写英文文件名保存，方便在规则、配置和订阅文档中直接引用。
+- 新增图标主要为手绘贴纸风格 PNG，并尽量保留透明背景。
+- 图标仅供个人整理和使用；相关品牌、商标和服务名称归各自权利方所有。
