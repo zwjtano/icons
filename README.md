@@ -6,17 +6,21 @@
 
 可直接使用下面的 JSON 地址：
 
-``text
+```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
-``
+```
+
+可点击打开：[icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
 
 ## 图片目录
 
-所有图片统一放在 icons/ 文件夹中，原始链接格式如下：
+所有图片统一放在 `icons/` 文件夹中，原始链接格式如下：
 
-``text
+```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
-``
+```
+
+示例：[dmit.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png)
 
 ## 图标列表
 
