@@ -1,70 +1,78 @@
 {
-    "name":  "zwjtano-icons",
-    "description":  "zwjtano 的手绘透明 PNG 图标合集，适用于代理客户端和个人规则集。",
-    "icons":  [
-                  {
-                      "name":  "ai",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png"
-                  },
-                  {
-                      "name":  "asia",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png"
-                  },
-                  {
-                      "name":  "disneyplus",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png"
-                  },
-                  {
-                      "name":  "dmit",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png"
-                  },
-                  {
-                      "name":  "hbomax",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png"
-                  },
-                  {
-                      "name":  "hongkong",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png"
-                  },
-                  {
-                      "name":  "japan",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png"
-                  },
-                  {
-                      "name":  "korea",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png"
-                  },
-                  {
-                      "name":  "netflix",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png"
-                  },
-                  {
-                      "name":  "nigeria",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png"
-                  },
-                  {
-                      "name":  "singapore",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png"
-                  },
-                  {
-                      "name":  "taiwan",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png"
-                  },
-                  {
-                      "name":  "tiktok",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png"
-                  },
-                  {
-                      "name":  "usa",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png"
-                  },
-                  {
-                      "name":  "xiaohongshu",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png"
-                  },
-                  {
-                      "name":  "youtube",
-                      "url":  "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png"
-                  }
-              ]
+  "name": "zwjtano-icons",
+  "description": "zwjtano 的手绘透明 PNG 图标合集，适用于代理客户端和个人规则集。",
+  "icons": [
+    {
+      "name": "ai",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png"
+    },
+    {
+      "name": "asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png"
+    },
+    {
+      "name": "disneyplus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png"
+    },
+    {
+      "name": "dmit",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png"
+    },
+    {
+      "name": "hbomax",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png"
+    },
+    {
+      "name": "hongkong",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png"
+    },
+    {
+      "name": "japan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png"
+    },
+    {
+      "name": "korea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png"
+    },
+    {
+      "name": "nigeria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png"
+    },
+    {
+      "name": "singapore",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png"
+    },
+    {
+      "name": "taiwan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png"
+    },
+    {
+      "name": "usa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png"
+    },
+    {
+      "name": "youtube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png"
+    },
+    {
+      "name": "tag",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png"
+    }
+  ]
 }
