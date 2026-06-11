@@ -1,0 +1,126 @@
+{
+  "name": "zwjtano-icons",
+  "description": "zwjtano ????? PNG ????????????????????",
+  "icons": [
+    {
+      "name": "ai",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
+    },
+    {
+      "name": "apple",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00"
+    },
+    {
+      "name": "asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279"
+    },
+    {
+      "name": "dingtalk",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c"
+    },
+    {
+      "name": "disneyplus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=5c84d051f5cf"
+    },
+    {
+      "name": "dmit",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9"
+    },
+    {
+      "name": "dongqiudi",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389"
+    },
+    {
+      "name": "douyu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986"
+    },
+    {
+      "name": "facebook",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf"
+    },
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158"
+    },
+    {
+      "name": "google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364"
+    },
+    {
+      "name": "hbomax",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a"
+    },
+    {
+      "name": "hongkong",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+    },
+    {
+      "name": "instagram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=dfa3769f7301"
+    },
+    {
+      "name": "japan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc"
+    },
+    {
+      "name": "korea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
+    },
+    {
+      "name": "netflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428"
+    },
+    {
+      "name": "nigeria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54"
+    },
+    {
+      "name": "primevideo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40"
+    },
+    {
+      "name": "singapore",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "tag",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9"
+    },
+    {
+      "name": "taiwan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079"
+    },
+    {
+      "name": "telegram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f"
+    },
+    {
+      "name": "usa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+    },
+    {
+      "name": "x",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4"
+    },
+    {
+      "name": "youtube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20"
+    },
+    {
+      "name": "zhihu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd"
+    }
+  ]
+}
