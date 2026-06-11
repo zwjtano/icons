@@ -6,42 +6,42 @@
 
 可直接使用下面的 JSON 地址：
 
-```text
+``text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
-```
+``
 
 可点击打开：[icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
 
 ## 图片目录
 
-所有图片统一放在 `icons/` 文件夹中，原始链接格式如下：
+所有图片统一放在 icons/ 文件夹中，原始链接格式如下：
 
-```text
+``text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
-```
+``
 
 示例：[dmit.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png)
 
-## 图标列表
+## 图标预览
 
-| 名称 | 原始链接 |
-| --- | --- |
-| `ai` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png` |
-| `asia` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png` |
-| `disneyplus` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png` |
-| `dmit` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png` |
-| `hbomax` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png` |
-| `hongkong` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png` |
-| `japan` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png` |
-| `korea` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png` |
-| `netflix` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png` |
-| `nigeria` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png` |
-| `singapore` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png` |
-| `taiwan` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png` |
-| `tiktok` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png` |
-| `usa` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png` |
-| `xiaohongshu` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png` |
-| `youtube` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png` |
+| 预览 | 名称 | 原始链接 |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png" alt="ai" width="72"> | `ai` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png" alt="asia" width="72"> | `asia` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png" alt="disneyplus" width="72"> | `disneyplus` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png" alt="dmit" width="72"> | `dmit` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png" alt="hbomax" width="72"> | `hbomax` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png" alt="hongkong" width="72"> | `hongkong` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png" alt="japan" width="72"> | `japan` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png" alt="korea" width="72"> | `korea` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png" alt="netflix" width="72"> | `netflix` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png" alt="nigeria" width="72"> | `nigeria` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png" alt="singapore" width="72"> | `singapore` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png" alt="taiwan" width="72"> | `taiwan` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png" alt="tiktok" width="72"> | `tiktok` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png" alt="usa" width="72"> | `usa` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png" alt="xiaohongshu" width="72"> | `xiaohongshu` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png" alt="youtube" width="72"> | `youtube` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png` |
 
 ## 说明
 
