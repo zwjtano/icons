@@ -73,6 +73,14 @@
     {
       "name": "tag",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png"
+    },
+    {
+      "name": "paypal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png"
+    },
+    {
+      "name": "telegram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png"
     }
   ]
 }
