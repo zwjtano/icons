@@ -42,6 +42,10 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png" alt="usa" width="72"> | `usa` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png" alt="xiaohongshu" width="72"> | `xiaohongshu` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png" alt="youtube" width="72"> | `youtube` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png" alt="apple" width="72"> | `apple` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png" alt="tag" width="72"> | `tag` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png" alt="paypal" width="72"> | `paypal` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png" alt="telegram" width="72"> | `telegram` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png` |
 
 ## 说明
 
