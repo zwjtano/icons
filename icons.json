@@ -7,12 +7,36 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
     },
     {
+      "name": "airalo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/airalo.png"
+    },
+    {
       "name": "apple",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00"
     },
     {
+      "name": "apple-fitness",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png"
+    },
+    {
+      "name": "apple-music",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png"
+    },
+    {
+      "name": "apple-tv",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png"
+    },
+    {
       "name": "asia",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png"
+    },
+    {
+      "name": "dazn",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
     },
     {
       "name": "dingtalk",
@@ -39,12 +63,40 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf"
     },
     {
+      "name": "game-platforms",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png"
+    },
+    {
+      "name": "github",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png"
+    },
+    {
       "name": "global",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158"
     },
     {
+      "name": "gmail",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png"
+    },
+    {
       "name": "google",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364"
+    },
+    {
+      "name": "google-drive",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png"
+    },
+    {
+      "name": "google-photos",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png"
+    },
+    {
+      "name": "google-translate",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png"
+    },
+    {
+      "name": "googlevoice",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png"
     },
     {
       "name": "hbomax",
@@ -53,6 +105,14 @@
     {
       "name": "hongkong",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+    },
+    {
+      "name": "hulu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png"
+    },
+    {
+      "name": "hupu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png"
     },
     {
       "name": "instagram",
@@ -67,6 +127,14 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
     },
     {
+      "name": "line",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png"
+    },
+    {
+      "name": "microsoft",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png"
+    },
+    {
       "name": "netflix",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428"
     },
@@ -75,8 +143,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
     },
     {
+      "name": "paramount-plus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png"
+    },
+    {
       "name": "paypal",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54"
+    },
+    {
+      "name": "peacock",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png"
     },
     {
       "name": "primevideo",
@@ -85,6 +161,10 @@
     {
       "name": "singapore",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "spotify",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png"
     },
     {
       "name": "tag",
@@ -105,6 +185,10 @@
     {
       "name": "usa",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+    },
+    {
+      "name": "whatsapp",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png"
     },
     {
       "name": "x",
