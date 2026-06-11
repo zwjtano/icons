@@ -1,30 +1,30 @@
 # zwjtano icons
 
-?????? PNG ???????? Loon?Surge?Quantumult X ?????????????????????????
+Hand-drawn transparent PNG icons for Loon, Surge, Quantumult X, proxy clients, personal rule sets, scripts, and configuration files.
 
-????? **51** ????
+Current icon count: **51**.
 
-## ????
+## Icon Catalog
 
-???????? JSON ???
+Use this JSON catalog directly:
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
-[?? icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
+[Open icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
 
-## ????
+## Image Directory
 
-???????? `icons/` ??????????????
+All PNG files live in the `icons/` directory. Raw image URLs use this format:
 
 ```text
-https://raw.githubusercontent.com/zwjtano/icons/main/icons/???.png
+https://raw.githubusercontent.com/zwjtano/icons/main/icons/file-name.png
 ```
 
-## ????
+## Icon Preview
 
-| ?? | ?? | ???? |
+| Preview | Name | Raw URL |
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff" alt="ai" width="72"> | `ai` | [`ai.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00" alt="apple" width="72"> | `apple` | [`apple.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00) |
@@ -78,8 +78,8 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/???.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20" alt="youtube" width="72"> | `youtube` | [`youtube.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | `zhihu` | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
 
-## ??
+## Notes
 
-- ????????????????????????????????
-- ????????????? PNG???????????
-- ?????????????????????????????????
+- File names are lowercase and configuration-friendly.
+- Icons are PNG images with transparent outer backgrounds.
+- Brand names, trademarks, and service names belong to their respective owners.
