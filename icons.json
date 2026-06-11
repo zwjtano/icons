@@ -97,6 +97,10 @@
     {
       "name": "facebook",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png"
+    },
+    {
+      "name": "instagram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png"
     }
   ]
 }
