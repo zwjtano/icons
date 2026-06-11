@@ -101,6 +101,26 @@
     {
       "name": "instagram",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png"
+    },
+    {
+      "name": "primevideo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png"
+    },
+    {
+      "name": "x",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png"
+    },
+    {
+      "name": "global",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png"
+    },
+    {
+      "name": "zhihu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png"
+    },
+    {
+      "name": "google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png"
     }
   ]
 }
