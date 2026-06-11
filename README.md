@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png" alt="dongqiudi" width="72"> | `dongqiudi` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png" alt="douyu" width="72"> | `douyu` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png" alt="facebook" width="72"> | `facebook` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png" alt="instagram" width="72"> | `instagram` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png` |
 
 ## 说明
 
