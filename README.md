@@ -48,6 +48,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png" alt="telegram" width="72"> | `telegram` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png" alt="dingtalk" width="72"> | `dingtalk` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png` |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png" alt="dongqiudi" width="72"> | `dongqiudi` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png` |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png" alt="douyu" width="72"> | `douyu` | `https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png` |
 
 ## 说明
 
