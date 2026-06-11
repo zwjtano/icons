@@ -1,0 +1,26 @@
+{
+  "name": "zwjtano-icons",
+  "description": "Custom hand-painted and app icons by zwjtano",
+  "icons": [
+    {
+      "name": "dmit",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/dmit.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/xiaohongshu.png"
+    },
+    {
+      "name": "hupu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/hupu.png"
+    },
+    {
+      "name": "hupujr",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/hupujr.png"
+    },
+    {
+      "name": "friday",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/friday.png"
+    }
+  ]
+}
