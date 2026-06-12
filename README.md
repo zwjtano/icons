@@ -1,30 +1,30 @@
 # zwjtano icons
 
-Hand-drawn transparent PNG icons for Loon, Surge, Quantumult X, proxy clients, personal rule sets, scripts, and configuration files.
+手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-Current icon count: **51**.
+当前共收录 **51** 个图标。
 
-## Icon Catalog
+## 图标合集
 
-Use this JSON catalog directly:
+可直接使用下面的 JSON 地址：
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
-[Open icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
+[打开 icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
 
-## Image Directory
+## 图片目录
 
-All PNG files live in the `icons/` directory. Raw image URLs use this format:
+所有 PNG 图片统一放在 `icons/` 文件夹中，原始链接格式如下：
 
 ```text
-https://raw.githubusercontent.com/zwjtano/icons/main/icons/file-name.png
+https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 ```
 
-## Icon Preview
+## 图标预览
 
-| Preview | Name | Raw URL |
+| 预览 | 名称 | 原始链接 |
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff" alt="ai" width="72"> | `ai` | [`ai.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00" alt="apple" width="72"> | `apple` | [`apple.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00) |
@@ -78,8 +78,8 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/file-name.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20" alt="youtube" width="72"> | `youtube` | [`youtube.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | `zhihu` | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
 
-## Notes
+## 说明
 
-- File names are lowercase and configuration-friendly.
-- Icons are PNG images with transparent outer backgrounds.
-- Brand names, trademarks, and service names belong to their respective owners.
+- 图标以小写英文文件名保存，方便在规则、配置和订阅文档中直接引用。
+- 图标为手绘贴纸风格 PNG，外侧背景为透明。
+- 相关品牌、商标和服务名称归各自权利方所有。
