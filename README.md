@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **51** 个图标。
+当前共收录 **52** 个图标。
 
 ## 图标合集
 
@@ -67,6 +67,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40" alt="primevideo" width="72"> | `primevideo` | [`primevideo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f" alt="singapore" width="72"> | `singapore` | [`singapore.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png" alt="spotify" width="72"> | `spotify` | [`spotify.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | `surge` | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | `tag` | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079" alt="taiwan" width="72"> | `taiwan` | [`taiwan.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | `telegram` | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
