@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **52** 个图标。
+当前共收录 **53** 个图标。
 
 ## 图标合集
 
@@ -73,6 +73,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | `telegram` | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | `tiktok` | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9" alt="usa" width="72"> | `usa` | [`usa.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | `wd` | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | `whatsapp` | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06" alt="x" width="72"> | `x` | [`x.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4" alt="xiaohongshu" width="72"> | `xiaohongshu` | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4) |
