@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **54** 个图标。
+当前共收录 **58** 个图标。
 
 ## 图标合集
 
@@ -33,14 +33,18 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png" alt="apple-tv" width="72"> | `apple-tv` | [`apple-tv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279" alt="asia" width="72"> | `asia` | [`asia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png" alt="bilibili" width="72"> | `bilibili` | [`bilibili.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png" alt="chatgpt" width="72"> | `chatgpt` | [`chatgpt.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png" alt="claude" width="72"> | `claude` | [`claude.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png" alt="dazn" width="72"> | `dazn` | [`dazn.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c" alt="dingtalk" width="72"> | `dingtalk` | [`dingtalk.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png" alt="discord" width="72"> | `discord` | [`discord.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=335893f395c1" alt="disneyplus" width="72"> | `disneyplus` | [`disneyplus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=335893f395c1) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9" alt="dmit" width="72"> | `dmit` | [`dmit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389" alt="dongqiudi" width="72"> | `dongqiudi` | [`dongqiudi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986" alt="douyu" width="72"> | `douyu` | [`douyu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf" alt="facebook" width="72"> | `facebook` | [`facebook.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png" alt="game-platforms" width="72"> | `game-platforms` | [`game-platforms.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png" alt="gemini" width="72"> | `gemini` | [`gemini.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png" alt="github" width="72"> | `github` | [`github.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158" alt="global" width="72"> | `global` | [`global.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png" alt="gmail" width="72"> | `gmail` | [`gmail.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png) |

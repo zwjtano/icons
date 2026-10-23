@@ -31,12 +31,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png"
     },
     {
+      "name": "chatgpt",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png"
+    },
+    {
+      "name": "claude",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png"
+    },
+    {
       "name": "dazn",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
     },
     {
       "name": "dingtalk",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c"
+    },
+    {
+      "name": "discord",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png"
     },
     {
       "name": "disneyplus",
@@ -61,6 +73,10 @@
     {
       "name": "game-platforms",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png"
+    },
+    {
+      "name": "gemini",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png"
     },
     {
       "name": "github",
