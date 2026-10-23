@@ -1,0 +1,1002 @@
+{
+  "name": "zwjtano-flags",
+  "description": "ISO 3166-1 的 249 个国家及地区旗帜，波浪旗面、水彩纸纹、透明 PNG。",
+  "icons": [
+    {
+      "name": "afghanistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
+    },
+    {
+      "name": "aland-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e"
+    },
+    {
+      "name": "albania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
+    },
+    {
+      "name": "algeria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d"
+    },
+    {
+      "name": "american-samoa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/american-samoa.png?v=6e9fb7d45ebe"
+    },
+    {
+      "name": "andorra",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c"
+    },
+    {
+      "name": "angola",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b"
+    },
+    {
+      "name": "anguilla",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d"
+    },
+    {
+      "name": "antarctica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
+    },
+    {
+      "name": "antigua-and-barbuda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455"
+    },
+    {
+      "name": "argentina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514"
+    },
+    {
+      "name": "armenia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c"
+    },
+    {
+      "name": "aruba",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+    },
+    {
+      "name": "australia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/australia.png?v=6e455c3ff567"
+    },
+    {
+      "name": "austria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/austria.png?v=dded9d195907"
+    },
+    {
+      "name": "azerbaijan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/azerbaijan.png?v=12dd1199899d"
+    },
+    {
+      "name": "bahamas",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9"
+    },
+    {
+      "name": "bahrain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7"
+    },
+    {
+      "name": "bangladesh",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bangladesh.png?v=07411f62cf17"
+    },
+    {
+      "name": "barbados",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66"
+    },
+    {
+      "name": "belarus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belarus.png?v=547c5254f113"
+    },
+    {
+      "name": "belgium",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belgium.png?v=6e1d549f1cbf"
+    },
+    {
+      "name": "belize",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belize.png?v=e8bb180ae925"
+    },
+    {
+      "name": "benin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/benin.png?v=39abdef28554"
+    },
+    {
+      "name": "bermuda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bermuda.png?v=f94642a475f2"
+    },
+    {
+      "name": "bhutan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bhutan.png?v=54dcc6d3b5d7"
+    },
+    {
+      "name": "bolivia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
+    },
+    {
+      "name": "bonaire-sint-eustatius-and-saba",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
+    },
+    {
+      "name": "bosnia-and-herzegovina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bosnia-and-herzegovina.png?v=5f348db4ed4d"
+    },
+    {
+      "name": "botswana",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/botswana.png?v=79fe759fc073"
+    },
+    {
+      "name": "bouvet-island",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bouvet-island.png?v=f45a72487539"
+    },
+    {
+      "name": "brazil",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "british-indian-ocean-territory",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-indian-ocean-territory.png?v=6aeb90a709d1"
+    },
+    {
+      "name": "brunei-darussalam",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brunei-darussalam.png?v=799846cde940"
+    },
+    {
+      "name": "bulgaria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bulgaria.png?v=c64af6ce37f0"
+    },
+    {
+      "name": "burkina-faso",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burkina-faso.png?v=77ce2cd8771a"
+    },
+    {
+      "name": "burundi",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burundi.png?v=6c63b7aadbe7"
+    },
+    {
+      "name": "cabo-verde",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cabo-verde.png?v=1be92b78ac22"
+    },
+    {
+      "name": "cambodia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cambodia.png?v=233a785ecdc1"
+    },
+    {
+      "name": "cameroon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cameroon.png?v=08e2199b021f"
+    },
+    {
+      "name": "canada",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canada.png?v=cbb80311ea02"
+    },
+    {
+      "name": "cayman-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cayman-islands.png?v=19cd7dfa05a6"
+    },
+    {
+      "name": "central-african-republic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/central-african-republic.png?v=2624c8f081e6"
+    },
+    {
+      "name": "chad",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chad.png?v=0ebf77766253"
+    },
+    {
+      "name": "chile",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chile.png?v=7322373dd361"
+    },
+    {
+      "name": "china",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/china.png?v=880320af9779"
+    },
+    {
+      "name": "christmas-island",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/christmas-island.png?v=956a19669656"
+    },
+    {
+      "name": "cocos-keeling-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cocos-keeling-islands.png?v=e6eed4d969f2"
+    },
+    {
+      "name": "colombia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colombia.png?v=b03c90df17fd"
+    },
+    {
+      "name": "comoros",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/comoros.png?v=f65327a5ffc1"
+    },
+    {
+      "name": "cook-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cook-islands.png?v=98f248c6ab68"
+    },
+    {
+      "name": "costa-rica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e"
+    },
+    {
+      "name": "croatia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3"
+    },
+    {
+      "name": "cuba",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cuba.png?v=0e6ca652e2f5"
+    },
+    {
+      "name": "curacao",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b"
+    },
+    {
+      "name": "cyprus",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyprus.png?v=dcb7629cf868"
+    },
+    {
+      "name": "czech-republic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/czech-republic.png?v=ce949451d54c"
+    },
+    {
+      "name": "democratic-republic-of-congo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b"
+    },
+    {
+      "name": "denmark",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/denmark.png?v=698c6219917a"
+    },
+    {
+      "name": "djibouti",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/djibouti.png?v=e8055b033bee"
+    },
+    {
+      "name": "dominica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominica.png?v=ff3a24d62199"
+    },
+    {
+      "name": "dominican-republic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominican-republic.png?v=2998bd973006"
+    },
+    {
+      "name": "ecuador",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ecuador.png?v=d56593171a81"
+    },
+    {
+      "name": "egypt",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egypt.png?v=4fa429c1edcc"
+    },
+    {
+      "name": "el-salvador",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/el-salvador.png?v=5d36cc84688b"
+    },
+    {
+      "name": "equatorial-guinea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/equatorial-guinea.png?v=6d8b1a8fac3e"
+    },
+    {
+      "name": "eritrea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4"
+    },
+    {
+      "name": "estonia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72"
+    },
+    {
+      "name": "eswatini",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eswatini.png?v=efc6f4e2a0c3"
+    },
+    {
+      "name": "ethiopia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ethiopia.png?v=934c9dcb0891"
+    },
+    {
+      "name": "falkland-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/falkland-islands.png?v=23883e8e8dff"
+    },
+    {
+      "name": "faroe-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/faroe-islands.png?v=d7468e40e818"
+    },
+    {
+      "name": "federated-states-of-micronesia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/federated-states-of-micronesia.png?v=e78501aa65ef"
+    },
+    {
+      "name": "fiji",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fiji.png?v=ccd11897e245"
+    },
+    {
+      "name": "finland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd"
+    },
+    {
+      "name": "france",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "french-guiana",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-guiana.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "french-polynesia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-polynesia.png?v=6d63b685659a"
+    },
+    {
+      "name": "french-southern-territories",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d"
+    },
+    {
+      "name": "gabon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gabon.png?v=4b5f8fd9c39b"
+    },
+    {
+      "name": "gambia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gambia.png?v=b9ad803d5e54"
+    },
+    {
+      "name": "georgia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/georgia.png?v=fd593d2b8abe"
+    },
+    {
+      "name": "germany",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/germany.png?v=1d71059ff882"
+    },
+    {
+      "name": "ghana",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ghana.png?v=12c1c6f524e9"
+    },
+    {
+      "name": "gibraltar",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gibraltar.png?v=a37ab72f23d8"
+    },
+    {
+      "name": "greece",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greece.png?v=f7daee05263d"
+    },
+    {
+      "name": "greenland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greenland.png?v=a05e09539aed"
+    },
+    {
+      "name": "grenada",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57"
+    },
+    {
+      "name": "guadeloupe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guadeloupe.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "guam",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guam.png?v=96fd627bab24"
+    },
+    {
+      "name": "guatemala",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guatemala.png?v=bc470d21151f"
+    },
+    {
+      "name": "guernsey",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guernsey.png?v=881e3bd2582f"
+    },
+    {
+      "name": "guinea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea.png?v=25163c9ac964"
+    },
+    {
+      "name": "guinea-bissau",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea-bissau.png?v=688f4009d50d"
+    },
+    {
+      "name": "guyana",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guyana.png?v=f1ac438787de"
+    },
+    {
+      "name": "haiti",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c"
+    },
+    {
+      "name": "heard-island-and-mcdonald-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/heard-island-and-mcdonald-islands.png?v=6e455c3ff567"
+    },
+    {
+      "name": "honduras",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/honduras.png?v=1494ff88dc67"
+    },
+    {
+      "name": "hongkong",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+    },
+    {
+      "name": "hungary",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hungary.png?v=4fc0cf1d9606"
+    },
+    {
+      "name": "iceland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iceland.png?v=147d5d5aea23"
+    },
+    {
+      "name": "india",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/india.png?v=b6a6415dde4f"
+    },
+    {
+      "name": "indonesia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/indonesia.png?v=581378b82014"
+    },
+    {
+      "name": "iran",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iran.png?v=598b72909afb"
+    },
+    {
+      "name": "iraq",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iraq.png?v=29d31c2ec6c2"
+    },
+    {
+      "name": "ireland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ireland.png?v=80dd36c918ec"
+    },
+    {
+      "name": "isle-of-man",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/isle-of-man.png?v=4ffbdfbad787"
+    },
+    {
+      "name": "israel",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/israel.png?v=35b67194c70b"
+    },
+    {
+      "name": "italy",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a"
+    },
+    {
+      "name": "ivory-coast",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882"
+    },
+    {
+      "name": "jamaica",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jamaica.png?v=918a4daa2f6a"
+    },
+    {
+      "name": "japan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc"
+    },
+    {
+      "name": "jersey",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jersey.png?v=2a5542845f22"
+    },
+    {
+      "name": "jordan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e"
+    },
+    {
+      "name": "kazakhstan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kazakhstan.png?v=245bc3f30e99"
+    },
+    {
+      "name": "kenya",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kenya.png?v=9859dcf12997"
+    },
+    {
+      "name": "kiribati",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kiribati.png?v=17ae5e2ea215"
+    },
+    {
+      "name": "korea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
+    },
+    {
+      "name": "kuwait",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuwait.png?v=19be407d49d2"
+    },
+    {
+      "name": "kyrgyzstan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kyrgyzstan.png?v=55b9c4dc8408"
+    },
+    {
+      "name": "laos",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/laos.png?v=5232f8ed2e76"
+    },
+    {
+      "name": "latvia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/latvia.png?v=c3f817944adb"
+    },
+    {
+      "name": "lebanon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lebanon.png?v=8e3d89e08c95"
+    },
+    {
+      "name": "lesotho",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lesotho.png?v=74d35b8852cc"
+    },
+    {
+      "name": "liberia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liberia.png?v=798bd47df7e0"
+    },
+    {
+      "name": "libya",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/libya.png?v=3a93342762d7"
+    },
+    {
+      "name": "liechtenstein",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liechtenstein.png?v=12b141ba2a36"
+    },
+    {
+      "name": "lithuania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lithuania.png?v=10c94c03edeb"
+    },
+    {
+      "name": "luxembourg",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luxembourg.png?v=6d02476f7445"
+    },
+    {
+      "name": "macau",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/macau.png?v=40c4be48deb6"
+    },
+    {
+      "name": "madagascar",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/madagascar.png?v=08a2aba2a474"
+    },
+    {
+      "name": "malawi",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malawi.png?v=5b4112170008"
+    },
+    {
+      "name": "malaysia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malaysia.png?v=d090774d166a"
+    },
+    {
+      "name": "maldives",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maldives.png?v=598b8485d579"
+    },
+    {
+      "name": "mali",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mali.png?v=d117d7177522"
+    },
+    {
+      "name": "malta",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malta.png?v=80c3af4f9fb0"
+    },
+    {
+      "name": "marshall-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/marshall-islands.png?v=710460e9ad37"
+    },
+    {
+      "name": "martinique",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/martinique.png?v=ccda85fe0c24"
+    },
+    {
+      "name": "mauritania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritania.png?v=602caafae99f"
+    },
+    {
+      "name": "mauritius",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritius.png?v=896ceb02e493"
+    },
+    {
+      "name": "mayotte",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "mexico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da"
+    },
+    {
+      "name": "moldova",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/moldova.png?v=f8f8e22d9004"
+    },
+    {
+      "name": "monaco",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/monaco.png?v=27cc7d0220f4"
+    },
+    {
+      "name": "mongolia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mongolia.png?v=fed76bfbb238"
+    },
+    {
+      "name": "montenegro",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montenegro.png?v=cf37f1d536e1"
+    },
+    {
+      "name": "montserrat",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montserrat.png?v=dbf67f8df122"
+    },
+    {
+      "name": "morocco",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/morocco.png?v=1530ff64e43e"
+    },
+    {
+      "name": "mozambique",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mozambique.png?v=10c120ea70ff"
+    },
+    {
+      "name": "myanmar",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e"
+    },
+    {
+      "name": "namibia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1"
+    },
+    {
+      "name": "nauru",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd"
+    },
+    {
+      "name": "nepal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nepal.png?v=aef9ac4f012d"
+    },
+    {
+      "name": "netherlands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netherlands.png?v=c76573c54487"
+    },
+    {
+      "name": "new-caledonia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-caledonia.png?v=6933fa0f2e8c"
+    },
+    {
+      "name": "new-zealand",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45"
+    },
+    {
+      "name": "nicaragua",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nicaragua.png?v=ced76495a438"
+    },
+    {
+      "name": "niger",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niger.png?v=b4eda89dc993"
+    },
+    {
+      "name": "nigeria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
+    },
+    {
+      "name": "niue",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niue.png?v=800c8051e0e0"
+    },
+    {
+      "name": "norfolk-island",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norfolk-island.png?v=13de27b2f90d"
+    },
+    {
+      "name": "north-korea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-korea.png?v=e353da62f1b6"
+    },
+    {
+      "name": "north-macedonia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-macedonia.png?v=9a9885123201"
+    },
+    {
+      "name": "northern-mariana-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/northern-mariana-islands.png?v=9d485c8c37e1"
+    },
+    {
+      "name": "norway",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5"
+    },
+    {
+      "name": "oman",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f"
+    },
+    {
+      "name": "pakistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pakistan.png?v=877cc14ead18"
+    },
+    {
+      "name": "palau",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/palau.png?v=fe38f767bf7d"
+    },
+    {
+      "name": "panama",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/panama.png?v=c26fec9d98b5"
+    },
+    {
+      "name": "papua-new-guinea",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/papua-new-guinea.png?v=4425df130b06"
+    },
+    {
+      "name": "paraguay",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paraguay.png?v=d388b0b30ab4"
+    },
+    {
+      "name": "peru",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peru.png?v=777fd2b5834f"
+    },
+    {
+      "name": "philippines",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac"
+    },
+    {
+      "name": "pitcairn",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851"
+    },
+    {
+      "name": "poland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9"
+    },
+    {
+      "name": "portugal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7"
+    },
+    {
+      "name": "puerto-rico",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/puerto-rico.png?v=0c92dc02c242"
+    },
+    {
+      "name": "qatar",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba"
+    },
+    {
+      "name": "republic-of-congo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d"
+    },
+    {
+      "name": "reunion",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "romania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/romania.png?v=f2268e235bb4"
+    },
+    {
+      "name": "russia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da"
+    },
+    {
+      "name": "rwanda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
+    },
+    {
+      "name": "saint-barthelemy",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "saint-helena-ascension-and-tristan-da-cunha",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
+    },
+    {
+      "name": "saint-kitts-and-nevis",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770"
+    },
+    {
+      "name": "saint-lucia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529"
+    },
+    {
+      "name": "saint-martin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "saint-pierre-and-miquelon",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-pierre-and-miquelon.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "saint-vincent-and-the-grenadines",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-vincent-and-the-grenadines.png?v=652a76e4d828"
+    },
+    {
+      "name": "samoa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/samoa.png?v=2dbe3ea31180"
+    },
+    {
+      "name": "san-marino",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/san-marino.png?v=5983b7386585"
+    },
+    {
+      "name": "sao-tome-and-principe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
+    },
+    {
+      "name": "saudi-arabia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
+    },
+    {
+      "name": "senegal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/senegal.png?v=f98d9370b02d"
+    },
+    {
+      "name": "serbia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/serbia.png?v=fe33414010a2"
+    },
+    {
+      "name": "seychelles",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949"
+    },
+    {
+      "name": "sierra-leone",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496"
+    },
+    {
+      "name": "singapore",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "sint-maarten",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-maarten.png?v=f62ea36d4a5e"
+    },
+    {
+      "name": "slovakia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6"
+    },
+    {
+      "name": "slovenia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b"
+    },
+    {
+      "name": "solomon-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/solomon-islands.png?v=0ddcaa23ed12"
+    },
+    {
+      "name": "somalia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/somalia.png?v=dab66691cb29"
+    },
+    {
+      "name": "south-africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-africa.png?v=6ac2ea2c4869"
+    },
+    {
+      "name": "south-georgia-and-the-south-sandwich-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-georgia-and-the-south-sandwich-islands.png?v=fab53d16fff5"
+    },
+    {
+      "name": "south-sudan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-sudan.png?v=03c66d0c18c5"
+    },
+    {
+      "name": "spain",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spain.png?v=8ea0a966df2c"
+    },
+    {
+      "name": "sri-lanka",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce"
+    },
+    {
+      "name": "state-of-palestine",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/state-of-palestine.png?v=38dac2a2aa56"
+    },
+    {
+      "name": "sudan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sudan.png?v=7271b91a4022"
+    },
+    {
+      "name": "suriname",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suriname.png?v=938d688f7a7b"
+    },
+    {
+      "name": "svalbard-and-jan-mayen",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/svalbard-and-jan-mayen.png?v=da859910bcff"
+    },
+    {
+      "name": "sweden",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sweden.png?v=feedf440ac95"
+    },
+    {
+      "name": "switzerland",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/switzerland.png?v=e3891e28de51"
+    },
+    {
+      "name": "syria",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/syria.png?v=2dcc231be5f0"
+    },
+    {
+      "name": "taiwan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079"
+    },
+    {
+      "name": "tajikistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tajikistan.png?v=0acc4ea90931"
+    },
+    {
+      "name": "tanzania",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tanzania.png?v=8b3f275683ab"
+    },
+    {
+      "name": "thailand",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f"
+    },
+    {
+      "name": "timor-leste",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/timor-leste.png?v=9e85b0c68d3a"
+    },
+    {
+      "name": "togo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/togo.png?v=f682ec665910"
+    },
+    {
+      "name": "tokelau",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tokelau.png?v=384a3592abec"
+    },
+    {
+      "name": "tonga",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tonga.png?v=02d4325d9489"
+    },
+    {
+      "name": "trinidad-and-tobago",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
+    },
+    {
+      "name": "tunisia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
+    },
+    {
+      "name": "turkiye",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkiye.png?v=c27f1e153956"
+    },
+    {
+      "name": "turkmenistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkmenistan.png?v=36666330a042"
+    },
+    {
+      "name": "turks-and-caicos-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turks-and-caicos-islands.png?v=9b22271883e9"
+    },
+    {
+      "name": "tuvalu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
+    },
+    {
+      "name": "uganda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uganda.png?v=0a3716abc6d3"
+    },
+    {
+      "name": "ukraine",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a"
+    },
+    {
+      "name": "united-arab-emirates",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-arab-emirates.png?v=43df5c7bc87a"
+    },
+    {
+      "name": "united-kingdom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-kingdom.png?v=8331137553b6"
+    },
+    {
+      "name": "united-states-minor-outlying-islands",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-states-minor-outlying-islands.png?v=b642da68f0e2"
+    },
+    {
+      "name": "uruguay",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uruguay.png?v=8fae83ba1837"
+    },
+    {
+      "name": "usa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+    },
+    {
+      "name": "uzbekistan",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uzbekistan.png?v=fcc6267e2adc"
+    },
+    {
+      "name": "vanuatu",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vanuatu.png?v=32abed289908"
+    },
+    {
+      "name": "vatican-city",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vatican-city.png?v=c797542c540c"
+    },
+    {
+      "name": "venezuela",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/venezuela.png?v=1a19fabca44c"
+    },
+    {
+      "name": "vietnam",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vietnam.png?v=e3340597dc15"
+    },
+    {
+      "name": "virgin-islands-british",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-british.png?v=5207a3923e7f"
+    },
+    {
+      "name": "virgin-islands-u-s",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1"
+    },
+    {
+      "name": "wallis-and-futuna",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=4d239bf67ec3"
+    },
+    {
+      "name": "western-sahara",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/western-sahara.png?v=868186ba9b1b"
+    },
+    {
+      "name": "yemen",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yemen.png?v=bb0178f5f056"
+    },
+    {
+      "name": "zambia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zambia.png?v=2edf98798187"
+    },
+    {
+      "name": "zimbabwe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e"
+    }
+  ]
+}
