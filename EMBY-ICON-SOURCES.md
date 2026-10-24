@@ -29,7 +29,7 @@
 | [`emby-nanflix.png`](icons/emby-nanflix.png) | [原图](source-logos/emby/emby-nanflix.jpg) | [Nanflix@emby](https://t.me/Nanflix) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-nebula.png`](icons/emby-nebula.png) | [原图](source-logos/emby/emby-nebula.jpg) | [Nebula-Media（星云）](https://t.me/Nebula_Media) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-nijigen.png`](icons/emby-nijigen.png) | [原图](source-logos/emby/emby-nijigen.jpg) | [二次元emby 开学快乐](https://t.me/nijigen_emby) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
-| [`emby-nyamedia.png`](icons/emby-nyamedia.png) | [原图](source-logos/emby/emby-nyamedia.jpg) | [Nya Media Chat | 推点好看的电视剧来](https://t.me/nyamedia_chat) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
+| [`emby-nyamedia.png`](icons/emby-nyamedia.png) | [原图](source-logos/emby/emby-nyamedia.jpg) | [Nya Media Chat &#124; 推点好看的电视剧来](https://t.me/nyamedia_chat) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-odyssey.png`](icons/emby-odyssey.png) | [原图](source-logos/emby/emby-odyssey.jpg) | [Odyssey+](https://t.me/odysseyplus) | 原头像为临时影视宣传图；保留道路与双人构图，移除片名，改用 ODYSSEY+ 品牌字样。 |
 | [`emby-paper.png`](icons/emby-paper.png) | [原图](source-logos/emby/emby-paper.jpg) | [EmbyPlus 纸片人公告](https://t.me/embypluschannel) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-peach.png`](icons/emby-peach.png) | [原图](source-logos/emby/emby-peach.jpg) | [peach_公益服_频道](https://t.me/peachemby_channel) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
@@ -39,5 +39,5 @@
 | [`emby-sntp.png`](icons/emby-sntp.png) | [原图](source-logos/emby/emby-sntp.jpg) | [SNTP Media Lite 公益计划 v5](https://t.me/SNTP_Media_Lite_v3) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-starsho.png`](icons/emby-starsho.png) | [原图](source-logos/emby/emby-starsho.jpg) | [Starsho-Media（星烁）](https://t.me/StarshoMedia) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-terminus.png`](icons/emby-terminus.png) | [原图](source-logos/emby/emby-terminus.jpg) | [Emby终点站的公告栏](https://t.me/embypub) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
-| [`emby-uhd.png`](icons/emby-uhd.png) | [原图](source-logos/emby/emby-uhd.jpg) | [UHDNOW | 通知频道](https://t.me/UHDNOW) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
+| [`emby-uhd.png`](icons/emby-uhd.png) | [原图](source-logos/emby/emby-uhd.jpg) | [UHDNOW &#124; 通知频道](https://t.me/UHDNOW) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
 | [`emby-younoplus.png`](icons/emby-younoplus.png) | [原图](source-logos/emby/emby-younoplus.jpg) | [YounoEmby&Air](https://t.me/+qY2KVxZJqAdkNjA1) | 保留原主图的主体、主色和构图，统一水彩纸纹、圆角纸片和透明外角。 |
