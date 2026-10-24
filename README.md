@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **373** 个图标。
+当前共收录 **401** 个图标。
 
 ## 订阅入口
 
@@ -10,8 +10,8 @@
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 373 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 115 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 401 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 143 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
 | 国旗合集 | 国家及地区旗帜 | 258 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
 ### 总合集
@@ -34,6 +34,8 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 三个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集已经包含两个分类合集的全部条目。
 
+总合集固定按“应用与通用图标在前、国家及地区旗帜在后”排列，每组内部按英文 ID 排序；今后新增图标也沿用此顺序。
+
 ## 图片目录
 
 所有 PNG 图片统一放在 `icons/` 文件夹中，原始链接格式如下：
@@ -52,7 +54,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（115 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（143 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 [流媒体服务目录](STREAMING-SERVICES.md) | [图标素材来源](APP-ICON-SOURCES.md)
 
@@ -71,8 +73,10 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6" alt="bahamut-anime" width="72"> | bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime | [`bahamut-anime.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44" alt="bbc-iplayer" width="72"> | bbc-iplayer BBC iPlayer 英国 英劇 | [`bbc-iplayer.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png" alt="bilibili" width="72"> | bilibili 哔哩哔哩 B站 Bilibili | [`bilibili.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/binance.png?v=a1b1df0238b3" alt="binance" width="72"> | binance Binance 币安 幣安 加密货币 加密貨幣 | [`binance.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/binance.png?v=a1b1df0238b3) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939" alt="bluesky" width="72"> | bluesky Bluesky 蓝天 藍天 社交 | [`bluesky.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10" alt="britbox" width="72"> | britbox BritBox 英剧 英劇 | [`britbox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bybit.png?v=6358d2c53b3d" alt="bybit" width="72"> | bybit Bybit 拜比特 bubit 加密货币 加密貨幣 | [`bybit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bybit.png?v=6358d2c53b3d) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png" alt="chatgpt" width="72"> | chatgpt 对话助手 OpenAI | [`chatgpt.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png" alt="claude" width="72"> | claude 克劳德 Anthropic | [`claude.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61" alt="cloudflare" width="72"> | cloudflare Cloudflare CF 云服务 CDN | [`cloudflare.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61) |
@@ -90,16 +94,23 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9" alt="dmit" width="72"> | dmit 云服务器 | [`dmit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/dongqiudi.png" alt="dongqiudi" width="72"> | dongqiudi 懂球帝 | [`dongqiudi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=380e7edfa54e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986" alt="douyu" width="72"> | douyu 斗鱼 | [`douyu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramabox.png?v=d108ebe6721a" alt="dramabox" width="72"> | dramabox DramaBox 海外短剧 海外短劇 竖屏短剧 | [`dramabox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramabox.png?v=d108ebe6721a) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66" alt="dramawave" width="72"> | dramawave DramaWave 海外短剧 海外短劇 竖屏短剧 | [`dramawave.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d" alt="duolingo" width="72"> | duolingo 多邻国 多鄰國 Duo 学习 | [`duolingo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57" alt="ea" width="72"> | ea EA app 艺电 藝電 Electronic Arts Origin 游戏平台 | [`ea.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7" alt="emby" width="72"> | emby Emby 媒体库 媒體庫 影音服务器 | [`emby.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e" alt="espn" width="72"> | espn ESPN ESPN+ ESPN Select Unlimited 体育 體育 | [`espn.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf" alt="facebook" width="72"> | facebook 脸书 Facebook Meta | [`facebook.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f" alt="flickreels" width="72"> | flickreels FlickReels 海外短剧 海外短劇 竖屏短剧 | [`flickreels.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07" alt="fox-one" width="72"> | fox-one FOX One 福克斯 美国直播 | [`fox-one.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/freereels.png?v=fcd6d2ddcec9" alt="freereels" width="72"> | freereels FreeReels 海外短剧 海外短劇 竖屏短剧 | [`freereels.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/freereels.png?v=fcd6d2ddcec9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8" alt="fubo" width="72"> | fubo Fubo 美国体育电视 | [`fubo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png" alt="game-platforms" width="72"> | game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo | [`game-platforms.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png" alt="gemini" width="72"> | gemini 双子座 谷歌人工智能 Google | [`gemini.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png" alt="github" width="72"> | github 代码托管 | [`github.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158" alt="global" width="72"> | global 全球 Global | [`global.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png" alt="gmail" width="72"> | gmail 谷歌邮箱 Gmail | [`gmail.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035" alt="goodshort" width="72"> | goodshort GoodShort 海外短剧 海外短劇 竖屏短剧 | [`goodshort.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364" alt="google" width="72"> | google 谷歌 Google | [`google.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144" alt="google-cloud" width="72"> | google-cloud 谷歌云 谷歌雲 Google Cloud GCP | [`google-cloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png" alt="google-drive" width="72"> | google-drive 谷歌云盘 Google Drive | [`google-drive.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png) |
@@ -111,12 +122,16 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a" alt="hbomax" width="72"> | hbomax HBO Max 华纳流媒体 | [`hbomax.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png" alt="hulu" width="72"> | hulu 流媒体 | [`hulu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png" alt="hupu" width="72"> | hupu 虎扑 | [`hupu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/icloud.png?v=a5a26df8b623" alt="icloud" width="72"> | icloud iCloud 苹果云 蘋果雲 云存储 雲端儲存 | [`icloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/icloud.png?v=a5a26df8b623) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=dfa3769f7301" alt="instagram" width="72"> | instagram 照片社交 | [`instagram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=dfa3769f7301) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637" alt="itvx" width="72"> | itvx ITVX ITV 英国电视 | [`itvx.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67" alt="kakaotalk" width="72"> | kakaotalk KakaoTalk 卡考 韩国聊天 | [`kakaotalk.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kraken.png?v=4a8e55c60f61" alt="kraken" width="72"> | kraken Kraken 海妖 加密货币 加密貨幣 | [`kraken.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kraken.png?v=4a8e55c60f61) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png" alt="line" width="72"> | line 连我 聊天 | [`line.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74" alt="linetv" width="72"> | linetv LINE TV 台湾 台灣 追剧 | [`linetv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5" alt="linkedin" width="72"> | linkedin LinkedIn 领英 領英 职场社交 | [`linkedin.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png" alt="loon" width="72"> | loon 代理 | [`loon.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b" alt="melolo" width="72"> | melolo Melolo 海外短剧 海外短劇 竖屏短剧 | [`melolo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39" alt="messenger" width="72"> | messenger Messenger Facebook 脸书信使 | [`messenger.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad" alt="mgm-plus" width="72"> | mgm-plus MGM+ MGM Plus 米高梅 | [`mgm-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png" alt="microsoft" width="72"> | microsoft 微软 Microsoft | [`microsoft.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png) |
@@ -124,9 +139,13 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983" alt="mytvsuper" width="72"> | mytvsuper myTV SUPER TVB 香港 | [`mytvsuper.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84" alt="nba" width="72"> | nba NBA 篮球 籃球 League Pass | [`nba.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428" alt="netflix" width="72"> | netflix 奈飞 网飞 Netflix | [`netflix.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/netshort.png?v=60a78354462e" alt="netshort" width="72"> | netshort NetShort 海外短剧 海外短劇 竖屏短剧 | [`netshort.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/netshort.png?v=60a78354462e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256" alt="nfl" width="72"> | nfl NFL 美式橄榄球 NFL+ | [`nfl.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png" alt="nintendo" width="72"> | nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台 | [`nintendo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e" alt="notion" width="72"> | notion 笔记 筆記 工作空间 | [`notion.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a" alt="okx" width="72"> | okx OKX 欧易 歐易 加密货币 加密貨幣 | [`okx.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98" alt="omega" width="72"> | omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库 | [`omega.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde" alt="onedrive" width="72"> | onedrive OneDrive 微软云盘 微軟雲端硬碟 Microsoft 云存储 雲端儲存 | [`onedrive.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236" alt="oracle-cloud" width="72"> | oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI | [`oracle-cloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png" alt="paramount-plus" width="72"> | paramount-plus 派拉蒙 Paramount+ | [`paramount-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54" alt="paypal" width="72"> | paypal 贝宝 PayPal | [`paypal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54) |
@@ -135,12 +154,16 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png" alt="peacock" width="72"> | peacock 孔雀 Peacock | [`peacock.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1" alt="philo" width="72"> | philo Philo 美国电视直播 | [`philo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51" alt="pinterest" width="72"> | pinterest Pinterest 拼趣 图片收藏 | [`pinterest.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/pixiv.png?v=e3d000ac317b" alt="pixiv" width="72"> | pixiv pixiv P站 插画 插畫 创作社区 創作社群 | [`pixiv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/pixiv.png?v=e3d000ac317b) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png" alt="playstation" width="72"> | playstation 索尼 PS 游戏平台 | [`playstation.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e" alt="pluto-tv" width="72"> | pluto-tv Pluto TV 免费电视 免費電視 | [`pluto-tv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7" alt="pornhub" width="72"> | pornhub Pornhub PH 字标 | [`pornhub.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40" alt="primevideo" width="72"> | primevideo 亚马逊视频 Prime Video | [`primevideo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/qobuz.png?v=a701b78429b3" alt="qobuz" width="72"> | qobuz Qobuz 高解析音乐 高解析音樂 无损音乐 無損音樂 | [`qobuz.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/qobuz.png?v=a701b78429b3) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b" alt="reddit" width="72"> | reddit Reddit 红迪 紅迪 社区 | [`reddit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/reelshort.png?v=b0019bcb3df7" alt="reelshort" width="72"> | reelshort ReelShort 海外短剧 海外短劇 竖屏短剧 | [`reelshort.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/reelshort.png?v=b0019bcb3df7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9" alt="roku-channel" width="72"> | roku-channel The Roku Channel Roku 电视 | [`roku-channel.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shortmax.png?v=65d1f33d9aa5" alt="shortmax" width="72"> | shortmax ShortMax ShortTV 旧名 舊名 海外短剧 海外短劇 竖屏短剧 | [`shortmax.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shortmax.png?v=65d1f33d9aa5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd" alt="shudder" width="72"> | shudder Shudder 惊悚 恐怖影视 | [`shudder.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448" alt="signal" width="72"> | signal Signal 私密通讯 通訊 | [`signal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png" alt="skydance" width="72"> | skydance 天空之舞 Skydance | [`skydance.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png) |
@@ -150,12 +173,17 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2" alt="stan" width="72"> | stan Stan 澳大利亚 澳洲 影视 | [`stan.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8" alt="starz" width="72"> | starz STARZ 美国影视 | [`starz.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png" alt="steam" width="72"> | steam 蒸汽 Valve 游戏平台 | [`steam.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6" alt="suno" width="72"> | suno Suno AI音乐生成 AI音樂生成 人工智能音乐 人工智慧音樂 | [`suno.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | surge 网络代理 | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | tag 标签 | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604" alt="talkatone" width="72"> | talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話 | [`talkatone.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803" alt="threads" width="72"> | threads Threads 脆 文字社交 | [`threads.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tidal.png?v=ff7e95ecfcfe" alt="tidal" width="72"> | tidal TIDAL 潮汐音乐 潮汐音樂 无损音乐 無損音樂 | [`tidal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tidal.png?v=ff7e95ecfcfe) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | tiktok 抖音国际版 | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00" alt="trading212" width="72"> | trading212 Trading 212 Trading212 投资交易 投資交易 | [`trading212.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e" alt="tubi" width="72"> | tubi Tubi 免费影视 免費影視 | [`tubi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247" alt="tudou-saha" width="72"> | tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库 | [`tudou-saha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35" alt="tver" width="72"> | tver TVer 日本电视 | [`tver.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53" alt="tving" width="72"> | tving TVING 韩国 韓劇 流媒体 | [`tving.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0" alt="twitch" width="72"> | twitch 图奇 圖奇 游戏直播 | [`twitch.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0) |
@@ -164,8 +192,10 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def" alt="viutv" width="72"> | viutv ViuTV 香港 电视 | [`viutv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a" alt="wavve" width="72"> | wavve Wavve 韩国 韓劇 流媒体 | [`wavve.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9" alt="wechat" width="72"> | wechat 微信 WeChat Weixin 腾讯 騰訊 即时通讯 | [`wechat.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/weibo.png" alt="weibo" width="72"> | weibo 微博 新浪 Sina | [`weibo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wise.png?v=717ee5d703df" alt="wise" width="72"> | wise Wise 国际汇款 國際匯款 转账 轉帳 | [`wise.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wise.png?v=717ee5d703df) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06" alt="x" width="72"> | x 推特 Twitter | [`x.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png" alt="xbox" width="72"> | xbox 微软 游戏平台 | [`xbox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/xiaohongshu.png" alt="xiaohongshu" width="72"> | xiaohongshu 小红书 REDnote | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=47b41ea33993) |
@@ -459,7 +489,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用补充候选
 
-本次新增的 50 款流媒体与社交应用已收录于上表，不再列为待补充项。后续候选包括 Copilot、Perplexity；[候选说明](APP-CANDIDATES.md)区分网络分流、服务地区和内容版权限制。
+本次另补充 28 项应用及私人服务器图标，EA／EA app 已收录；此前 50 款流媒体与社交应用仍保留。后续候选及服务边界见[候选说明](APP-CANDIDATES.md)。
 
 ## 说明
 

@@ -77,3 +77,42 @@
 - **体育不能承诺换出口即全赛事解锁**：NBA League Pass、MLB.TV 有赛事与地区限制；NFL+ 官方仅面向美国，不代表整个 NFL 品牌在国际上没有其他产品。[NBA blackout 指南](https://support.watch.nba.com/hc/en-us/articles/115002481154-League-Pass-Blackout-Guide)、[MLB 官方限制说明](https://support.mlb.com/s/article/Check-for-Local-Blackouts?language=en_US)、[NFL+ 官方地区说明](https://support.nfl.com/hc/en-us/articles/35869824536724-Where-is-NFL-available)
 
 本批不加入 Freevee、Showtime Go、Quibi 等旧服务条目。本文不是订阅价格、完整片库或所有地区资格的比较表；后续服务变更应优先以对应官方公告为准。
+
+## 2026-10-24 补充 28 项
+
+本次另外新增 **28 项**：`binance`、`bybit`、`dramabox`、`dramawave`、`ea`、`emby`、`flickreels`、`freereels`、`goodshort`、`icloud`、`kraken`、`linkedin`、`melolo`、`netshort`、`okx`、`omega`、`onedrive`、`pixiv`、`qobuz`、`reelshort`、`shortmax`、`suno`、`talkatone`、`tidal`、`trading212`、`tudou-saha`、`wechat`、`wise`。当前总合集 **401** 项、应用合集 **143** 项、旗帜 **258** 项；此前 50 项表格作为上一批记录保留。
+
+本批包含 9 款海外竖屏短剧应用；选题参考 [Sensor Tower《State of Short Drama Apps 2026》](https://sensortower.com/blog/state-of-short-drama-apps-2026-report)，品牌身份与图标参考以表中官网及开发者商店页面为准。
+
+| ID | 中英文检索名 | 类别 | 服务边界 |
+| --- | --- | --- | --- |
+| `binance` | binance Binance 币安 幣安 加密货币 加密貨幣 | 数字资产品牌识别 | 使用 Binance 品牌标志，币安／幣安作为检索名称。 |
+| `bybit` | bybit Bybit 拜比特 bubit 加密货币 加密貨幣 | 数字资产品牌识别 | 拜比特、bubit 为检索别名，统一使用 Bybit 品牌 ID。 |
+| `dramabox` | dramabox DramaBox 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | DramaBox 独立品牌图标，中英文短剧词用于检索。 |
+| `dramawave` | dramawave DramaWave 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | 以 SKYWORK AI PTE LTD 的 DramaWave 应用为准，与 FreeReels 分列。 |
+| `ea` | ea EA app 艺电 藝電 Electronic Arts Origin 游戏平台 | 游戏平台 | 以 EA 官方标志为参考；Origin 仅作检索别名，不新增第二个条目。 |
+| `emby` | emby Emby 媒体库 媒體庫 影音服务器 | 自托管媒体服务器 | 通用 Emby 软件标识；不是某个私人服务器，也不是付费影视订阅平台。 |
+| `flickreels` | flickreels FlickReels 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | 以 FARSUN PTE. LTD. 的 FlickReels 应用为准。 |
+| `freereels` | freereels FreeReels 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | SKYWORK AI PTE.LTD. 的 Android 应用，独立于 DramaReels、ReelShort 及其他同名应用。 |
+| `goodshort` | goodshort GoodShort 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | GoodShort 独立品牌图标，不与其他短剧平台合并。 |
+| `icloud` | icloud iCloud 苹果云 蘋果雲 云存储 雲端儲存 | 云存储品牌识别 | 独立识别 iCloud 品牌，不与已有 Apple 通用图标合并。 |
+| `kraken` | kraken Kraken 海妖 加密货币 加密貨幣 | 数字资产品牌识别 | 海妖为中文检索别名，与 Kraken 共用一个条目。 |
+| `linkedin` | linkedin LinkedIn 领英 領英 职场社交 | 职场社交 | 以官方品牌资源与应用图标为参考。 |
+| `melolo` | melolo Melolo 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | 以 POLIGON PTE. LTD. 的 Melolo 为准，不是 MeloShort；官方域名为 melolo.org，不引用无关的 melolo.com。 |
+| `netshort` | netshort NetShort 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | NetShort 独立品牌图标，中英文短剧词用于检索。 |
+| `okx` | okx OKX 欧易 歐易 加密货币 加密貨幣 | 数字资产品牌识别 | 欧易／歐易与 OKX 共用一个品牌 ID，不新增别名副本。 |
+| `omega` | omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库 | 用户自定义 Emby 服务器 | 橙色倾斜椭圆环与暖红内缘；小图以符号为主。不是腕表品牌，也不是 Emby 官方标志；不推测服务器地址。 |
+| `onedrive` | onedrive OneDrive 微软云盘 微軟雲端硬碟 Microsoft 云存储 雲端儲存 | 云存储品牌识别 | 独立识别 OneDrive 品牌，不与 Microsoft 通用图标合并。 |
+| `pixiv` | pixiv pixiv P站 插画 插畫 创作社区 創作社群 | 插画创作社区识别 | P站仅作本条目的中文搜索别名；不与其他使用相似简称的网站合并。 |
+| `qobuz` | qobuz Qobuz 高解析音乐 高解析音樂 无损音乐 無損音樂 | 音乐流媒体 | 使用本次参考中的 qobuz 字标，不使用旧版唱片式 q 标志。 |
+| `reelshort` | reelshort ReelShort 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | ReelShort 独立于 FreeReels，两者分别维护。 |
+| `shortmax` | shortmax ShortMax ShortTV 旧名 舊名 海外短剧 海外短劇 竖屏短剧 | 海外竖屏短剧 | ShortTV 只作为 ShortMax 的旧名检索别名，仍是一个条目；shortmax.com 当前跳转至 shorttv.live。 |
+| `suno` | suno Suno AI音乐生成 AI音樂生成 人工智能音乐 人工智慧音樂 | AI 音乐创作品牌识别 | Suno 的 AI 音乐生成品牌图标，独立于音乐播放平台。 |
+| `talkatone` | talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話 | 网络电话品牌识别 | Talkatone 网络电话品牌图标，VoIP 与中文名称用于检索。 |
+| `tidal` | tidal TIDAL 潮汐音乐 潮汐音樂 无损音乐 無損音樂 | 音乐流媒体 | 以官方应用图标中的几何菱形标志为参考。 |
+| `trading212` | trading212 Trading 212 Trading212 投资交易 投資交易 | 投资平台品牌识别 | 以本次 App Store 参考的蓝色拱形／无横杠 A 标志为准，保留原几何并转为米白纸底，不使用数字 212 字标；Trading 212 与 Trading212 共用一个品牌 ID。 |
+| `tudou-saha` | tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库 | 用户私人 Emby 服务器 | 原创土豆与播放符号组合；与通用 Emby、Omega 分列，不编造官方来源或服务器端点。 |
+| `wechat` | wechat 微信 WeChat Weixin 腾讯 騰訊 即时通讯 | 即时通讯 | 以经典绿色与重叠白色聊天气泡标志为参考。 |
+| `wise` | wise Wise 国际汇款 國際匯款 转账 轉帳 | 汇款品牌识别 | Wise 品牌图标，国际汇款与转账为用途检索词。 |
+
+图标与检索别名仅用于品牌识别，不构成投资建议。收录及来源链接不保证服务资格、网络访问或地区解锁。

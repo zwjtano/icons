@@ -28,7 +28,6 @@
 | Dropbox | 文件同步／协作 | 尚未收录 | [Dropbox](https://www.dropbox.com/) |
 | Epic Games／Epic Games Store | 游戏平台 | 尚未收录 | [Epic Games Store](https://store.epicgames.com/) |
 | Battle.net | 游戏平台 | 尚未收录 | [Battle.net](https://www.blizzard.com/apps/battle.net/desktop) |
-| EA／EA app | 游戏平台 | 尚未收录 | [EA app](https://www.ea.com/ea-app) |
 
 ## 服务变更与使用边界
 
@@ -38,3 +37,43 @@
 - 不新增 Freevee、Showtime Go、Quibi 等旧服务；不把 Viu 与 ViuTV、YouTube TV 与 YouTube、LINE TV 与 LINE、PBS 与 PBS KIDS 合并。
 - 本目录面向中国大陆分流客户端的图标识别，不提供代理规则、固定国家要求或解锁保证。剩余候选也不代表“中国大陆全境必须代理”；账号、地区、付款、设备与实际网络情况须分别判断。
 
+## 2026-10-24 补充 28 项
+
+本次另外新增 **28 项**：`binance`、`bybit`、`dramabox`、`dramawave`、`ea`、`emby`、`flickreels`、`freereels`、`goodshort`、`icloud`、`kraken`、`linkedin`、`melolo`、`netshort`、`okx`、`omega`、`onedrive`、`pixiv`、`qobuz`、`reelshort`、`shortmax`、`suno`、`talkatone`、`tidal`、`trading212`、`tudou-saha`、`wechat`、`wise`。当前总合集 **401** 项、应用合集 **143** 项、旗帜 **258** 项；此前 50 项表格作为上一批记录保留。
+
+本批包含 9 款海外竖屏短剧应用；选题参考 [Sensor Tower《State of Short Drama Apps 2026》](https://sensortower.com/blog/state-of-short-drama-apps-2026-report)，品牌身份与图标参考以表中官网及开发者商店页面为准。
+
+EA／EA app 已收录，不再属于待补充候选。
+
+| ID | 类别 | 收录状态 |
+| --- | --- | --- |
+| `binance` | 数字资产品牌识别 | 已收录 |
+| `bybit` | 数字资产品牌识别 | 已收录 |
+| `dramabox` | 海外竖屏短剧 | 已收录 |
+| `dramawave` | 海外竖屏短剧 | 已收录 |
+| `ea` | 游戏平台 | 已收录 |
+| `emby` | 自托管媒体服务器 | 已收录 |
+| `flickreels` | 海外竖屏短剧 | 已收录 |
+| `freereels` | 海外竖屏短剧 | 已收录 |
+| `goodshort` | 海外竖屏短剧 | 已收录 |
+| `icloud` | 云存储品牌识别 | 已收录 |
+| `kraken` | 数字资产品牌识别 | 已收录 |
+| `linkedin` | 职场社交 | 已收录 |
+| `melolo` | 海外竖屏短剧 | 已收录 |
+| `netshort` | 海外竖屏短剧 | 已收录 |
+| `okx` | 数字资产品牌识别 | 已收录 |
+| `omega` | 用户自定义 Emby 服务器 | 已收录 |
+| `onedrive` | 云存储品牌识别 | 已收录 |
+| `pixiv` | 插画创作社区识别 | 已收录 |
+| `qobuz` | 音乐流媒体 | 已收录 |
+| `reelshort` | 海外竖屏短剧 | 已收录 |
+| `shortmax` | 海外竖屏短剧 | 已收录 |
+| `suno` | AI 音乐创作品牌识别 | 已收录 |
+| `talkatone` | 网络电话品牌识别 | 已收录 |
+| `tidal` | 音乐流媒体 | 已收录 |
+| `trading212` | 投资平台品牌识别 | 已收录 |
+| `tudou-saha` | 用户私人 Emby 服务器 | 已收录 |
+| `wechat` | 即时通讯 | 已收录 |
+| `wise` | 汇款品牌识别 | 已收录 |
+
+图标与检索别名仅用于品牌识别，不构成投资建议。收录及来源链接不保证服务资格、网络访问或地区解锁。
