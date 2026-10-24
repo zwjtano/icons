@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **494** 个图标。
+当前共收录 **499** 个图标。
 
 ## 订阅入口
 
@@ -10,8 +10,8 @@
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 494 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 236 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 499 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 241 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
 | Emby 合集 | Emby 服务器品牌，名称统一以 Emby 开头 | 33 | <https://raw.githubusercontent.com/zwjtano/icons/main/emby.json> |
 | 国旗合集 | 国家及地区旗帜 | 258 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 四个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集包含各分类全部条目；Emby 的 33 项同时包含在应用合集中。
 
-总合集固定按“普通应用与通用图标、机场组、国家及地区旗帜”的顺序排列；每个子组内部按英文 ID 排序。机场组在应用合集中连续排列，并带统一名称前缀，今后新增图标也沿用此规则。
+总合集固定按“应用 → 机场 → Emby → 六张洲地图 → 南极洲 → 其他国旗”排列；机场组为 airports.json 的全部 64 项（含 loon、surge、tag、wd），Emby 组含原 emby、omega、tudou-saha 和 Emby 专属订阅的 33 项，共 36 项；六张洲地图依次为亚洲、欧洲、非洲、北美洲、南美洲、大洋洲。其余应用、机场、Emby 和其余国旗各自按英文 ID 排序，今后新增图标也沿用此顺序；分组成员维护在 `icon-groups.json`。
 
 
 ## 机场图标
@@ -77,7 +77,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（236 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（241 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 [流媒体服务目录](STREAMING-SERVICES.md) | [图标素材来源](APP-ICON-SOURCES.md)
 
@@ -92,7 +92,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png" alt="apple-fitness" width="72"> | apple-fitness 苹果健身 Apple Fitness+ | [`apple-fitness.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png" alt="apple-music" width="72"> | apple-music 苹果音乐 Apple Music | [`apple-music.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png" alt="apple-tv" width="72"> | apple-tv 苹果电视 Apple TV | [`apple-tv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279" alt="asia" width="72"> | asia 亚洲 Asia | [`asia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6" alt="bahamut-anime" width="72"> | bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime | [`bahamut-anime.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44" alt="bbc-iplayer" width="72"> | bbc-iplayer BBC iPlayer 英国 英劇 | [`bbc-iplayer.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png" alt="bilibili" width="72"> | bilibili 哔哩哔哩 B站 Bilibili | [`bilibili.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png) |
@@ -121,7 +120,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66" alt="dramawave" width="72"> | dramawave DramaWave 海外短剧 海外短劇 竖屏短剧 | [`dramawave.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d" alt="duolingo" width="72"> | duolingo 多邻国 多鄰國 Duo 学习 | [`duolingo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57" alt="ea" width="72"> | ea EA app 艺电 藝電 Electronic Arts Origin 游戏平台 | [`ea.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ea.png?v=0c7fe7c6af57) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7" alt="emby" width="72"> | emby Emby 媒体库 媒體庫 影音服务器 | [`emby.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e" alt="espn" width="72"> | espn ESPN ESPN+ ESPN Select Unlimited 体育 體育 | [`espn.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf" alt="facebook" width="72"> | facebook 脸书 Facebook Meta | [`facebook.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f" alt="flickreels" width="72"> | flickreels FlickReels 海外短剧 海外短劇 竖屏短剧 | [`flickreels.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flickreels.png?v=243a4475056f) |
@@ -153,7 +151,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png" alt="line" width="72"> | line 连我 聊天 | [`line.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74" alt="linetv" width="72"> | linetv LINE TV 台湾 台灣 追剧 | [`linetv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5" alt="linkedin" width="72"> | linkedin LinkedIn 领英 領英 职场社交 | [`linkedin.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkedin.png?v=32392c30ffe5) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png" alt="loon" width="72"> | loon 代理 | [`loon.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b" alt="melolo" width="72"> | melolo Melolo 海外短剧 海外短劇 竖屏短剧 | [`melolo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/melolo.png?v=c7a1a133208b) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39" alt="messenger" width="72"> | messenger Messenger Facebook 脸书信使 | [`messenger.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad" alt="mgm-plus" width="72"> | mgm-plus MGM+ MGM Plus 米高梅 | [`mgm-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad) |
@@ -167,7 +164,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png" alt="nintendo" width="72"> | nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台 | [`nintendo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e" alt="notion" width="72"> | notion 笔记 筆記 工作空间 | [`notion.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a" alt="okx" width="72"> | okx OKX 欧易 歐易 加密货币 加密貨幣 | [`okx.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/okx.png?v=a74b23b93d9a) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98" alt="omega" width="72"> | omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库 | [`omega.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde" alt="onedrive" width="72"> | onedrive OneDrive 微软云盘 微軟雲端硬碟 Microsoft 云存储 雲端儲存 | [`onedrive.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/onedrive.png?v=f47b817f5bde) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236" alt="oracle-cloud" width="72"> | oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI | [`oracle-cloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png" alt="paramount-plus" width="72"> | paramount-plus 派拉蒙 Paramount+ | [`paramount-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png) |
@@ -197,8 +193,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8" alt="starz" width="72"> | starz STARZ 美国影视 | [`starz.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png" alt="steam" width="72"> | steam 蒸汽 Valve 游戏平台 | [`steam.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6" alt="suno" width="72"> | suno Suno AI音乐生成 AI音樂生成 人工智能音乐 人工智慧音樂 | [`suno.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/suno.png?v=13ddbadfcef6) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | surge 网络代理 | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | TAG 机场 | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604" alt="talkatone" width="72"> | talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話 | [`talkatone.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803" alt="threads" width="72"> | threads Threads 脆 文字社交 | [`threads.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803) |
@@ -206,7 +200,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | tiktok 抖音国际版 | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00" alt="trading212" width="72"> | trading212 Trading 212 Trading212 投资交易 投資交易 | [`trading212.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/trading212.png?v=3ff3b69a9c00) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e" alt="tubi" width="72"> | tubi Tubi 免费影视 免費影視 | [`tubi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247" alt="tudou-saha" width="72"> | tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库 | [`tudou-saha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35" alt="tver" width="72"> | tver TVer 日本电视 | [`tver.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53" alt="tving" width="72"> | tving TVING 韩国 韓劇 流媒体 | [`tving.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0" alt="twitch" width="72"> | twitch 图奇 圖奇 游戏直播 | [`twitch.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0) |
@@ -214,7 +207,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24" alt="viu" width="72"> | viu Viu 亚洲剧集 | [`viu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def" alt="viutv" width="72"> | viutv ViuTV 香港 电视 | [`viutv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a" alt="wavve" width="72"> | wavve Wavve 韩国 韓劇 流媒体 | [`wavve.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9" alt="wechat" width="72"> | wechat 微信 WeChat Weixin 腾讯 騰訊 即时通讯 | [`wechat.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wechat.png?v=9be0aeeac8e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/weibo.png" alt="weibo" width="72"> | weibo 微博 新浪 Sina | [`weibo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
@@ -226,6 +218,70 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974" alt="youtube-tv" width="72"> | youtube-tv YouTube TV 美国电视直播 | [`youtube-tv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee" alt="zalo" width="72"> | zalo Zalo 越南聊天 | [`zalo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | zhihu 知乎 | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d" alt="agentneo" width="72"> | 机场组 · AgentNEO | [`agentneo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2" alt="aladdin" width="72"> | 机场组 · Aladdin | [`aladdin.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b" alt="amytelecom" width="72"> | 机场组 · 按摩院 AmyTelecom | [`amytelecom.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef" alt="ark" width="72"> | 机场组 · ARK | [`ark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d" alt="ash" width="72"> | 机场组 · ASH | [`ash.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f" alt="bywave" width="72"> | 机场组 · 白月光 ByWave | [`bywave.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96" alt="coffeecloud-wordmark" width="72"> | 机场组 · 咖啡云 CoffeeCloud 文字设计版 | [`coffeecloud-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9" alt="creamdata" width="72"> | 机场组 · 奶油 CreamData | [`creamdata.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955" alt="cyou" width="72"> | 机场组 · cyou 次元链接 CyLink Cylink | [`cyou.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb" alt="dagcloud" width="72"> | 机场组 · dagcloud 大哥云 DGY | [`dagcloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358" alt="erwans-wordmark" width="72"> | 机场组 · erwans 尔湾云 文字设计版 | [`erwans-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422" alt="fastlink" width="72"> | 机场组 · FastLink | [`fastlink.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a" alt="fastnode" width="72"> | 机场组 · FastNode | [`fastnode.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309" alt="feijicloud-wordmark" width="72"> | 机场组 · feijicloud 飞机云 文字设计版 | [`feijicloud-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff" alt="flashfox" width="72"> | 机场组 · 闪狐云 FlashFox | [`flashfox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113" alt="fliggy-wordmark" width="72"> | 机场组 · 飞天猪 Fliggy 文字设计版 | [`fliggy-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246" alt="flowercloud" width="72"> | 机场组 · 花云 FlowerCloud | [`flowercloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3" alt="flyingbird-wordmark" width="72"> | 机场组 · 飞鸟 FlyingBird 文字设计版 | [`flyingbird-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b" alt="flyint" width="72"> | 机场组 · Flyint飞数 | [`flyint.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae" alt="foo-and-friends" width="72"> | 机场组 · foo-and-friends Foo&amp;Friends FNF | [`foo-and-friends.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff" alt="funda" width="72"> | 机场组 · 纷达网络 Fenda Funda | [`funda.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b" alt="galaxycloud" width="72"> | 机场组 · 银河云GalaxyCloud | [`galaxycloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5" alt="haitunwan" width="72"> | 机场组 · haitunwan 海豚湾 Hitun | [`haitunwan.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc" alt="immtel" width="72"> | 机场组 · ImmTel ImmTelecom | [`immtel.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9" alt="jifengyun-wordmark" width="72"> | 机场组 · jifengyun 疾风云 文字设计版 | [`jifengyun-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece" alt="koodog" width="72"> | 机场组 · KooDog | [`koodog.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0" alt="kukuyun" width="72"> | 机场组 · 酷酷云KuKuYun | [`kukuyun.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6" alt="kuromis" width="72"> | 机场组 · 库洛米Kuromis | [`kuromis.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696" alt="kycloud-wordmark" width="72"> | 机场组 · KyCloud 文字设计版 | [`kycloud-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4" alt="lanfanyun" width="72"> | 机场组 · lanfanyun 蓝帆云 | [`lanfanyun.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0" alt="linkcube" width="72"> | 机场组 · LinkCube | [`linkcube.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5" alt="longmaoyun" width="72"> | 机场组 · longmaoyun 龙猫云 | [`longmaoyun.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png" alt="loon" width="72"> | 机场组 · loon 代理 Airport | [`loon.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99" alt="luckin" width="72"> | 机场组 · Luckin | [`luckin.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30" alt="maoxiong" width="72"> | 机场组 · maoxiong 猫熊网络 | [`maoxiong.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d" alt="march7-wordmark" width="72"> | 机场组 · 三月七 March7 文字设计版 | [`march7-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764" alt="mesl" width="72"> | 机场组 · MESL | [`mesl.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca" alt="miaona" width="72"> | 机场组 · Miaona | [`miaona.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4" alt="myjs" width="72"> | 机场组 · myjs 魅影极速 MAYING | [`myjs.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b" alt="nerwo" width="72"> | 机场组 · Nerwo奶瓶 | [`nerwo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3" alt="nexitally" width="72"> | 机场组 · 奶昔 Nexitally | [`nexitally.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8" alt="nexuscloud-wordmark" width="72"> | 机场组 · 咸鱼加速器 NexusCloud 文字设计版 | [`nexuscloud-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb" alt="ouo" width="72"> | 机场组 · OuO Network | [`ouo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6" alt="paofuyun" width="72"> | 机场组 · paofuyun 泡芙云 | [`paofuyun.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c" alt="qingyunti" width="72"> | 机场组 · qingyunti 青云梯 | [`qingyunti.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68" alt="shaoshupai" width="72"> | 机场组 · shaoshupai 少数派 SSP | [`shaoshupai.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5" alt="shouhou" width="72"> | 机场组 · shouhou 守候网络 | [`shouhou.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc" alt="sslinks" width="72"> | 机场组 · ssLinks | [`sslinks.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2" alt="ssrcloud" width="72"> | 机场组 · ssrcloud | [`ssrcloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | 机场组 · surge 网络代理 Airport | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa" alt="suying666-wordmark" width="72"> | 机场组 · 速鹰666 Suying666 文字设计版 | [`suying666-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9" alt="suyunti-wordmark" width="72"> | 机场组 · suyunti 速云梯 文字设计版 | [`suyunti-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | 机场组 · TAG 机场 Airport | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032" alt="tianhang-wordmark" width="72"> | 机场组 · tianhang 天航 文字设计版 | [`tianhang-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da" alt="v2paw" width="72"> | 机场组 · V2Paw | [`v2paw.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903" alt="v2tun" width="72"> | 机场组 · V2Tun | [`v2tun.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | 机场组 · wd 西部数据 Western Digital Airport | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca" alt="wdcloud" width="72"> | 机场组 · 西部数据 WestData WDCloud | [`wdcloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c" alt="xiaoxuanfeng-wordmark" width="72"> | 机场组 · xiaoxuanfeng 小旋风 文字设计版 | [`xiaoxuanfeng-wordmark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5" alt="xlinkworld" width="72"> | 机场组 · Xlinkworld | [`xlinkworld.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e" alt="yepfast" width="72"> | 机场组 · Yepfast椰皮加速 | [`yepfast.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705" alt="yiyunti" width="72"> | 机场组 · yiyunti 一云梯 | [`yiyunti.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188" alt="ytoo" width="72"> | 机场组 · YToo YTOO | [`ytoo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace" alt="yunyi" width="72"> | 机场组 · yunyi 云翼网络 | [`yunyi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace) |
 
 ## Emby 服务器图标
 
@@ -233,8 +289,11 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 名称统一以 `Emby` 开头；Misty 为已标注的历史品牌。收录用于图标识别，不代表服务可用性或推荐。
 
+本区按分组顺序展示 36 项：专属订阅 33 项加上原 `emby`、`omega`、`tudou-saha` 三项；原三项保留既有名称，前述统一 Emby 名称前缀仅指专属订阅，不改写 `emby.json`。
+
 | 预览 | 中英文名称 | 原始链接 |
 | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7" alt="emby" width="72"> | emby Emby 媒体库 媒體庫 影音服务器 | [`emby.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26" width="72" alt="Emby 垃圾影音 1111 Loser"> | Emby 垃圾影音 1111 Loser | [`emby-1111.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175" width="72" alt="Emby AlphaTV 海外服 Alpha"> | Emby AlphaTV 海外服 Alpha | [`emby-alpha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3" width="72" alt="Emby 结束乐队 結束Band Bocchi AIVBI"> | Emby 结束乐队 結束Band Bocchi AIVBI | [`emby-bocchi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3) |
@@ -268,6 +327,19 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972" width="72" alt="Emby 终点站 終點站 Terminus"> | Emby 终点站 終點站 Terminus | [`emby-terminus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79" width="72" alt="Emby UHD UHDNOW Next Media Server"> | Emby UHD UHDNOW Next Media Server | [`emby-uhd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf" width="72" alt="Emby YounoPlus Youno YounoEmby"> | Emby YounoPlus Youno YounoEmby | [`emby-younoplus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98" alt="omega" width="72"> | omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库 | [`omega.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247" alt="tudou-saha" width="72"> | tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库 | [`tudou-saha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247) |
+
+## 洲地图图标
+
+| 预览 | 中英文名称 | 原始链接 |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96" alt="asia" width="72"> | asia 亚洲 Asia | [`asia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721" alt="europe" width="72"> | europe 欧洲 歐洲 Europe | [`europe.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82" alt="africa" width="72"> | africa 非洲 Africa | [`africa.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041" alt="north-america" width="72"> | north-america 北美洲 North America 北美 | [`north-america.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5" alt="south-america" width="72"> | south-america 南美洲 South America 南美 | [`south-america.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563" alt="oceania" width="72"> | oceania 大洋洲 Oceania 澳大利亚洲 | [`oceania.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563) |
 
 ## 国家及地区旗帜
 
@@ -282,6 +354,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 | 预览 | ISO | 中文 | English | 原始链接 |
 | --- | --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd" alt="antarctica" width="64"> | `AQ` | 南极洲 | Antarctica | [`antarctica.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce" alt="afghanistan" width="64"> | `AF` | 阿富汗 | Afghanistan | [`afghanistan.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e" alt="aland-islands" width="64"> | `AX` | 奥兰群岛 | Aland Islands | [`aland-islands.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a" alt="albania" width="64"> | `AL` | 阿尔巴尼亚 | Albania | [`albania.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a) |
@@ -290,7 +363,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c" alt="andorra" width="64"> | `AD` | 安道尔 | Andorra | [`andorra.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b" alt="angola" width="64"> | `AO` | 安哥拉 | Angola | [`angola.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d" alt="anguilla" width="64"> | `AI` | 安圭拉 | Anguilla | [`anguilla.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd" alt="antarctica" width="64"> | `AQ` | 南极洲 | Antarctica | [`antarctica.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455" alt="antigua-and-barbuda" width="64"> | `AG` | 安提瓜和巴布达 | Antigua and Barbuda | [`antigua-and-barbuda.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514" alt="argentina" width="64"> | `AR` | 阿根廷 | Argentina | [`argentina.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c" alt="armenia" width="64"> | `AM` | 亚美尼亚 | Armenia | [`armenia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c) |
