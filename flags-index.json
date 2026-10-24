@@ -515,7 +515,7 @@
       "name": "Bonaire, Sint Eustatius and Saba",
       "name_zh": "荷属加勒比区",
       "name_zh_hant": "荷蘭加勒比區",
-      "display_name": "BQ 荷属加勒比区 Bonaire, Sint Eustatius and Saba 荷蘭加勒比區",
+      "display_name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目",
       "icon": "bonaire-sint-eustatius-and-saba",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167",
       "aliases": [
@@ -526,7 +526,9 @@
         "荷属加勒比区",
         "荷蘭加勒比區"
       ],
-      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bq.svg"
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bq.svg",
+      "flag_kind": "aggregate",
+      "status_zh": "ISO 合并条目，使用荷兰旗；三岛各旗另列。"
     },
     {
       "code": "BR",
@@ -3434,9 +3436,9 @@
     {
       "code": "SH",
       "name": "Saint Helena, Ascension and Tristan da Cunha",
-      "name_zh": "圣赫勒拿",
+      "name_zh": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
       "name_zh_hant": "聖赫勒拿島",
-      "display_name": "SH 圣赫勒拿 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿島",
+      "display_name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目",
       "icon": "saint-helena-ascension-and-tristan-da-cunha",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6",
       "aliases": [
@@ -3447,7 +3449,9 @@
         "圣赫勒拿",
         "聖赫勒拿島"
       ],
-      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sh.svg"
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sh.svg",
+      "flag_kind": "aggregate",
+      "status_zh": "ISO 合并条目，使用英国旗；三个组成地区的旗帜另列。"
     },
     {
       "code": "SI",
@@ -4323,5 +4327,252 @@
       ],
       "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/zw.svg"
     }
-  ]
+  ],
+  "regional_supplements": [
+    {
+      "code": "ALDERNEY",
+      "code_standard": "project-local identifier (not ISO)",
+      "name": "Alderney",
+      "name_zh": "奥尔德尼",
+      "name_zh_hant": "奧爾德尼",
+      "icon": "alderney",
+      "parent_code": "GG",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Alderney.svg",
+      "verification_url": "https://www.flaginstitute.org/wp/flags/alderney-flag/",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_sha1": "5f1b5f78c3c1f412eac014118cb8c31af4b083a6",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8",
+      "display_name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼",
+      "aliases": [
+        "ALDERNEY",
+        "alderney",
+        "Alderney",
+        "奥尔德尼",
+        "奧爾德尼"
+      ],
+      "author": "Denelson83"
+    },
+    {
+      "code": "SH-AC",
+      "code_standard": "ISO 3166-2",
+      "name": "Ascension Island",
+      "name_zh": "阿森松岛",
+      "name_zh_hant": "阿森松島",
+      "icon": "ascension-island",
+      "parent_code": "SH",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sh-ac.svg",
+      "verification_url": "https://www.ascension.gov.ac/new-flag-ascends-on-ascension-day",
+      "license": "MIT",
+      "license_url": "LICENSE.flag-icons",
+      "source_sha1": "fdb12224d713d1113d1df566a763c532400bf912",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55",
+      "display_name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC",
+      "aliases": [
+        "SH-AC",
+        "ascension-island",
+        "Ascension Island",
+        "阿森松岛",
+        "阿森松島",
+        "AC"
+      ],
+      "author": "lipis/flag-icons contributors"
+    },
+    {
+      "code": "BQ-BO",
+      "code_standard": "ISO 3166-2",
+      "name": "Bonaire",
+      "name_zh": "博奈尔",
+      "name_zh_hant": "波奈",
+      "icon": "bonaire",
+      "parent_code": "BQ",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Bonaire.svg",
+      "verification_url": "https://www.government.nl/themes/justice-security-and-defence/security-strategy-for-the-kingdom-of-the-netherlands/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands",
+      "license": "Public domain",
+      "license_url": "",
+      "source_sha1": "15b15434f269a04a3b6135cd1a88f787833e46fb",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902",
+      "display_name": "BQ-BO 博奈尔 Bonaire 波奈",
+      "aliases": [
+        "BQ-BO",
+        "bonaire",
+        "Bonaire",
+        "博奈尔",
+        "波奈"
+      ],
+      "author": "Mike Rohsopht"
+    },
+    {
+      "code": "BRITISH-ANTARCTIC-TERRITORY",
+      "code_standard": "project-local identifier (not ISO)",
+      "name": "British Antarctic Territory",
+      "name_zh": "英属南极领地",
+      "name_zh_hant": "英屬南極領地",
+      "icon": "british-antarctic-territory",
+      "parent_code": "AQ",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Antarctic_Territory.svg",
+      "verification_url": "https://www.gov.uk/world/organisations/british-antarctic-territory",
+      "license": "Public domain",
+      "license_url": "",
+      "source_sha1": "1f0d560e0df7f0a290987c6b165d5925f87f5ca6",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f",
+      "display_name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
+      "aliases": [
+        "BRITISH-ANTARCTIC-TERRITORY",
+        "british-antarctic-territory",
+        "British Antarctic Territory",
+        "英属南极领地",
+        "英屬南極領地",
+        "BAT"
+      ],
+      "author": "vector version Masur",
+      "note_zh": "收录旗帜不表示对南极领土主张的认可。"
+    },
+    {
+      "code": "BQ-SA",
+      "code_standard": "ISO 3166-2",
+      "name": "Saba",
+      "name_zh": "萨巴",
+      "name_zh_hant": "沙巴島",
+      "icon": "saba",
+      "parent_code": "BQ",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Saba.svg",
+      "verification_url": "https://www.government.nl/themes/justice-security-and-defence/security-strategy-for-the-kingdom-of-the-netherlands/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source_sha1": "c1daec02be2803e8088a355c3108a6b2684d1bb6",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e",
+      "display_name": "BQ-SA 萨巴 Saba 沙巴島",
+      "aliases": [
+        "BQ-SA",
+        "saba",
+        "Saba",
+        "萨巴",
+        "沙巴島"
+      ],
+      "author": ""
+    },
+    {
+      "code": "SH-HL",
+      "code_standard": "ISO 3166-2",
+      "name": "Saint Helena",
+      "name_zh": "圣赫勒拿岛",
+      "name_zh_hant": "聖赫勒拿島",
+      "icon": "saint-helena",
+      "parent_code": "SH",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sh-hl.svg",
+      "verification_url": "https://www.sainthelena.gov.sh/st-helena/history-and-heritage/",
+      "license": "MIT",
+      "license_url": "LICENSE.flag-icons",
+      "source_sha1": "a93a3f97f711b1c35d9968dfab2273f7c35f2dd4",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2",
+      "display_name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島",
+      "aliases": [
+        "SH-HL",
+        "saint-helena",
+        "Saint Helena",
+        "圣赫勒拿岛",
+        "聖赫勒拿島"
+      ],
+      "author": "lipis/flag-icons contributors"
+    },
+    {
+      "code": "SARK",
+      "code_standard": "project-local identifier (not ISO)",
+      "name": "Sark",
+      "name_zh": "萨克岛",
+      "name_zh_hant": "薩克島",
+      "icon": "sark",
+      "parent_code": "GG",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Sark.svg",
+      "verification_url": "https://en.wikipedia.org/wiki/Flag_of_Sark",
+      "license": "Public domain",
+      "license_url": "",
+      "source_sha1": "ba778d06d74fb14c48ce7359916df11c7bfb47fb",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8",
+      "display_name": "SARK 萨克岛 Sark 薩克島",
+      "aliases": [
+        "SARK",
+        "sark",
+        "Sark",
+        "萨克岛",
+        "薩克島"
+      ],
+      "author": "Denelson83"
+    },
+    {
+      "code": "BQ-SE",
+      "code_standard": "ISO 3166-2",
+      "name": "Sint Eustatius",
+      "name_zh": "圣尤斯特歇斯",
+      "name_zh_hant": "聖尤斯特歇斯",
+      "icon": "sint-eustatius",
+      "parent_code": "BQ",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Sint_Eustatius.svg",
+      "verification_url": "https://www.government.nl/themes/justice-security-and-defence/security-strategy-for-the-kingdom-of-the-netherlands/question-and-answer/what-are-the-different-parts-of-the-kingdom-of-the-netherlands",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_sha1": "127ec68351ba9a9a9a33667c7c7e4943efb44791",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5",
+      "display_name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛",
+      "aliases": [
+        "BQ-SE",
+        "sint-eustatius",
+        "Sint Eustatius",
+        "圣尤斯特歇斯",
+        "聖尤斯特歇斯",
+        "Statia",
+        "圣尤斯特歇斯岛"
+      ],
+      "author": "User:Andrwsc"
+    },
+    {
+      "code": "SH-TA",
+      "code_standard": "ISO 3166-2",
+      "name": "Tristan da Cunha",
+      "name_zh": "特里斯坦-达库尼亚",
+      "name_zh_hant": "崔斯坦達庫尼亞",
+      "icon": "tristan-da-cunha",
+      "parent_code": "SH",
+      "flag_kind": "territory-supplement",
+      "status_zh": "地方旗（独立收录，不作为 ISO 3166-1 国家或地区条目）",
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tristan_da_Cunha.svg",
+      "verification_url": "https://shop.tristandc.com/blogs/news/flags-of-tristan-da-cunha",
+      "license": "Public domain",
+      "license_url": "",
+      "source_sha1": "e67fe2e83318d7cd4eb950a5191dadda1a7b3f78",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847",
+      "display_name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚",
+      "aliases": [
+        "SH-TA",
+        "tristan-da-cunha",
+        "Tristan da Cunha",
+        "特里斯坦-达库尼亚",
+        "崔斯坦達庫尼亞",
+        "TA",
+        "特里斯坦达库尼亚"
+      ],
+      "author": ""
+    }
+  ],
+  "supplement_count": 9,
+  "total_count": 258,
+  "territory_audit": "TERRITORY-FLAGS.md",
+  "checked_on": "2026-10-24"
 }

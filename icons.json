@@ -19,8 +19,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
     },
     {
+      "name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8"
+    },
+    {
       "name": "DZ 阿尔及利亚 Algeria 阿爾及利亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d"
+    },
+    {
+      "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
     },
     {
       "name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞",
@@ -73,6 +81,10 @@
     {
       "name": "AW 阿鲁巴 Aruba 荷屬阿魯巴",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+    },
+    {
+      "name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55"
     },
     {
       "name": "asia 亚洲 Asia",
@@ -139,7 +151,11 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
     },
     {
-      "name": "BQ 荷属加勒比区 Bonaire, Sint Eustatius and Saba 荷蘭加勒比區",
+      "name": "BQ-BO 博奈尔 Bonaire 波奈",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902"
+    },
+    {
+      "name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
     },
     {
@@ -157,6 +173,10 @@
     {
       "name": "BR 巴西 Brazil",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f"
     },
     {
       "name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地",
@@ -225,6 +245,10 @@
     {
       "name": "claude 克劳德 Anthropic",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png"
+    },
+    {
+      "name": "cloudflare Cloudflare CF 云服务 CDN",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61"
     },
     {
       "name": "CC 科科斯（基林）群岛 Cocos (Keeling) Islands 科克斯（基靈）群島",
@@ -313,6 +337,10 @@
     {
       "name": "douyu 斗鱼",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986"
+    },
+    {
+      "name": "duolingo 多邻国 多鄰國 Duo 学习",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d"
     },
     {
       "name": "EC 厄瓜多尔 Ecuador",
@@ -435,6 +463,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364"
     },
     {
+      "name": "google-cloud 谷歌云 谷歌雲 Google Cloud GCP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144"
+    },
+    {
       "name": "google-drive 谷歌云盘 Google Drive",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png"
     },
@@ -461,6 +493,10 @@
     {
       "name": "GD 格林纳达 Grenada 格瑞那達",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57"
+    },
+    {
+      "name": "grok Grok xAI 人工智能",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7"
     },
     {
       "name": "GP 瓜德罗普 Guadeloupe 瓜地洛普",
@@ -807,8 +843,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5"
     },
     {
+      "name": "notion 笔记 筆記 工作空间",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e"
+    },
+    {
       "name": "OM 阿曼 Oman",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f"
+    },
+    {
+      "name": "oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236"
     },
     {
       "name": "PK 巴基斯坦 Pakistan",
@@ -863,6 +907,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9"
     },
     {
+      "name": "pornhub Pornhub PH 字标",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7"
+    },
+    {
       "name": "PT 葡萄牙 Portugal",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7"
     },
@@ -899,11 +947,19 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
     },
     {
+      "name": "BQ-SA 萨巴 Saba 沙巴島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e"
+    },
+    {
       "name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde"
     },
     {
-      "name": "SH 圣赫勒拿 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿島",
+      "name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2"
+    },
+    {
+      "name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
     },
     {
@@ -939,6 +995,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
     },
     {
+      "name": "SARK 萨克岛 Sark 薩克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8"
+    },
+    {
       "name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
     },
@@ -961,6 +1021,10 @@
     {
       "name": "SG 新加坡 Singapore",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5"
     },
     {
       "name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁",
@@ -1095,6 +1159,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
     },
     {
+      "name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847"
+    },
+    {
       "name": "TN 突尼斯 Tunisia 突尼西亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
     },
@@ -1113,6 +1181,10 @@
     {
       "name": "TV 图瓦卢 Tuvalu 吐瓦魯",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
+    },
+    {
+      "name": "twitch 图奇 圖奇 游戏直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
     },
     {
       "name": "UG 乌干达 Uganda 烏干達",

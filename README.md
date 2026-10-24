@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **305** 个图标。
+当前共收录 **323** 个图标。
 
 ## 订阅入口
 
@@ -10,9 +10,9 @@
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 305 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 56 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
-| 国旗合集 | 国家及地区旗帜 | 249 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 323 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 65 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 国旗合集 | 国家及地区旗帜 | 258 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
 ### 总合集
 
@@ -52,11 +52,12 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（56 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（65 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 | 预览 | 中英文名称 | 原始链接 |
 | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff" alt="ai" width="72"> | ai 人工智能 AI | [`ai.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef" alt="amazon" width="72"> | amazon 亚马逊 亞馬遜 Amazon Shopping 购物 | [`amazon.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00" alt="apple" width="72"> | apple 苹果 Apple | [`apple.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png" alt="apple-fitness" width="72"> | apple-fitness 苹果健身 Apple Fitness+ | [`apple-fitness.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png" alt="apple-music" width="72"> | apple-music 苹果音乐 Apple Music | [`apple-music.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png) |
@@ -65,6 +66,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png" alt="bilibili" width="72"> | bilibili 哔哩哔哩 B站 Bilibili | [`bilibili.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png" alt="chatgpt" width="72"> | chatgpt 对话助手 OpenAI | [`chatgpt.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png" alt="claude" width="72"> | claude 克劳德 Anthropic | [`claude.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61" alt="cloudflare" width="72"> | cloudflare Cloudflare CF 云服务 CDN | [`cloudflare.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png" alt="dazn" width="72"> | dazn 体育直播 | [`dazn.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c" alt="dingtalk" width="72"> | dingtalk 钉钉 DingTalk | [`dingtalk.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png" alt="discord" width="72"> | discord 语音聊天 | [`discord.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png) |
@@ -72,6 +74,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9" alt="dmit" width="72"> | dmit 云服务器 | [`dmit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/dongqiudi.png" alt="dongqiudi" width="72"> | dongqiudi 懂球帝 | [`dongqiudi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=380e7edfa54e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986" alt="douyu" width="72"> | douyu 斗鱼 | [`douyu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d" alt="duolingo" width="72"> | duolingo 多邻国 多鄰國 Duo 学习 | [`duolingo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf" alt="facebook" width="72"> | facebook 脸书 Facebook Meta | [`facebook.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png" alt="game-platforms" width="72"> | game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo | [`game-platforms.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png" alt="gemini" width="72"> | gemini 双子座 谷歌人工智能 Google | [`gemini.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png) |
@@ -79,10 +82,12 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158" alt="global" width="72"> | global 全球 Global | [`global.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png" alt="gmail" width="72"> | gmail 谷歌邮箱 Gmail | [`gmail.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364" alt="google" width="72"> | google 谷歌 Google | [`google.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144" alt="google-cloud" width="72"> | google-cloud 谷歌云 谷歌雲 Google Cloud GCP | [`google-cloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png" alt="google-drive" width="72"> | google-drive 谷歌云盘 Google Drive | [`google-drive.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png" alt="google-photos" width="72"> | google-photos 谷歌相册 Google Photos | [`google-photos.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png" alt="google-translate" width="72"> | google-translate 谷歌翻译 Google Translate | [`google-translate.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png" alt="googlevoice" width="72"> | googlevoice 谷歌语音 Google Voice | [`googlevoice.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7" alt="grok" width="72"> | grok Grok xAI 人工智能 | [`grok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a" alt="hbomax" width="72"> | hbomax HBO Max 华纳流媒体 | [`hbomax.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png" alt="hulu" width="72"> | hulu 流媒体 | [`hulu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png" alt="hupu" width="72"> | hupu 虎扑 | [`hupu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png) |
@@ -92,10 +97,13 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png" alt="microsoft" width="72"> | microsoft 微软 Microsoft | [`microsoft.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428" alt="netflix" width="72"> | netflix 奈飞 网飞 Netflix | [`netflix.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png" alt="nintendo" width="72"> | nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台 | [`nintendo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e" alt="notion" width="72"> | notion 笔记 筆記 工作空间 | [`notion.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236" alt="oracle-cloud" width="72"> | oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI | [`oracle-cloud.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png" alt="paramount-plus" width="72"> | paramount-plus 派拉蒙 Paramount+ | [`paramount-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54" alt="paypal" width="72"> | paypal 贝宝 PayPal | [`paypal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png" alt="peacock" width="72"> | peacock 孔雀 Peacock | [`peacock.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png" alt="playstation" width="72"> | playstation 索尼 PS 游戏平台 | [`playstation.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7" alt="pornhub" width="72"> | pornhub Pornhub PH 字标 | [`pornhub.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40" alt="primevideo" width="72"> | primevideo 亚马逊视频 Prime Video | [`primevideo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png" alt="skydance" width="72"> | skydance 天空之舞 Skydance | [`skydance.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png" alt="spotify" width="72"> | spotify 声破天 音乐 | [`spotify.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png) |
@@ -104,6 +112,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | tag 标签 | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | tiktok 抖音国际版 | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0" alt="twitch" width="72"> | twitch 图奇 圖奇 游戏直播 | [`twitch.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/cdcf251decc0968503adefc077780c439a1a4012/icons/weibo.png" alt="weibo" width="72"> | weibo 微博 新浪 Sina | [`weibo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
@@ -115,7 +124,9 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 国家及地区旗帜
 
-收录 ISO 3166-1 的 **249** 个国家及地区。保留原有 7 张旗帜，新增 242 张；新增旗帜采用波浪轮廓、水彩纸纹和透明外背景。
+收录 **258** 面旗帜：完整保留 ISO 3166-1 的 **249** 个国家及地区条目，另补 **9** 面独立地区旗帜。采用波浪轮廓、水彩纸纹和透明外背景。
+
+[海外领地核对说明](TERRITORY-FLAGS.md)记录法属、荷属、英属等地区的覆盖与合并条目处理。下表为原 ISO 249 条目，补充地区另列于后。
 
 - [国旗专用订阅 flags.json](https://raw.githubusercontent.com/zwjtano/icons/main/flags.json)
 - [中英文与 ISO 代码索引 flags-index.json](flags-index.json)
@@ -308,7 +319,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da" alt="russia" width="64"> | `RU` | 俄罗斯 | Russia | [`russia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c" alt="rwanda" width="64"> | `RW` | 卢旺达 | Rwanda | [`rwanda.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde" alt="saint-barthelemy" width="64"> | `BL` | 圣巴泰勒米 | Saint Barthélemy | [`saint-barthelemy.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6" alt="saint-helena-ascension-and-tristan-da-cunha" width="64"> | `SH` | 圣赫勒拿 | Saint Helena, Ascension and Tristan da Cunha | [`saint-helena-ascension-and-tristan-da-cunha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6" alt="saint-helena-ascension-and-tristan-da-cunha" width="64"> | `SH` | 圣赫勒拿、阿森松和特里斯坦-达库尼亚（合并条目） | Saint Helena, Ascension and Tristan da Cunha | [`saint-helena-ascension-and-tristan-da-cunha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770" alt="saint-kitts-and-nevis" width="64"> | `KN` | 圣基茨和尼维斯 | Saint Kitts and Nevis | [`saint-kitts-and-nevis.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529" alt="saint-lucia" width="64"> | `LC` | 圣卢西亚 | Saint Lucia | [`saint-lucia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=7f6a5facdf3a" alt="saint-martin" width="64"> | `MF` | 法属圣马丁 | Saint Martin | [`saint-martin.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=7f6a5facdf3a) |
@@ -375,6 +386,28 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e" alt="zimbabwe" width="64"> | `ZW` | 津巴布韦 | Zimbabwe | [`zimbabwe.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e) |
 
 大部分旗帜基础图样来自 [flag-icons](https://github.com/lipis/flag-icons)，授权见 [LICENSE.flag-icons](LICENSE.flag-icons)。中英文地区名参考 Unicode CLDR。ISO 代码用于范围覆盖和检索，图集中同时包含国家旗、地方旗及地区代表图样。
+
+## 补充地区旗帜
+
+这 9 项已包含在国旗合集与总合集，不另外冒充 ISO 3166-1 国家代码。BQ 与 SH 原合并条目仍保留；私有或构想旗不自动收录。
+
+| 预览 | 中文 / English | 检索标识 | 原始链接 |
+| --- | --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8" alt="alderney" width="64"> | 奥尔德尼 / Alderney | `ALDERNEY` | [`alderney.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55" alt="ascension-island" width="64"> | 阿森松岛 / Ascension Island | `SH-AC` | [`ascension-island.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902" alt="bonaire" width="64"> | 博奈尔 / Bonaire | `BQ-BO` | [`bonaire.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f" alt="british-antarctic-territory" width="64"> | 英属南极领地 / British Antarctic Territory | `BRITISH-ANTARCTIC-TERRITORY` | [`british-antarctic-territory.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e" alt="saba" width="64"> | 萨巴 / Saba | `BQ-SA` | [`saba.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2" alt="saint-helena" width="64"> | 圣赫勒拿岛 / Saint Helena | `SH-HL` | [`saint-helena.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8" alt="sark" width="64"> | 萨克岛 / Sark | `SARK` | [`sark.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5" alt="sint-eustatius" width="64"> | 圣尤斯特歇斯 / Sint Eustatius | `BQ-SE` | [`sint-eustatius.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847" alt="tristan-da-cunha" width="64"> | 特里斯坦-达库尼亚 / Tristan da Cunha | `SH-TA` | [`tristan-da-cunha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847) |
+
+来源、作者及衍生图授权见 [FLAG-SOURCES.md](FLAG-SOURCES.md)。
+
+## 应用补充候选
+
+后续优先考虑 Copilot、Perplexity、Reddit、Threads、Signal、Crunchyroll、ABEMA、U-NEXT；[候选说明](APP-CANDIDATES.md)区分网络分流、服务地区和内容版权限制，不把所有海外 App 一概描述为必须固定地区代理。
 
 ## 说明
 

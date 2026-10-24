@@ -1,6 +1,6 @@
 {
   "name": "zwjtano-flags",
-  "description": "249 个国家及地区旗帜，支持中英文及 ISO 代码搜索；波浪旗面、水彩纸纹、透明 PNG。",
+  "description": "258 面国家及地区旗帜：保留 ISO 249 条目，另补 9 面海外地区旗帜；支持中英文及地区代码搜索，波浪旗面、水彩纸纹、透明 PNG。",
   "icons": [
     {
       "name": "AF 阿富汗 Afghanistan",
@@ -13,6 +13,10 @@
     {
       "name": "AL 阿尔巴尼亚 Albania 阿爾巴尼亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
+    },
+    {
+      "name": "ALDERNEY 奥尔德尼 Alderney 奧爾德尼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/alderney.png?v=0f0b1ccd28d8"
     },
     {
       "name": "DZ 阿尔及利亚 Algeria 阿爾及利亞",
@@ -53,6 +57,10 @@
     {
       "name": "AW 阿鲁巴 Aruba 荷屬阿魯巴",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+    },
+    {
+      "name": "SH-AC 阿森松岛 Ascension Island 阿森松島 AC",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ascension-island.png?v=a4c6eb7b7c55"
     },
     {
       "name": "AU 澳大利亚 Australia 澳洲",
@@ -111,7 +119,11 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
     },
     {
-      "name": "BQ 荷属加勒比区 Bonaire, Sint Eustatius and Saba 荷蘭加勒比區",
+      "name": "BQ-BO 博奈尔 Bonaire 波奈",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire.png?v=9d32c2925902"
+    },
+    {
+      "name": "BQ 荷属加勒比区 荷蘭加勒比區 Bonaire, Sint Eustatius and Saba 合并条目",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
     },
     {
@@ -129,6 +141,10 @@
     {
       "name": "BR 巴西 Brazil",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-antarctic-territory.png?v=65a919d67a5f"
     },
     {
       "name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地",
@@ -735,11 +751,19 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
     },
     {
+      "name": "BQ-SA 萨巴 Saba 沙巴島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saba.png?v=15ef1471103e"
+    },
+    {
       "name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde"
     },
     {
-      "name": "SH 圣赫勒拿 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿島",
+      "name": "SH-HL 圣赫勒拿岛 Saint Helena 聖赫勒拿島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena.png?v=a6d12c1685e2"
+    },
+    {
+      "name": "SH 圣赫勒拿、阿森松和特里斯坦-达库尼亚 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿 合并条目",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
     },
     {
@@ -775,6 +799,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
     },
     {
+      "name": "SARK 萨克岛 Sark 薩克島",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sark.png?v=c63342961ed8"
+    },
+    {
       "name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
     },
@@ -797,6 +825,10 @@
     {
       "name": "SG 新加坡 Singapore",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+    },
+    {
+      "name": "BQ-SE 圣尤斯特歇斯 Sint Eustatius 聖尤斯特歇斯 Statia 圣尤斯特歇斯岛",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-eustatius.png?v=7d49820a4ab5"
     },
     {
       "name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁",
@@ -901,6 +933,10 @@
     {
       "name": "TT 特立尼达和多巴哥 Trinidad and Tobago 千里達及托巴哥",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
+    },
+    {
+      "name": "SH-TA 特里斯坦-达库尼亚 Tristan da Cunha 崔斯坦達庫尼亞 TA 特里斯坦达库尼亚",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847"
     },
     {
       "name": "TN 突尼斯 Tunisia 突尼西亞",

@@ -7,6 +7,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
     },
     {
+      "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
+    },
+    {
       "name": "apple 苹果 Apple",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00"
     },
@@ -39,6 +43,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png"
     },
     {
+      "name": "cloudflare Cloudflare CF 云服务 CDN",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61"
+    },
+    {
       "name": "dazn 体育直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
     },
@@ -65,6 +73,10 @@
     {
       "name": "douyu 斗鱼",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986"
+    },
+    {
+      "name": "duolingo 多邻国 多鄰國 Duo 学习",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d"
     },
     {
       "name": "facebook 脸书 Facebook Meta",
@@ -95,6 +107,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364"
     },
     {
+      "name": "google-cloud 谷歌云 谷歌雲 Google Cloud GCP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-cloud.png?v=91080ebfe144"
+    },
+    {
       "name": "google-drive 谷歌云盘 Google Drive",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png"
     },
@@ -109,6 +125,10 @@
     {
       "name": "googlevoice 谷歌语音 Google Voice",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png"
+    },
+    {
+      "name": "grok Grok xAI 人工智能",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7"
     },
     {
       "name": "hbomax HBO Max 华纳流媒体",
@@ -147,6 +167,14 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png"
     },
     {
+      "name": "notion 笔记 筆記 工作空间",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/notion.png?v=7e86be76af4e"
+    },
+    {
+      "name": "oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236"
+    },
+    {
       "name": "paramount-plus 派拉蒙 Paramount+",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png"
     },
@@ -161,6 +189,10 @@
     {
       "name": "playstation 索尼 PS 游戏平台",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png"
+    },
+    {
+      "name": "pornhub Pornhub PH 字标",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pornhub.png?v=7f6e0f28b3d7"
     },
     {
       "name": "primevideo 亚马逊视频 Prime Video",
@@ -193,6 +225,10 @@
     {
       "name": "tiktok 抖音国际版",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f"
+    },
+    {
+      "name": "twitch 图奇 圖奇 游戏直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
     },
     {
       "name": "wd 西部数据 Western Digital",
