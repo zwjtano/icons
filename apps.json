@@ -1,0 +1,210 @@
+{
+  "name": "zwjtano-apps",
+  "description": "应用与通用图标合集，支持中英文搜索；适用于 Loon、Surge、Quantumult X 等代理客户端和个人规则集。",
+  "icons": [
+    {
+      "name": "ai 人工智能 AI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
+    },
+    {
+      "name": "apple 苹果 Apple",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple.png?v=9e11d1ff2b00"
+    },
+    {
+      "name": "apple-fitness 苹果健身 Apple Fitness+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-fitness.png"
+    },
+    {
+      "name": "apple-music 苹果音乐 Apple Music",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-music.png"
+    },
+    {
+      "name": "apple-tv 苹果电视 Apple TV",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/apple-tv.png"
+    },
+    {
+      "name": "asia 亚洲 Asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279"
+    },
+    {
+      "name": "bilibili 哔哩哔哩 B站 Bilibili",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png"
+    },
+    {
+      "name": "chatgpt 对话助手 OpenAI",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png"
+    },
+    {
+      "name": "claude 克劳德 Anthropic",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/claude.png"
+    },
+    {
+      "name": "dazn 体育直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
+    },
+    {
+      "name": "dingtalk 钉钉 DingTalk",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c"
+    },
+    {
+      "name": "discord 语音聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png"
+    },
+    {
+      "name": "disneyplus 迪士尼 Disney+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=335893f395c1"
+    },
+    {
+      "name": "dmit 云服务器",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9"
+    },
+    {
+      "name": "dongqiudi 懂球帝",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389"
+    },
+    {
+      "name": "douyu 斗鱼",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986"
+    },
+    {
+      "name": "facebook 脸书 Facebook Meta",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf"
+    },
+    {
+      "name": "game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png"
+    },
+    {
+      "name": "gemini 双子座 谷歌人工智能 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png"
+    },
+    {
+      "name": "github 代码托管",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png"
+    },
+    {
+      "name": "global 全球 Global",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=3517e4bae158"
+    },
+    {
+      "name": "gmail 谷歌邮箱 Gmail",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png"
+    },
+    {
+      "name": "google 谷歌 Google",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=b35a10f09364"
+    },
+    {
+      "name": "google-drive 谷歌云盘 Google Drive",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-drive.png"
+    },
+    {
+      "name": "google-photos 谷歌相册 Google Photos",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-photos.png"
+    },
+    {
+      "name": "google-translate 谷歌翻译 Google Translate",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/google-translate.png"
+    },
+    {
+      "name": "googlevoice 谷歌语音 Google Voice",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/googlevoice.png"
+    },
+    {
+      "name": "hbomax HBO Max 华纳流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a"
+    },
+    {
+      "name": "hulu 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hulu.png"
+    },
+    {
+      "name": "hupu 虎扑",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hupu.png"
+    },
+    {
+      "name": "instagram 照片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=dfa3769f7301"
+    },
+    {
+      "name": "line 连我 聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png"
+    },
+    {
+      "name": "loon 代理",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png"
+    },
+    {
+      "name": "microsoft 微软 Microsoft",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png"
+    },
+    {
+      "name": "netflix 奈飞 网飞 Netflix",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428"
+    },
+    {
+      "name": "paramount-plus 派拉蒙 Paramount+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png"
+    },
+    {
+      "name": "paypal 贝宝 PayPal",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54"
+    },
+    {
+      "name": "peacock 孔雀 Peacock",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png"
+    },
+    {
+      "name": "primevideo 亚马逊视频 Prime Video",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40"
+    },
+    {
+      "name": "skydance 天空之舞 Skydance",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png"
+    },
+    {
+      "name": "spotify 音乐 声田",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png"
+    },
+    {
+      "name": "surge 网络代理",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png"
+    },
+    {
+      "name": "tag 标签",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9"
+    },
+    {
+      "name": "telegram 电报 Telegram",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a"
+    },
+    {
+      "name": "tiktok 抖音国际版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f"
+    },
+    {
+      "name": "wd 图标",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png"
+    },
+    {
+      "name": "whatsapp 即时通讯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png"
+    },
+    {
+      "name": "x 推特 Twitter",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06"
+    },
+    {
+      "name": "xiaohongshu 小红书",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4"
+    },
+    {
+      "name": "youtube 油管 YouTube 视频",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20"
+    },
+    {
+      "name": "zhihu 知乎",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd"
+    }
+  ]
+}

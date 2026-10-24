@@ -4,15 +4,17 @@
 
 当前共收录 **300** 个图标。
 
-## 图标合集
+## 订阅入口
 
-可直接使用下面的 JSON 地址：
+可按需要导入总合集，或分别导入应用、国旗订阅：
 
-```text
-https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
-```
+| 订阅 | 内容 | 数量 | 地址 |
+| --- | --- | --- | --- |
+| 总合集 | 全部应用、通用图标和国旗 | 300 | [icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json) |
+| 应用合集 | 应用与通用图标，不含国旗 | 51 | [apps.json](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json) |
+| 国旗合集 | 国家及地区旗帜 | 249 | [flags.json](https://raw.githubusercontent.com/zwjtano/icons/main/flags.json) |
 
-[打开 icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json)
+三个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集已经包含两个分类合集的全部条目。
 
 ## 图片目录
 
@@ -31,6 +33,8 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 更新已有图标订阅，或使用原地址重新导入，即可读取新名称；已选用的图片直链仍然有效。
 
 ## 应用与通用图标
+
+[应用与通用图标订阅（51 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 | 预览 | 中英文名称 | 原始链接 |
 | --- | --- | --- |
