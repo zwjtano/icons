@@ -8,11 +8,29 @@
 
 可按需要导入总合集，或分别导入应用、国旗订阅：
 
-| 订阅 | 内容 | 数量 | 地址 |
+| 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 300 | [icons.json](https://raw.githubusercontent.com/zwjtano/icons/main/icons.json) |
-| 应用合集 | 应用与通用图标，不含国旗 | 51 | [apps.json](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json) |
-| 国旗合集 | 国家及地区旗帜 | 249 | [flags.json](https://raw.githubusercontent.com/zwjtano/icons/main/flags.json) |
+| 总合集 | 全部应用、通用图标和国旗 | 300 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 51 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 国旗合集 | 国家及地区旗帜 | 249 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
+
+### 总合集
+
+```text
+https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
+```
+
+### 应用合集
+
+```text
+https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
+```
+
+### 国旗合集
+
+```text
+https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
+```
 
 三个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集已经包含两个分类合集的全部条目。
 
@@ -78,12 +96,12 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png" alt="peacock" width="72"> | peacock 孔雀 Peacock | [`peacock.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40" alt="primevideo" width="72"> | primevideo 亚马逊视频 Prime Video | [`primevideo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png" alt="skydance" width="72"> | skydance 天空之舞 Skydance | [`skydance.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png" alt="spotify" width="72"> | spotify 音乐 声田 | [`spotify.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png" alt="spotify" width="72"> | spotify 声破天 音乐 | [`spotify.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | surge 网络代理 | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | tag 标签 | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | tiktok 抖音国际版 | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 图标 | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06" alt="x" width="72"> | x 推特 Twitter | [`x.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4" alt="xiaohongshu" width="72"> | xiaohongshu 小红书 | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4) |
