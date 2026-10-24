@@ -4,7 +4,7 @@
   "source_redraws": 47,
   "designed_wordmarks": 13,
   "group_count": 64,
-  "companion_icons": [
+  "existing_icons": [
     {
       "name": "机场组 · loon 代理",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png"
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png"
     },
     {
-      "name": "机场组 · tag 标签",
+      "name": "机场组 · TAG 机场",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9"
     },
     {
