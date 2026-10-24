@@ -1,38 +1,40 @@
 # 水彩图标
 
+手绘水彩风格的透明 PNG 图标合集，支持中英文搜索，适用于 Loon、Surge、Quantumult X 等客户端。
+
 ## 订阅地址
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>500</td><td>
+<tr><td><a href="#图标预览">总合集</a></td><td>500</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td>应用组</td><td>242</td><td>
+<tr><td><a href="#应用">应用组</a></td><td>242</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
 </td></tr>
-<tr><td>机场组</td><td>64</td><td>
+<tr><td><a href="#机场组">机场组</a></td><td>64</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/airports.json
 ```
 
 </td></tr>
-<tr><td>Emby 组</td><td>33</td><td>
+<tr><td><a href="#emby">Emby 组</a></td><td>33</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/emby.json
 ```
 
 </td></tr>
-<tr><td>国旗组</td><td>258</td><td>
+<tr><td><a href="#国家及地区旗帜">国旗组</a></td><td>258</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
@@ -41,7 +43,9 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 </td></tr>
 </table>
 
-## 应用
+## 图标预览
+
+### 应用
 
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
@@ -181,7 +185,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee" width="80" height="80" alt="zalo"> | zalo Zalo 越南聊天 | [zalo.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" width="80" height="80" alt="zhihu"> | zhihu 知乎 | [zhihu.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
 
-## 机场组
+### 机场组
 
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
@@ -250,7 +254,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188" width="80" height="80" alt="ytoo"> | 机场组 · YToo YTOO | [ytoo.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace" width="80" height="80" alt="yunyi"> | 机场组 · yunyi 云翼网络 | [yunyi.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace) |
 
-## Emby
+### Emby
 
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
@@ -291,7 +295,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98" width="80" height="80" alt="omega"> | omega Omega 欧米伽 歐米伽 ALPHATV Emby 服务器 媒体库 | [omega.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/omega.png?v=4f1fd9b47a98) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247" width="80" height="80" alt="tudou-saha"> | tudou-saha 土豆萨哈 土豆薩哈 Tudou Saha Potato Saha Emby 私人服务器 媒体库 | [tudou-saha.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tudou-saha.png?v=57e304954247) |
 
-## 洲地图
+### 洲地图
 
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
@@ -303,7 +307,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563" width="80" height="80" alt="oceania"> | oceania 大洋洲 Oceania 澳大利亚洲 | [oceania.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281" width="80" height="80" alt="antarctica-map"> | antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆 | [antarctica-map.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281) |
 
-## 国家及地区旗帜
+### 国家及地区旗帜
 
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
