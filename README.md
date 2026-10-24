@@ -2,16 +2,17 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **401** 个图标。
+当前共收录 **434** 个图标。
 
 ## 订阅入口
 
-可按需要导入总合集，或分别导入应用、国旗订阅：
+可按需要导入总合集，或分别导入应用、Emby、国旗订阅：
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 401 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 143 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 434 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 176 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| Emby 合集 | Emby 服务器品牌，名称统一以 Emby 开头 | 33 | <https://raw.githubusercontent.com/zwjtano/icons/main/emby.json> |
 | 国旗合集 | 国家及地区旗帜 | 258 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
 ### 总合集
@@ -26,13 +27,21 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
+### Emby 合集
+
+```text
+https://raw.githubusercontent.com/zwjtano/icons/main/emby.json
+```
+
+全部名称以 `Emby` 开头，文件名以 `emby-` 开头，便于按名称集中显示。
+
 ### 国旗合集
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 ```
 
-三个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集已经包含两个分类合集的全部条目。
+四个订阅均支持中英文名称搜索，并引用同一套图片直链。总合集包含各分类全部条目；Emby 的 33 项同时包含在应用合集中。
 
 总合集固定按“应用与通用图标在前、国家及地区旗帜在后”排列，每组内部按英文 ID 排序；今后新增图标也沿用此顺序。
 
@@ -54,7 +63,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（143 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（176 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 [流媒体服务目录](STREAMING-SERVICES.md) | [图标素材来源](APP-ICON-SOURCES.md)
 
@@ -203,6 +212,48 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974" alt="youtube-tv" width="72"> | youtube-tv YouTube TV 美国电视直播 | [`youtube-tv.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee" alt="zalo" width="72"> | zalo Zalo 越南聊天 | [`zalo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | zhihu 知乎 | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
+
+## Emby 服务器图标
+
+[Emby 专用订阅（33 项）](https://raw.githubusercontent.com/zwjtano/icons/main/emby.json) · [服务目录与状态说明](EMBY-SERVERS.md) · [素材来源](EMBY-ICON-SOURCES.md)
+
+名称统一以 `Emby` 开头；Misty 为已标注的历史品牌。收录用于图标识别，不代表服务可用性或推荐。
+
+| 预览 | 中英文名称 | 原始链接 |
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26" width="72" alt="Emby 垃圾影音 1111 Loser"> | Emby 垃圾影音 1111 Loser | [`emby-1111.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175" width="72" alt="Emby AlphaTV 海外服 Alpha"> | Emby AlphaTV 海外服 Alpha | [`emby-alpha.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-alpha.png?v=bb7fa6227175) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3" width="72" alt="Emby 结束乐队 結束Band Bocchi AIVBI"> | Emby 结束乐队 結束Band Bocchi AIVBI | [`emby-bocchi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-bocchi.png?v=9132f9f5c8e3) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-cc.png?v=cb4a6207382f" width="72" alt="Emby CC 公益 CcEmby"> | Emby CC 公益 CcEmby | [`emby-cc.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-cc.png?v=cb4a6207382f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-chuidaniu.png?v=3ad4ba5d43f9" width="72" alt="Emby 吹大牛 飞跃 飛躍 ChuiDaNiu"> | Emby 吹大牛 飞跃 飛躍 ChuiDaNiu | [`emby-chuidaniu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-chuidaniu.png?v=3ad4ba5d43f9) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-feiyue.png?v=b01e5d8e0af6" width="72" alt="Emby 飞跃彩虹 飛躍彩虹 Feiyue NEXT"> | Emby 飞跃彩虹 飛躍彩虹 Feiyue NEXT | [`emby-feiyue.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-feiyue.png?v=b01e5d8e0af6) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-iris.png?v=4f7d147f1d29" width="72" alt="Emby 鸢尾 鳶尾 Iris"> | Emby 鸢尾 鳶尾 Iris | [`emby-iris.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-iris.png?v=4f7d147f1d29) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jingzhe.png?v=382fcfaa6308" width="72" alt="Emby 惊蛰 驚蟄 Jingzhe JINGZHEPRO"> | Emby 惊蛰 驚蟄 Jingzhe JINGZHEPRO | [`emby-jingzhe.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jingzhe.png?v=382fcfaa6308) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jsq.png?v=ea9c8cb63977" width="72" alt="Emby 见手青 見手青 JianShouQing"> | Emby 见手青 見手青 JianShouQing | [`emby-jsq.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-jsq.png?v=ea9c8cb63977) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lemby.png?v=d8fb0e058314" width="72" alt="Emby Lemby"> | Emby Lemby | [`emby-lemby.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lemby.png?v=d8fb0e058314) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lily.png?v=1687ed2fb566" width="72" alt="Emby Lily 百合"> | Emby Lily 百合 | [`emby-lily.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-lily.png?v=1687ed2fb566) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-liminal.png?v=dc7a38e20911" width="72" alt="Emby 临境 臨境 Liminal"> | Emby 临境 臨境 Liminal | [`emby-liminal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-liminal.png?v=dc7a38e20911) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-luxrealm.png?v=bf9492f46659" width="72" alt="Emby 享境 Luxrealm"> | Emby 享境 Luxrealm | [`emby-luxrealm.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-luxrealm.png?v=bf9492f46659) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-magpie.png?v=b99c0997873a" width="72" alt="Emby 喜鹊 喜鵲 Magpie"> | Emby 喜鹊 喜鵲 Magpie | [`emby-magpie.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-magpie.png?v=b99c0997873a) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-micu.png?v=3344092f7ad0" width="72" alt="Emby MICU Cloud Media"> | Emby MICU Cloud Media | [`emby-micu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-micu.png?v=3344092f7ad0) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-misty.png?v=33e89bee53fb" width="72" alt="Emby Misty 历史品牌 歷史品牌 UHD"> | Emby Misty 历史品牌 歷史品牌 UHD | [`emby-misty.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-misty.png?v=33e89bee53fb) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-mooguu.png?v=c7da48b7e9fa" width="72" alt="Emby 蘑菇 Mooguu"> | Emby 蘑菇 Mooguu | [`emby-mooguu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-mooguu.png?v=c7da48b7e9fa) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-moyunge.png?v=c68efa635430" width="72" alt="Emby 墨云阁 墨雲閣 MoYunGe"> | Emby 墨云阁 墨雲閣 MoYunGe | [`emby-moyunge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-moyunge.png?v=c68efa635430) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nanflix.png?v=99ac460f2a45" width="72" alt="Emby 天南小筑 天南小築 Nanflix"> | Emby 天南小筑 天南小築 Nanflix | [`emby-nanflix.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nanflix.png?v=99ac460f2a45) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nebula.png?v=162c010e4366" width="72" alt="Emby 星云 星雲 Nebula Media"> | Emby 星云 星雲 Nebula Media | [`emby-nebula.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nebula.png?v=162c010e4366) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nijigen.png?v=b48440f6c232" width="72" alt="Emby 二次元 Nijigen"> | Emby 二次元 Nijigen | [`emby-nijigen.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nijigen.png?v=b48440f6c232) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nyamedia.png?v=82c0c76d3a05" width="72" alt="Emby Nya Media Nyamedia"> | Emby Nya Media Nyamedia | [`emby-nyamedia.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-nyamedia.png?v=82c0c76d3a05) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-odyssey.png?v=c1788b50ea0b" width="72" alt="Emby 奥德赛 奧德賽 Odyssey+"> | Emby 奥德赛 奧德賽 Odyssey+ | [`emby-odyssey.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-odyssey.png?v=c1788b50ea0b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-paper.png?v=971df2ae45f0" width="72" alt="Emby 纸片人 紙片人 EmbyPlus Paper"> | Emby 纸片人 紙片人 EmbyPlus Paper | [`emby-paper.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-paper.png?v=971df2ae45f0) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-peach.png?v=e95253bc2605" width="72" alt="Emby 桃子 Peach"> | Emby 桃子 Peach | [`emby-peach.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-peach.png?v=e95253bc2605) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-qidian.png?v=eed85c54e7b4" width="72" alt="Emby 起点站 起點站 Qidian"> | Emby 起点站 起點站 Qidian | [`emby-qidian.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-qidian.png?v=eed85c54e7b4) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-robo.png?v=b641efc77fc5" width="72" alt="Emby 萝卜 蘿蔔 Robo"> | Emby 萝卜 蘿蔔 Robo | [`emby-robo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-robo.png?v=b641efc77fc5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-saturday.png?v=0d2d2bbb48d6" width="72" alt="Emby SaturDay Lite 星期六"> | Emby SaturDay Lite 星期六 | [`emby-saturday.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-saturday.png?v=0d2d2bbb48d6) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-sntp.png?v=5110e1be9fa2" width="72" alt="Emby SNTP 守候影院 Media Lite"> | Emby SNTP 守候影院 Media Lite | [`emby-sntp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-sntp.png?v=5110e1be9fa2) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-starsho.png?v=c43adb23048f" width="72" alt="Emby 星烁 星爍 StarSho"> | Emby 星烁 星爍 StarSho | [`emby-starsho.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-starsho.png?v=c43adb23048f) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972" width="72" alt="Emby 终点站 終點站 Terminus"> | Emby 终点站 終點站 Terminus | [`emby-terminus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-terminus.png?v=b123a970a972) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79" width="72" alt="Emby UHD UHDNOW Next Media Server"> | Emby UHD UHDNOW Next Media Server | [`emby-uhd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-uhd.png?v=b2bc6aca7c79) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf" width="72" alt="Emby YounoPlus Youno YounoEmby"> | Emby YounoPlus Youno YounoEmby | [`emby-younoplus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-younoplus.png?v=46a048f95ccf) |
 
 ## 国家及地区旗帜
 
