@@ -3,12 +3,24 @@
   "description": "应用与通用图标合集，支持中英文搜索；适用于 Loon、Surge、Quantumult X 等代理客户端和个人规则集。",
   "icons": [
     {
+      "name": "abema ABEMA 日本节目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67"
+    },
+    {
+      "name": "acorn-tv Acorn TV 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f"
+    },
+    {
       "name": "ai 人工智能 AI",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ai.png?v=4936286975ff"
     },
     {
       "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
+    },
+    {
+      "name": "amc-plus AMC+ AMC Plus 美剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amc-plus.png?v=6c3270cc444a"
     },
     {
       "name": "apple 苹果 Apple",
@@ -31,8 +43,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=cc203336b279"
     },
     {
+      "name": "bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6"
+    },
+    {
+      "name": "bbc-iplayer BBC iPlayer 英国 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44"
+    },
+    {
       "name": "bilibili 哔哩哔哩 B站 Bilibili",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png"
+    },
+    {
+      "name": "bluesky Bluesky 蓝天 藍天 社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939"
+    },
+    {
+      "name": "britbox BritBox 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10"
     },
     {
       "name": "chatgpt 对话助手 OpenAI",
@@ -47,16 +75,44 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudflare.png?v=04ba33637a61"
     },
     {
+      "name": "coupang-play Coupang Play 酷澎 韩国",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coupang-play.png?v=eebd0e77c473"
+    },
+    {
+      "name": "criterion-channel The Criterion Channel 标准收藏 电影",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/criterion-channel.png?v=0c14948b6d9a"
+    },
+    {
+      "name": "crunchyroll Crunchyroll 动漫 動漫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/crunchyroll.png?v=53df29764447"
+    },
+    {
+      "name": "curiositystream Curiosity Stream CuriosityStream 纪录片 紀錄片",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curiositystream.png?v=942a4f3ccbb7"
+    },
+    {
       "name": "dazn 体育直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
+    },
+    {
+      "name": "dcard Dcard 狄卡 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dcard.png?v=31aaebf8b35b"
     },
     {
       "name": "dingtalk 钉钉 DingTalk",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c"
     },
     {
+      "name": "directv DIRECTV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/directv.png?v=8d5ee638f5a7"
+    },
+    {
       "name": "discord 语音聊天",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png"
+    },
+    {
+      "name": "discovery-plus discovery+ Discovery Plus 探索频道",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discovery-plus.png?v=bd67bf22e7d1"
     },
     {
       "name": "disneyplus 迪士尼 Disney+",
@@ -79,8 +135,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/duolingo.png?v=dd79dd84f91d"
     },
     {
+      "name": "espn ESPN ESPN+ ESPN Select Unlimited 体育 體育",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e"
+    },
+    {
       "name": "facebook 脸书 Facebook Meta",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf"
+    },
+    {
+      "name": "fox-one FOX One 福克斯 美国直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07"
+    },
+    {
+      "name": "fubo Fubo 美国体育电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8"
     },
     {
       "name": "game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo",
@@ -131,6 +199,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grok.png?v=68f56d3ca4c7"
     },
     {
+      "name": "hami-video Hami Video 台湾 台灣 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hami-video.png?v=7703a2ed7151"
+    },
+    {
       "name": "hbomax HBO Max 华纳流媒体",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a"
     },
@@ -147,20 +219,56 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/instagram.png?v=dfa3769f7301"
     },
     {
+      "name": "itvx ITVX ITV 英国电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637"
+    },
+    {
+      "name": "kakaotalk KakaoTalk 卡考 韩国聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67"
+    },
+    {
       "name": "line 连我 聊天",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png"
+    },
+    {
+      "name": "linetv LINE TV 台湾 台灣 追剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74"
     },
     {
       "name": "loon 代理",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png"
     },
     {
+      "name": "messenger Messenger Facebook 脸书信使",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39"
+    },
+    {
+      "name": "mgm-plus MGM+ MGM Plus 米高梅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad"
+    },
+    {
       "name": "microsoft 微软 Microsoft",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png"
     },
     {
+      "name": "mlb MLB 美国棒球 MLB.tv",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mlb.png?v=f2f571549586"
+    },
+    {
+      "name": "mytvsuper myTV SUPER TVB 香港",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983"
+    },
+    {
+      "name": "nba NBA 篮球 籃球 League Pass",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84"
+    },
+    {
       "name": "netflix 奈飞 网飞 Netflix",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428"
+    },
+    {
+      "name": "nfl NFL 美式橄榄球 NFL+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256"
     },
     {
       "name": "nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台",
@@ -183,12 +291,32 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54"
     },
     {
+      "name": "pbs PBS 美国公共电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs.png?v=3e2967d18454"
+    },
+    {
+      "name": "pbs-kids PBS KIDS 儿童 兒童",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs-kids.png?v=b9729280caac"
+    },
+    {
       "name": "peacock 孔雀 Peacock",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png"
     },
     {
+      "name": "philo Philo 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1"
+    },
+    {
+      "name": "pinterest Pinterest 拼趣 图片收藏",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51"
+    },
+    {
       "name": "playstation 索尼 PS 游戏平台",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png"
+    },
+    {
+      "name": "pluto-tv Pluto TV 免费电视 免費電視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e"
     },
     {
       "name": "pornhub Pornhub PH 字标",
@@ -199,12 +327,44 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40"
     },
     {
+      "name": "reddit Reddit 红迪 紅迪 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b"
+    },
+    {
+      "name": "roku-channel The Roku Channel Roku 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9"
+    },
+    {
+      "name": "shudder Shudder 惊悚 恐怖影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd"
+    },
+    {
+      "name": "signal Signal 私密通讯 通訊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448"
+    },
+    {
       "name": "skydance 天空之舞 Skydance",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png"
     },
     {
+      "name": "sling-tv Sling TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sling-tv.png?v=368bd449083f"
+    },
+    {
+      "name": "snapchat Snapchat 快拍 图片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/snapchat.png?v=a3dbf56aa1be"
+    },
+    {
       "name": "spotify 声破天 音乐",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png"
+    },
+    {
+      "name": "stan Stan 澳大利亚 澳洲 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2"
+    },
+    {
+      "name": "starz STARZ 美国影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8"
     },
     {
       "name": "steam 蒸汽 Valve 游戏平台",
@@ -223,12 +383,44 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a"
     },
     {
+      "name": "threads Threads 脆 文字社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803"
+    },
+    {
       "name": "tiktok 抖音国际版",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f"
     },
     {
+      "name": "tubi Tubi 免费影视 免費影視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e"
+    },
+    {
+      "name": "tver TVer 日本电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35"
+    },
+    {
+      "name": "tving TVING 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53"
+    },
+    {
       "name": "twitch 图奇 圖奇 游戏直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
+    },
+    {
+      "name": "unext U-NEXT 日本流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/unext.png?v=26b91a5b7f8d"
+    },
+    {
+      "name": "viu Viu 亚洲剧集",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24"
+    },
+    {
+      "name": "viutv ViuTV 香港 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def"
+    },
+    {
+      "name": "wavve Wavve 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a"
     },
     {
       "name": "wd 西部数据 Western Digital",
@@ -257,6 +449,14 @@
     {
       "name": "youtube 油管 YouTube 视频",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20"
+    },
+    {
+      "name": "youtube-tv YouTube TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974"
+    },
+    {
+      "name": "zalo Zalo 越南聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee"
     },
     {
       "name": "zhihu 知乎",

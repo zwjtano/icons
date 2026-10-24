@@ -3,6 +3,14 @@
   "description": "手绘透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端和个人规则集。",
   "icons": [
     {
+      "name": "abema ABEMA 日本节目",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67"
+    },
+    {
+      "name": "acorn-tv Acorn TV 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f"
+    },
+    {
       "name": "AF 阿富汗 Afghanistan",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
     },
@@ -29,6 +37,10 @@
     {
       "name": "amazon 亚马逊 亞馬遜 Amazon Shopping 购物",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amazon.png?v=03f87ac152ef"
+    },
+    {
+      "name": "amc-plus AMC+ AMC Plus 美剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amc-plus.png?v=6c3270cc444a"
     },
     {
       "name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞",
@@ -107,6 +119,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9"
     },
     {
+      "name": "bahamut-anime 巴哈姆特动画疯 動畫瘋 Bahamut Anime",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamut-anime.png?v=a48b3de9a6f6"
+    },
+    {
       "name": "BH 巴林 Bahrain",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7"
     },
@@ -117,6 +133,10 @@
     {
       "name": "BB 巴巴多斯 Barbados 巴貝多",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66"
+    },
+    {
+      "name": "bbc-iplayer BBC iPlayer 英国 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bbc-iplayer.png?v=69f67e008b44"
     },
     {
       "name": "BY 白俄罗斯 Belarus 白俄羅斯",
@@ -147,6 +167,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bilibili.png"
     },
     {
+      "name": "bluesky Bluesky 蓝天 藍天 社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bluesky.png?v=1d6adf8f0939"
+    },
+    {
       "name": "BO 玻利维亚 Bolivia 玻利維亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
     },
@@ -173,6 +197,10 @@
     {
       "name": "BR 巴西 Brazil",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+    },
+    {
+      "name": "britbox BritBox 英剧 英劇",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/britbox.png?v=f6b8f5c1dc10"
     },
     {
       "name": "BRITISH-ANTARCTIC-TERRITORY 英属南极领地 British Antarctic Territory 英屬南極領地 BAT",
@@ -271,8 +299,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e"
     },
     {
+      "name": "coupang-play Coupang Play 酷澎 韩国",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coupang-play.png?v=eebd0e77c473"
+    },
+    {
+      "name": "criterion-channel The Criterion Channel 标准收藏 电影",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/criterion-channel.png?v=0c14948b6d9a"
+    },
+    {
       "name": "HR 克罗地亚 Croatia 克羅埃西亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3"
+    },
+    {
+      "name": "crunchyroll Crunchyroll 动漫 動漫",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/crunchyroll.png?v=53df29764447"
     },
     {
       "name": "CU 古巴 Cuba",
@@ -281,6 +321,10 @@
     {
       "name": "CW 库拉索 Curaçao 庫拉索",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b"
+    },
+    {
+      "name": "curiositystream Curiosity Stream CuriosityStream 纪录片 紀錄片",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curiositystream.png?v=942a4f3ccbb7"
     },
     {
       "name": "CY 塞浦路斯 Cyprus 賽普勒斯",
@@ -295,6 +339,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dazn.png"
     },
     {
+      "name": "dcard Dcard 狄卡 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dcard.png?v=31aaebf8b35b"
+    },
+    {
       "name": "CD 刚果（金） Democratic Republic of the Congo 剛果（金夏沙） Congo-Kinshasa",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b"
     },
@@ -307,8 +355,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=a1e16448545c"
     },
     {
+      "name": "directv DIRECTV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/directv.png?v=8d5ee638f5a7"
+    },
+    {
       "name": "discord 语音聊天",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png"
+    },
+    {
+      "name": "discovery-plus discovery+ Discovery Plus 探索频道",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/discovery-plus.png?v=bd67bf22e7d1"
     },
     {
       "name": "disneyplus 迪士尼 Disney+",
@@ -363,6 +419,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4"
     },
     {
+      "name": "espn ESPN ESPN+ ESPN Select Unlimited 体育 體育",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/espn.png?v=1df4da384c2e"
+    },
+    {
       "name": "EE 爱沙尼亚 Estonia 愛沙尼亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72"
     },
@@ -399,6 +459,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd"
     },
     {
+      "name": "fox-one FOX One 福克斯 美国直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fox-one.png?v=ba7f43cacd07"
+    },
+    {
       "name": "FR 法国 France 法國",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3"
     },
@@ -413,6 +477,10 @@
     {
       "name": "TF 法属南部领地 French Southern Territories 法屬南部屬地",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d"
+    },
+    {
+      "name": "fubo Fubo 美国体育电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fubo.png?v=9b2f05d363b8"
     },
     {
       "name": "GA 加蓬 Gabon 加彭",
@@ -531,6 +599,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c"
     },
     {
+      "name": "hami-video Hami Video 台湾 台灣 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hami-video.png?v=7703a2ed7151"
+    },
+    {
       "name": "hbomax HBO Max 华纳流媒体",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hbomax.png?v=63599fb1de1a"
     },
@@ -599,6 +671,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a"
     },
     {
+      "name": "itvx ITVX ITV 英国电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/itvx.png?v=5bb289c59637"
+    },
+    {
       "name": "CI 科特迪瓦 Côte d'Ivoire 象牙海岸 Ivory Coast",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882"
     },
@@ -617,6 +693,10 @@
     {
       "name": "JO 约旦 Jordan 約旦",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e"
+    },
+    {
+      "name": "kakaotalk KakaoTalk 卡考 韩国聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67"
     },
     {
       "name": "KZ 哈萨克斯坦 Kazakhstan 哈薩克",
@@ -673,6 +753,10 @@
     {
       "name": "line 连我 聊天",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/line.png"
+    },
+    {
+      "name": "linetv LINE TV 台湾 台灣 追剧",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linetv.png?v=c2a4733b5d74"
     },
     {
       "name": "LT 立陶宛 Lithuania",
@@ -735,12 +819,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=470a51e967a4"
     },
     {
+      "name": "messenger Messenger Facebook 脸书信使",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/messenger.png?v=3d2e326a3d39"
+    },
+    {
       "name": "MX 墨西哥 Mexico",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da"
     },
     {
+      "name": "mgm-plus MGM+ MGM Plus 米高梅",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mgm-plus.png?v=eed2af3444ad"
+    },
+    {
       "name": "microsoft 微软 Microsoft",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png"
+    },
+    {
+      "name": "mlb MLB 美国棒球 MLB.tv",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mlb.png?v=f2f571549586"
     },
     {
       "name": "MD 摩尔多瓦 Moldova 摩爾多瓦",
@@ -775,12 +871,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e"
     },
     {
+      "name": "mytvsuper myTV SUPER TVB 香港",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983"
+    },
+    {
       "name": "NA 纳米比亚 Namibia 納米比亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1"
     },
     {
       "name": "NR 瑙鲁 Nauru 諾魯",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd"
+    },
+    {
+      "name": "nba NBA 篮球 籃球 League Pass",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nba.png?v=dcdcc9e19e84"
     },
     {
       "name": "NP 尼泊尔 Nepal 尼泊爾",
@@ -801,6 +905,10 @@
     {
       "name": "NZ 新西兰 New Zealand 紐西蘭",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45"
+    },
+    {
+      "name": "nfl NFL 美式橄榄球 NFL+",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nfl.png?v=8c3ea74e4256"
     },
     {
       "name": "NI 尼加拉瓜 Nicaragua",
@@ -883,6 +991,14 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54"
     },
     {
+      "name": "pbs PBS 美国公共电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs.png?v=3e2967d18454"
+    },
+    {
+      "name": "pbs-kids PBS KIDS 儿童 兒童",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pbs-kids.png?v=b9729280caac"
+    },
+    {
       "name": "peacock 孔雀 Peacock",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png"
     },
@@ -895,12 +1011,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac"
     },
     {
+      "name": "philo Philo 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philo.png?v=198d083134b1"
+    },
+    {
+      "name": "pinterest Pinterest 拼趣 图片收藏",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pinterest.png?v=9a6e5e33ae51"
+    },
+    {
       "name": "PN 皮特凯恩群岛 Pitcairn 皮特肯群島",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851"
     },
     {
       "name": "playstation 索尼 PS 游戏平台",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png"
+    },
+    {
+      "name": "pluto-tv Pluto TV 免费电视 免費電視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pluto-tv.png?v=c5e2250f759e"
     },
     {
       "name": "PL 波兰 Poland 波蘭",
@@ -927,12 +1055,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba"
     },
     {
+      "name": "reddit Reddit 红迪 紅迪 社区",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reddit.png?v=312b7ee18d9b"
+    },
+    {
       "name": "CG 刚果（布） Republic of the Congo 剛果（布拉薩） Congo-Brazzaville",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d"
     },
     {
       "name": "RE 留尼汪 Réunion 留尼旺",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=ff9f6a1e176b"
+    },
+    {
+      "name": "roku-channel The Roku Channel Roku 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9"
     },
     {
       "name": "RO 罗马尼亚 Romania 羅馬尼亞",
@@ -1015,8 +1151,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949"
     },
     {
+      "name": "shudder Shudder 惊悚 恐怖影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shudder.png?v=c70f6a7cbacd"
+    },
+    {
       "name": "SL 塞拉利昂 Sierra Leone 獅子山",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496"
+    },
+    {
+      "name": "signal Signal 私密通讯 通訊",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/signal.png?v=c02ac4efc448"
     },
     {
       "name": "SG 新加坡 Singapore",
@@ -1035,12 +1179,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png"
     },
     {
+      "name": "sling-tv Sling TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sling-tv.png?v=368bd449083f"
+    },
+    {
       "name": "SK 斯洛伐克 Slovakia",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6"
     },
     {
       "name": "SI 斯洛文尼亚 Slovenia 斯洛維尼亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b"
+    },
+    {
+      "name": "snapchat Snapchat 快拍 图片社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/snapchat.png?v=a3dbf56aa1be"
     },
     {
       "name": "SB 所罗门群岛 Solomon Islands 索羅門群島",
@@ -1073,6 +1225,14 @@
     {
       "name": "LK 斯里兰卡 Sri Lanka 斯里蘭卡",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce"
+    },
+    {
+      "name": "stan Stan 澳大利亚 澳洲 影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/stan.png?v=effbf18cf6d2"
+    },
+    {
+      "name": "starz STARZ 美国影视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/starz.png?v=36d19ade8ac8"
     },
     {
       "name": "PS 巴勒斯坦 State of Palestine",
@@ -1135,6 +1295,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f"
     },
     {
+      "name": "threads Threads 脆 文字社交",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/threads.png?v=f85be0cb3803"
+    },
+    {
       "name": "tiktok 抖音国际版",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f"
     },
@@ -1163,6 +1327,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tristan-da-cunha.png?v=08524549c847"
     },
     {
+      "name": "tubi Tubi 免费影视 免費影視",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tubi.png?v=ca3ff019217e"
+    },
+    {
       "name": "TN 突尼斯 Tunisia 突尼西亞",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
     },
@@ -1183,6 +1351,14 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
     },
     {
+      "name": "tver TVer 日本电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tver.png?v=61cc86214f35"
+    },
+    {
+      "name": "tving TVING 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tving.png?v=2fa7e42e8f53"
+    },
+    {
       "name": "twitch 图奇 圖奇 游戏直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/twitch.png?v=af4be33ce4e0"
     },
@@ -1193,6 +1369,10 @@
     {
       "name": "UA 乌克兰 Ukraine 烏克蘭",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a"
+    },
+    {
+      "name": "unext U-NEXT 日本流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/unext.png?v=26b91a5b7f8d"
     },
     {
       "name": "AE 阿拉伯联合酋长国 United Arab Emirates 阿拉伯聯合大公國 UAE",
@@ -1243,8 +1423,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1"
     },
     {
+      "name": "viu Viu 亚洲剧集",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viu.png?v=c1d78cb98a24"
+    },
+    {
+      "name": "viutv ViuTV 香港 电视",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/viutv.png?v=4938c5811def"
+    },
+    {
       "name": "WF 瓦利斯和富图纳 Wallis and Futuna 瓦利斯群島和富圖那群島",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=55aedd3e24b2"
+    },
+    {
+      "name": "wavve Wavve 韩国 韓劇 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wavve.png?v=d1553406c52a"
     },
     {
       "name": "wd 西部数据 Western Digital",
@@ -1281,6 +1473,14 @@
     {
       "name": "youtube 油管 YouTube 视频",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20"
+    },
+    {
+      "name": "youtube-tv YouTube TV 美国电视直播",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974"
+    },
+    {
+      "name": "zalo Zalo 越南聊天",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zalo.png?v=56070ce5edee"
     },
     {
       "name": "ZM 赞比亚 Zambia 尚比亞",
