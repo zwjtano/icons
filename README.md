@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **300** 个图标。
+当前共收录 **304** 个图标。
 
 ## 订阅入口
 
@@ -10,8 +10,8 @@
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 300 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 51 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 304 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 55 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
 | 国旗合集 | 国家及地区旗帜 | 249 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
 ### 总合集
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（51 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（55 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 | 预览 | 中英文名称 | 原始链接 |
 | --- | --- | --- |
@@ -91,12 +91,15 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png" alt="loon" width="72"> | loon 代理 | [`loon.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png" alt="microsoft" width="72"> | microsoft 微软 Microsoft | [`microsoft.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/microsoft.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428" alt="netflix" width="72"> | netflix 奈飞 网飞 Netflix | [`netflix.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/netflix.png?v=51dde965f428) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png" alt="nintendo" width="72"> | nintendo 任天堂 Nintendo Switch 2 Switch2 游戏平台 | [`nintendo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/nintendo.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png" alt="paramount-plus" width="72"> | paramount-plus 派拉蒙 Paramount+ | [`paramount-plus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paramount-plus.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54" alt="paypal" width="72"> | paypal 贝宝 PayPal | [`paypal.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paypal.png?v=c054b3028c54) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png" alt="peacock" width="72"> | peacock 孔雀 Peacock | [`peacock.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/peacock.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png" alt="playstation" width="72"> | playstation 索尼 PS 游戏平台 | [`playstation.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/playstation.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40" alt="primevideo" width="72"> | primevideo 亚马逊视频 Prime Video | [`primevideo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/primevideo.png?v=1451ecd66b40) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png" alt="skydance" width="72"> | skydance 天空之舞 Skydance | [`skydance.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png" alt="spotify" width="72"> | spotify 声破天 音乐 | [`spotify.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/spotify.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png" alt="steam" width="72"> | steam 蒸汽 Valve 游戏平台 | [`steam.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/steam.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png" alt="surge" width="72"> | surge 网络代理 | [`surge.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9" alt="tag" width="72"> | tag 标签 | [`tag.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tag.png?v=daeb583d99e9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
@@ -104,6 +107,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06" alt="x" width="72"> | x 推特 Twitter | [`x.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png" alt="xbox" width="72"> | xbox 微软 游戏平台 | [`xbox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4" alt="xiaohongshu" width="72"> | xiaohongshu 小红书 | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20" alt="youtube" width="72"> | youtube 油管 YouTube 视频 | [`youtube.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | zhihu 知乎 | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
