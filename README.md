@@ -4,14 +4,14 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>499</td><td>
+<tr><td>总合集</td><td>500</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td>应用组</td><td>241</td><td>
+<tr><td>应用组</td><td>242</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 ## 应用
 
-| 预览 | 名称 | 图标地址 |
+| **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67" width="80" height="80" alt="abema"> | abema ABEMA 日本节目 | [abema.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/abema.png?v=20d4f9ab7e67) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f" width="80" height="80" alt="acorn-tv"> | acorn-tv Acorn TV 英剧 英劇 | [acorn-tv.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/acorn-tv.png?v=f8668de9a80f) |
@@ -183,7 +183,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 ## 机场组
 
-| 预览 | 名称 | 图标地址 |
+| **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d" width="80" height="80" alt="agentneo"> | 机场组 · AgentNEO | [agentneo.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2" width="80" height="80" alt="aladdin"> | 机场组 · Aladdin | [aladdin.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2) |
@@ -252,7 +252,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 ## Emby
 
-| 预览 | 名称 | 图标地址 |
+| **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7" width="80" height="80" alt="emby"> | emby Emby 媒体库 媒體庫 影音服务器 | [emby.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby.png?v=3f499c3ceac7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26" width="80" height="80" alt="emby-1111"> | Emby 垃圾影音 1111 Loser | [emby-1111.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/emby-1111.png?v=22b474717e26) |
@@ -293,7 +293,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 
 ## 洲地图
 
-| 预览 | 名称 | 图标地址 |
+| **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96" width="80" height="80" alt="asia"> | asia 亚洲 Asia | [asia.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721" width="80" height="80" alt="europe"> | europe 欧洲 歐洲 Europe | [europe.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721) |
@@ -301,16 +301,11 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041" width="80" height="80" alt="north-america"> | north-america 北美洲 North America 北美 | [north-america.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5" width="80" height="80" alt="south-america"> | south-america 南美洲 South America 南美 | [south-america.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563" width="80" height="80" alt="oceania"> | oceania 大洋洲 Oceania 澳大利亚洲 | [oceania.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281" width="80" height="80" alt="antarctica-map"> | antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆 | [antarctica-map.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281) |
 
-## 南极洲
+## 国家及地区旗帜
 
-| 预览 | 名称 | 图标地址 |
-| :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd" width="80" height="80" alt="antarctica"> | AQ 南极洲 Antarctica 南極洲 | [antarctica.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd) |
-
-## 其他国旗
-
-| 预览 | 名称 | 图标地址 |
+| **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce" width="80" height="80" alt="afghanistan"> | AF 阿富汗 Afghanistan | [afghanistan.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e" width="80" height="80" alt="aland-islands"> | AX 奥兰群岛 Aland Islands 奧蘭群島 | [aland-islands.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e) |
@@ -321,6 +316,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/flags.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c" width="80" height="80" alt="andorra"> | AD 安道尔 Andorra 安道爾 | [andorra.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b" width="80" height="80" alt="angola"> | AO 安哥拉 Angola | [angola.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d" width="80" height="80" alt="anguilla"> | AI 安圭拉 Anguilla 安奎拉 | [anguilla.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd" width="80" height="80" alt="antarctica"> | AQ 南极洲 Antarctica 南極洲 | [antarctica.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455" width="80" height="80" alt="antigua-and-barbuda"> | AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達 | [antigua-and-barbuda.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514" width="80" height="80" alt="argentina"> | AR 阿根廷 Argentina | [argentina.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c" width="80" height="80" alt="armenia"> | AM 亚美尼亚 Armenia 亞美尼亞 | [armenia.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c) |

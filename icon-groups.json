@@ -4,7 +4,6 @@
     "airports",
     "emby",
     "continents",
-    "antarctica",
     "flags"
   ],
   "airports": [
@@ -117,7 +116,7 @@
     "africa",
     "north-america",
     "south-america",
-    "oceania"
-  ],
-  "antarctica": "antarctica"
+    "oceania",
+    "antarctica-map"
+  ]
 }

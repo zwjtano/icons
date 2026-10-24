@@ -1,29 +1,9 @@
 # 图标仓库维护约定
 
-## 发布
-
-使用 GitHub API 创建发布提交和 Release。保留未涉及的文件和现有图片链接。
-
-## 订阅顺序
-
-- `icons.json` 固定为应用及通用图标在前、国家及地区旗帜在后。
-- 应用组逐项采用 `apps.json` 的顺序，旗帜组逐项采用 `flags.json` 的顺序。
-- 总合集固定按“应用 → 机场 → Emby → 六张洲地图 → 南极洲 → 其他国旗”排列；机场组为 airports.json 的全部 64 项（含 loon、surge、tag、wd），Emby 组含原 emby、omega、tudou-saha 和 Emby 专属订阅的 33 项，共 36 项；六张洲地图依次为亚洲、欧洲、非洲、北美洲、南美洲、大洋洲。其余应用、机场、Emby 和其余国旗各自按英文 ID 排序，今后新增图标也沿用此顺序；分组成员维护在 `icon-groups.json`。
-- `icon-groups.json.order` 固定为 `apps`、`airports`、`emby`、`continents`、`antarctica`、`flags`。
-- `apps` 与 `flags` 为各订阅扣除显式分组成员后的剩余项；应用组末尾依次放机场、Emby、六洲，旗帜组首项为原 `antarctica`。
-- 机场组严格采用 `airports.json.icons` 的全部 URL 文件名 ID，当前为 64 项（含用户指定的 Loon、Surge、TAG、WD），在 `icon-groups.json.airports` 按 ID 排序；保留“机场组 · ”名称前缀及原图、原别名。按用户用途分组，客户端也可由用户明确指定加入机场组。
-- 新增 Emby 服务图标时将其 ID 写入 `emby` 数组并按 ID 排序；当前包含 `emby`、`omega`、`tudou-saha` 及 `emby.json` 的 33 个 URL 文件名 ID，共 36 项；专属订阅保持原 33 项。
-- `continents` 固定为 `asia`、`europe`、`africa`、`north-america`、`south-america`、`oceania`；`antarctica` 引用现有旗帜 ID，不另建图标。
-- 显式分组成员必须存在且互不重复；全部分组必须覆盖所有订阅条目且仅覆盖一次。README 预览行采用相同顺序。
-- 普通应用、机场、Emby 和其余旗帜各自按图片 URL 文件名的英文 ID 升序排列；六洲固定顺序、南极洲固定在旗帜首位，不得跨组统一排序。
-- 总合集的 `icons` 数组必须严格等于 `apps.json.icons + flags.json.icons`。
-- 今后新增或更新图标也必须保持此规则，不得再对总合集跨组统一排序。
-- 条目仅使用 `name` 和 `url`；中英文检索词写入 `name`，不为别名创建重复条目。
-
-## 文档与校验
-
-README 保持中文，保留总合集、应用、机场、Emby、国旗五个可以直接复制的完整订阅地址。更新计数与预览后，校验总合集分组顺序、分类完整性、重复 ID、图片真实透明通道和线上链接。
-
-## 精简目录
-
-仓库仅保留 icons/、五份订阅 JSON、icon-groups.json、README.md、AGENTS.md、docs/SOURCES.md 与 LICENSE.flag-icons。来源说明统一更新 docs/SOURCES.md；生成记录、参考原图、候选清单、重复索引和批量预览仅本地保存，不再上传。新增或重绘图标时更新订阅、分组、必要来源说明及 README 数量。README 仅保留订阅表、组别和全部图标预览/名称/直链，不增加长篇介绍。机场组必须同时出现在顶部订阅表和独立预览章节，不混入应用预览。
+- 通过 GitHub API 发布提交，禁止覆盖无关变更。用户已要求清空 Releases，未经重新明确要求不创建 Release；保留 Git 标签与提交历史。
+- 总合集顺序固定为：应用 → 机场 → Emby → 七洲地图 → 国家及地区旗帜。`icons.json.icons` 必须等于 `apps.json.icons + flags.json.icons`。
+- 分组成员维护在 `icon-groups.json`。洲地图依次为亚洲、欧洲、非洲、北美洲、南美洲、大洋洲、南极洲地图；原 `antarctica` 属旗帜组，不是地图组。其他各组按英文 ID 排序。
+- 机场组采用 `airports.json` 全部成员，包含 Loon、Surge、TAG、WD，保留“机场组 · ”名称前缀、图片与检索别名。Emby 组为专属订阅成员加原 Emby、Omega、土豆萨哈。
+- 订阅条目仅使用 `name`、`url`；中英文与常见别名写入 `name`，不创建别名副本。新增图标同步更新订阅、分组和必要来源。
+- README 仅保留顶部五类订阅表及分组预览，不写介绍段落。订阅表含机场组，并在单元格内用代码块提供复制入口，不在表下重复列地址。预览保留全部图标，表头为“预览、中英文名称、原始链接”，机场组独立。
+- 仓库保留 `icons/`、五份订阅 JSON、`icon-groups.json`、`README.md`、`AGENTS.md`、`docs/SOURCES.md`、`LICENSE.flag-icons`。原始参考、生成记录、重复索引及批量预览仅本地归档。

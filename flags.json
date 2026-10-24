@@ -3,10 +3,6 @@
   "description": "258 面国家及地区旗帜：保留 ISO 249 条目，另补 9 面海外地区旗帜；支持中英文及地区代码搜索，波浪旗面、水彩纸纹、透明 PNG。",
   "icons": [
     {
-      "name": "AQ 南极洲 Antarctica 南極洲",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
-    },
-    {
       "name": "AF 阿富汗 Afghanistan",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
     },
@@ -41,6 +37,10 @@
     {
       "name": "AI 安圭拉 Anguilla 安奎拉",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d"
+    },
+    {
+      "name": "AQ 南极洲 Antarctica 南極洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
     },
     {
       "name": "AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達",
