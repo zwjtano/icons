@@ -2,7 +2,7 @@
 
 手绘风格透明 PNG 图标合集，适用于 Loon、Surge、Quantumult X 等代理客户端，也可用于个人规则集、脚本配置和图标引用。
 
-当前共收录 **304** 个图标。
+当前共收录 **305** 个图标。
 
 ## 订阅入口
 
@@ -10,8 +10,8 @@
 
 | 订阅 | 内容 | 数量 | 可直接使用的订阅地址 |
 | --- | --- | --- | --- |
-| 总合集 | 全部应用、通用图标和国旗 | 304 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
-| 应用合集 | 应用与通用图标，不含国旗 | 55 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
+| 总合集 | 全部应用、通用图标和国旗 | 305 | <https://raw.githubusercontent.com/zwjtano/icons/main/icons.json> |
+| 应用合集 | 应用与通用图标，不含国旗 | 56 | <https://raw.githubusercontent.com/zwjtano/icons/main/apps.json> |
 | 国旗合集 | 国家及地区旗帜 | 249 | <https://raw.githubusercontent.com/zwjtano/icons/main/flags.json> |
 
 ### 总合集
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 
 ## 应用与通用图标
 
-[应用与通用图标订阅（55 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
+[应用与通用图标订阅（56 项）](https://raw.githubusercontent.com/zwjtano/icons/main/apps.json)
 
 | 预览 | 中英文名称 | 原始链接 |
 | --- | --- | --- |
@@ -70,7 +70,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png" alt="discord" width="72"> | discord 语音聊天 | [`discord.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/discord.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=335893f395c1" alt="disneyplus" width="72"> | disneyplus 迪士尼 Disney+ | [`disneyplus.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/disneyplus.png?v=335893f395c1) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9" alt="dmit" width="72"> | dmit 云服务器 | [`dmit.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=514d24e94ab9) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389" alt="dongqiudi" width="72"> | dongqiudi 懂球帝 | [`dongqiudi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=380e7edfa54e" alt="dongqiudi" width="72"> | dongqiudi 懂球帝 | [`dongqiudi.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=380e7edfa54e) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986" alt="douyu" width="72"> | douyu 斗鱼 | [`douyu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/douyu.png?v=3a31e1dc9986) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf" alt="facebook" width="72"> | facebook 脸书 Facebook Meta | [`facebook.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/facebook.png?v=5704b4c48baf) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png" alt="game-platforms" width="72"> | game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo | [`game-platforms.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png) |
@@ -105,10 +105,11 @@ https://raw.githubusercontent.com/zwjtano/icons/main/icons/文件名.png
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a" alt="telegram" width="72"> | telegram 电报 Telegram | [`telegram.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/telegram.png?v=2d6bb722957a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f" alt="tiktok" width="72"> | tiktok 抖音国际版 | [`tiktok.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/tiktok.png?v=c5dcf123ab9f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png" alt="wd" width="72"> | wd 西部数据 Western Digital | [`wd.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9" alt="weibo" width="72"> | weibo 微博 新浪 Sina | [`weibo.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png" alt="whatsapp" width="72"> | whatsapp 即时通讯 | [`whatsapp.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06" alt="x" width="72"> | x 推特 Twitter | [`x.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/x.png?v=1ae8dea73c06) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png" alt="xbox" width="72"> | xbox 微软 游戏平台 | [`xbox.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4" alt="xiaohongshu" width="72"> | xiaohongshu 小红书 | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=47b41ea33993" alt="xiaohongshu" width="72"> | xiaohongshu 小红书 REDnote | [`xiaohongshu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=47b41ea33993) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20" alt="youtube" width="72"> | youtube 油管 YouTube 视频 | [`youtube.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=94bdfb0d1d20) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd" alt="zhihu" width="72"> | zhihu 知乎 | [`zhihu.png`](https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=8bb020e111bd) |
 

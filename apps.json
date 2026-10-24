@@ -60,7 +60,7 @@
     },
     {
       "name": "dongqiudi 懂球帝",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=10d14b2c3389"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dongqiudi.png?v=380e7edfa54e"
     },
     {
       "name": "douyu 斗鱼",
@@ -199,6 +199,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wd.png"
     },
     {
+      "name": "weibo 微博 新浪 Sina",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/weibo.png?v=b2ee29da1ec9"
+    },
+    {
       "name": "whatsapp 即时通讯",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/whatsapp.png"
     },
@@ -211,8 +215,8 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xbox.png"
     },
     {
-      "name": "xiaohongshu 小红书",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=1a99c83ed4c4"
+      "name": "xiaohongshu 小红书 REDnote",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaohongshu.png?v=47b41ea33993"
     },
     {
       "name": "youtube 油管 YouTube 视频",
