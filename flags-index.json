@@ -3,1502 +3,4325 @@
   "count": 249,
   "source": {
     "repository": "lipis/flag-icons",
-    "commit": "ac7e0eb3259eb62aa6100c435607e2fe03896a97"
+    "commit": "ac7e0eb3259eb62aa6100c435607e2fe03896a97",
+    "regional_overrides": "FLAG-SOURCES.md",
+    "localized_names": "https://github.com/unicode-org/cldr-json"
   },
   "flags": [
     {
       "code": "AD",
       "name": "Andorra",
+      "name_zh": "安道尔",
+      "name_zh_hant": "安道爾",
+      "display_name": "AD 安道尔 Andorra 安道爾",
       "icon": "andorra",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/andorra.png?v=df7409fd819c",
+      "aliases": [
+        "AD",
+        "andorra",
+        "Andorra",
+        "安道尔",
+        "安道爾"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ad.svg"
     },
     {
       "code": "AE",
       "name": "United Arab Emirates",
+      "name_zh": "阿拉伯联合酋长国",
+      "name_zh_hant": "阿拉伯聯合大公國",
+      "display_name": "AE 阿拉伯联合酋长国 United Arab Emirates 阿拉伯聯合大公國 UAE",
       "icon": "united-arab-emirates",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-arab-emirates.png?v=43df5c7bc87a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-arab-emirates.png?v=43df5c7bc87a",
+      "aliases": [
+        "AE",
+        "united-arab-emirates",
+        "united arab emirates",
+        "United Arab Emirates",
+        "阿拉伯联合酋长国",
+        "阿拉伯聯合大公國",
+        "UAE"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ae.svg"
     },
     {
       "code": "AF",
       "name": "Afghanistan",
+      "name_zh": "阿富汗",
+      "name_zh_hant": "阿富汗",
+      "display_name": "AF 阿富汗 Afghanistan",
       "icon": "afghanistan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce",
+      "aliases": [
+        "AF",
+        "afghanistan",
+        "Afghanistan",
+        "阿富汗"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/af.svg"
     },
     {
       "code": "AG",
       "name": "Antigua and Barbuda",
+      "name_zh": "安提瓜和巴布达",
+      "name_zh_hant": "安地卡及巴布達",
+      "display_name": "AG 安提瓜和巴布达 Antigua and Barbuda 安地卡及巴布達",
       "icon": "antigua-and-barbuda",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antigua-and-barbuda.png?v=a956a7919455",
+      "aliases": [
+        "AG",
+        "antigua-and-barbuda",
+        "antigua and barbuda",
+        "Antigua and Barbuda",
+        "安提瓜和巴布达",
+        "安地卡及巴布達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ag.svg"
     },
     {
       "code": "AI",
       "name": "Anguilla",
+      "name_zh": "安圭拉",
+      "name_zh_hant": "安奎拉",
+      "display_name": "AI 安圭拉 Anguilla 安奎拉",
       "icon": "anguilla",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/anguilla.png?v=f8df05f9ea0d",
+      "aliases": [
+        "AI",
+        "anguilla",
+        "Anguilla",
+        "安圭拉",
+        "安奎拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ai.svg"
     },
     {
       "code": "AL",
       "name": "Albania",
+      "name_zh": "阿尔巴尼亚",
+      "name_zh_hant": "阿爾巴尼亞",
+      "display_name": "AL 阿尔巴尼亚 Albania 阿爾巴尼亞",
       "icon": "albania",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/albania.png?v=7917952af72a",
+      "aliases": [
+        "AL",
+        "albania",
+        "Albania",
+        "阿尔巴尼亚",
+        "阿爾巴尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/al.svg"
     },
     {
       "code": "AM",
       "name": "Armenia",
+      "name_zh": "亚美尼亚",
+      "name_zh_hant": "亞美尼亞",
+      "display_name": "AM 亚美尼亚 Armenia 亞美尼亞",
       "icon": "armenia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/armenia.png?v=b56b3355982c",
+      "aliases": [
+        "AM",
+        "armenia",
+        "Armenia",
+        "亚美尼亚",
+        "亞美尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/am.svg"
     },
     {
       "code": "AO",
       "name": "Angola",
+      "name_zh": "安哥拉",
+      "name_zh_hant": "安哥拉",
+      "display_name": "AO 安哥拉 Angola",
       "icon": "angola",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/angola.png?v=7b6bf192731b",
+      "aliases": [
+        "AO",
+        "angola",
+        "Angola",
+        "安哥拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ao.svg"
     },
     {
       "code": "AQ",
       "name": "Antarctica",
+      "name_zh": "南极洲",
+      "name_zh_hant": "南極洲",
+      "display_name": "AQ 南极洲 Antarctica 南極洲",
       "icon": "antarctica",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica.png?v=5ab61fd909bd",
+      "aliases": [
+        "AQ",
+        "antarctica",
+        "Antarctica",
+        "南极洲",
+        "南極洲"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/aq.svg"
     },
     {
       "code": "AR",
       "name": "Argentina",
+      "name_zh": "阿根廷",
+      "name_zh_hant": "阿根廷",
+      "display_name": "AR 阿根廷 Argentina",
       "icon": "argentina",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/argentina.png?v=0acaf8b13514",
+      "aliases": [
+        "AR",
+        "argentina",
+        "Argentina",
+        "阿根廷"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ar.svg"
     },
     {
       "code": "AS",
       "name": "American Samoa",
+      "name_zh": "美属萨摩亚",
+      "name_zh_hant": "美屬薩摩亞",
+      "display_name": "AS 美属萨摩亚 American Samoa 美屬薩摩亞",
       "icon": "american-samoa",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/american-samoa.png?v=6e9fb7d45ebe"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/american-samoa.png?v=6e9fb7d45ebe",
+      "aliases": [
+        "AS",
+        "american-samoa",
+        "american samoa",
+        "American Samoa",
+        "美属萨摩亚",
+        "美屬薩摩亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/as.svg"
     },
     {
       "code": "AT",
       "name": "Austria",
+      "name_zh": "奥地利",
+      "name_zh_hant": "奧地利",
+      "display_name": "AT 奥地利 Austria 奧地利",
       "icon": "austria",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/austria.png?v=dded9d195907"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/austria.png?v=dded9d195907",
+      "aliases": [
+        "AT",
+        "austria",
+        "Austria",
+        "奥地利",
+        "奧地利"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/at.svg"
     },
     {
       "code": "AU",
       "name": "Australia",
+      "name_zh": "澳大利亚",
+      "name_zh_hant": "澳洲",
+      "display_name": "AU 澳大利亚 Australia 澳洲",
       "icon": "australia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/australia.png?v=6e455c3ff567"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/australia.png?v=6e455c3ff567",
+      "aliases": [
+        "AU",
+        "australia",
+        "Australia",
+        "澳大利亚",
+        "澳洲"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/au.svg"
     },
     {
       "code": "AW",
       "name": "Aruba",
+      "name_zh": "阿鲁巴",
+      "name_zh_hant": "荷屬阿魯巴",
+      "display_name": "AW 阿鲁巴 Aruba 荷屬阿魯巴",
       "icon": "aruba",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aruba.png?v=456a1de77946",
+      "aliases": [
+        "AW",
+        "aruba",
+        "Aruba",
+        "阿鲁巴",
+        "荷屬阿魯巴"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/aw.svg"
     },
     {
       "code": "AX",
       "name": "Aland Islands",
+      "name_zh": "奥兰群岛",
+      "name_zh_hant": "奧蘭群島",
+      "display_name": "AX 奥兰群岛 Aland Islands 奧蘭群島",
       "icon": "aland-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aland-islands.png?v=0d586847088e",
+      "aliases": [
+        "AX",
+        "aland-islands",
+        "aland islands",
+        "Aland Islands",
+        "奥兰群岛",
+        "奧蘭群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ax.svg"
     },
     {
       "code": "AZ",
       "name": "Azerbaijan",
+      "name_zh": "阿塞拜疆",
+      "name_zh_hant": "亞塞拜然",
+      "display_name": "AZ 阿塞拜疆 Azerbaijan 亞塞拜然",
       "icon": "azerbaijan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/azerbaijan.png?v=12dd1199899d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/azerbaijan.png?v=12dd1199899d",
+      "aliases": [
+        "AZ",
+        "azerbaijan",
+        "Azerbaijan",
+        "阿塞拜疆",
+        "亞塞拜然"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/az.svg"
     },
     {
       "code": "BA",
       "name": "Bosnia and Herzegovina",
+      "name_zh": "波斯尼亚和黑塞哥维那",
+      "name_zh_hant": "波士尼亞與赫塞哥維納",
+      "display_name": "BA 波斯尼亚和黑塞哥维那 Bosnia and Herzegovina 波士尼亞與赫塞哥維納",
       "icon": "bosnia-and-herzegovina",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bosnia-and-herzegovina.png?v=5f348db4ed4d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bosnia-and-herzegovina.png?v=5f348db4ed4d",
+      "aliases": [
+        "BA",
+        "bosnia-and-herzegovina",
+        "bosnia and herzegovina",
+        "Bosnia and Herzegovina",
+        "波斯尼亚和黑塞哥维那",
+        "波士尼亞與赫塞哥維納"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ba.svg"
     },
     {
       "code": "BB",
       "name": "Barbados",
+      "name_zh": "巴巴多斯",
+      "name_zh_hant": "巴貝多",
+      "display_name": "BB 巴巴多斯 Barbados 巴貝多",
       "icon": "barbados",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/barbados.png?v=10937090fd66",
+      "aliases": [
+        "BB",
+        "barbados",
+        "Barbados",
+        "巴巴多斯",
+        "巴貝多"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bb.svg"
     },
     {
       "code": "BD",
       "name": "Bangladesh",
+      "name_zh": "孟加拉国",
+      "name_zh_hant": "孟加拉",
+      "display_name": "BD 孟加拉国 Bangladesh",
       "icon": "bangladesh",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bangladesh.png?v=07411f62cf17"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bangladesh.png?v=07411f62cf17",
+      "aliases": [
+        "BD",
+        "bangladesh",
+        "Bangladesh",
+        "孟加拉国",
+        "孟加拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bd.svg"
     },
     {
       "code": "BE",
       "name": "Belgium",
+      "name_zh": "比利时",
+      "name_zh_hant": "比利時",
+      "display_name": "BE 比利时 Belgium 比利時",
       "icon": "belgium",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belgium.png?v=6e1d549f1cbf"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belgium.png?v=6e1d549f1cbf",
+      "aliases": [
+        "BE",
+        "belgium",
+        "Belgium",
+        "比利时",
+        "比利時"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/be.svg"
     },
     {
       "code": "BF",
       "name": "Burkina Faso",
+      "name_zh": "布基纳法索",
+      "name_zh_hant": "布吉納法索",
+      "display_name": "BF 布基纳法索 Burkina Faso 布吉納法索",
       "icon": "burkina-faso",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burkina-faso.png?v=77ce2cd8771a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burkina-faso.png?v=77ce2cd8771a",
+      "aliases": [
+        "BF",
+        "burkina-faso",
+        "burkina faso",
+        "Burkina Faso",
+        "布基纳法索",
+        "布吉納法索"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bf.svg"
     },
     {
       "code": "BG",
       "name": "Bulgaria",
+      "name_zh": "保加利亚",
+      "name_zh_hant": "保加利亞",
+      "display_name": "BG 保加利亚 Bulgaria 保加利亞",
       "icon": "bulgaria",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bulgaria.png?v=c64af6ce37f0"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bulgaria.png?v=c64af6ce37f0",
+      "aliases": [
+        "BG",
+        "bulgaria",
+        "Bulgaria",
+        "保加利亚",
+        "保加利亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bg.svg"
     },
     {
       "code": "BH",
       "name": "Bahrain",
+      "name_zh": "巴林",
+      "name_zh_hant": "巴林",
+      "display_name": "BH 巴林 Bahrain",
       "icon": "bahrain",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahrain.png?v=32163205b5f7",
+      "aliases": [
+        "BH",
+        "bahrain",
+        "Bahrain",
+        "巴林"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bh.svg"
     },
     {
       "code": "BI",
       "name": "Burundi",
+      "name_zh": "布隆迪",
+      "name_zh_hant": "蒲隆地",
+      "display_name": "BI 布隆迪 Burundi 蒲隆地",
       "icon": "burundi",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burundi.png?v=6c63b7aadbe7"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/burundi.png?v=6c63b7aadbe7",
+      "aliases": [
+        "BI",
+        "burundi",
+        "Burundi",
+        "布隆迪",
+        "蒲隆地"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bi.svg"
     },
     {
       "code": "BJ",
       "name": "Benin",
+      "name_zh": "贝宁",
+      "name_zh_hant": "貝南",
+      "display_name": "BJ 贝宁 Benin 貝南",
       "icon": "benin",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/benin.png?v=39abdef28554"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/benin.png?v=39abdef28554",
+      "aliases": [
+        "BJ",
+        "benin",
+        "Benin",
+        "贝宁",
+        "貝南"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bj.svg"
     },
     {
       "code": "BL",
       "name": "Saint Barthélemy",
+      "name_zh": "圣巴泰勒米",
+      "name_zh_hant": "聖巴瑟米",
+      "display_name": "BL 圣巴泰勒米 Saint Barthélemy 聖巴瑟米",
       "icon": "saint-barthelemy",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-barthelemy.png?v=c4ab965a8cde",
+      "aliases": [
+        "BL",
+        "saint-barthelemy",
+        "saint barthelemy",
+        "Saint Barthélemy",
+        "圣巴泰勒米",
+        "聖巴瑟米"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint_Barth%C3%A9lemy_(local).svg",
+      "flag_kind": "regional",
+      "status_zh": "地方徽章旗（非官方）",
+      "license": "CC BY 2.5",
+      "source_sha1": "2788e53c4c44e96699a706264ffc0cfe79baafd4"
     },
     {
       "code": "BM",
       "name": "Bermuda",
+      "name_zh": "百慕大",
+      "name_zh_hant": "百慕達",
+      "display_name": "BM 百慕大 Bermuda 百慕達",
       "icon": "bermuda",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bermuda.png?v=f94642a475f2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bermuda.png?v=f94642a475f2",
+      "aliases": [
+        "BM",
+        "bermuda",
+        "Bermuda",
+        "百慕大",
+        "百慕達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bm.svg"
     },
     {
       "code": "BN",
       "name": "Brunei Darussalam",
+      "name_zh": "文莱",
+      "name_zh_hant": "汶萊",
+      "display_name": "BN 文莱 Brunei Darussalam 汶萊",
       "icon": "brunei-darussalam",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brunei-darussalam.png?v=799846cde940"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brunei-darussalam.png?v=799846cde940",
+      "aliases": [
+        "BN",
+        "brunei-darussalam",
+        "brunei darussalam",
+        "Brunei Darussalam",
+        "文莱",
+        "汶萊"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bn.svg"
     },
     {
       "code": "BO",
       "name": "Bolivia",
+      "name_zh": "玻利维亚",
+      "name_zh_hant": "玻利維亞",
+      "display_name": "BO 玻利维亚 Bolivia 玻利維亞",
       "icon": "bolivia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bolivia.png?v=3c65d59ef03d",
+      "aliases": [
+        "BO",
+        "bolivia",
+        "Bolivia",
+        "玻利维亚",
+        "玻利維亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bo.svg"
     },
     {
       "code": "BQ",
       "name": "Bonaire, Sint Eustatius and Saba",
+      "name_zh": "荷属加勒比区",
+      "name_zh_hant": "荷蘭加勒比區",
+      "display_name": "BQ 荷属加勒比区 Bonaire, Sint Eustatius and Saba 荷蘭加勒比區",
       "icon": "bonaire-sint-eustatius-and-saba",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bonaire-sint-eustatius-and-saba.png?v=a5ec5bf08167",
+      "aliases": [
+        "BQ",
+        "bonaire-sint-eustatius-and-saba",
+        "bonaire sint eustatius and saba",
+        "Bonaire, Sint Eustatius and Saba",
+        "荷属加勒比区",
+        "荷蘭加勒比區"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bq.svg"
     },
     {
       "code": "BR",
       "name": "Brazil",
+      "name_zh": "巴西",
+      "name_zh_hant": "巴西",
+      "display_name": "BR 巴西 Brazil",
       "icon": "brazil",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/brazil.png?v=1fe2a06a8218",
+      "aliases": [
+        "BR",
+        "brazil",
+        "Brazil",
+        "巴西"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/br.svg"
     },
     {
       "code": "BS",
       "name": "Bahamas",
+      "name_zh": "巴哈马",
+      "name_zh_hant": "巴哈馬",
+      "display_name": "BS 巴哈马 Bahamas 巴哈馬",
       "icon": "bahamas",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bahamas.png?v=8759d7a764c9",
+      "aliases": [
+        "BS",
+        "bahamas",
+        "Bahamas",
+        "巴哈马",
+        "巴哈馬"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bs.svg"
     },
     {
       "code": "BT",
       "name": "Bhutan",
+      "name_zh": "不丹",
+      "name_zh_hant": "不丹",
+      "display_name": "BT 不丹 Bhutan",
       "icon": "bhutan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bhutan.png?v=54dcc6d3b5d7"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bhutan.png?v=54dcc6d3b5d7",
+      "aliases": [
+        "BT",
+        "bhutan",
+        "Bhutan",
+        "不丹"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bt.svg"
     },
     {
       "code": "BV",
       "name": "Bouvet Island",
+      "name_zh": "布韦岛",
+      "name_zh_hant": "布威島",
+      "display_name": "BV 布韦岛 Bouvet Island 布威島",
       "icon": "bouvet-island",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bouvet-island.png?v=f45a72487539"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bouvet-island.png?v=f45a72487539",
+      "aliases": [
+        "BV",
+        "bouvet-island",
+        "bouvet island",
+        "Bouvet Island",
+        "布韦岛",
+        "布威島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bv.svg"
     },
     {
       "code": "BW",
       "name": "Botswana",
+      "name_zh": "博茨瓦纳",
+      "name_zh_hant": "波札那",
+      "display_name": "BW 博茨瓦纳 Botswana 波札那",
       "icon": "botswana",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/botswana.png?v=79fe759fc073"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/botswana.png?v=79fe759fc073",
+      "aliases": [
+        "BW",
+        "botswana",
+        "Botswana",
+        "博茨瓦纳",
+        "波札那"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bw.svg"
     },
     {
       "code": "BY",
       "name": "Belarus",
+      "name_zh": "白俄罗斯",
+      "name_zh_hant": "白俄羅斯",
+      "display_name": "BY 白俄罗斯 Belarus 白俄羅斯",
       "icon": "belarus",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belarus.png?v=547c5254f113"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belarus.png?v=547c5254f113",
+      "aliases": [
+        "BY",
+        "belarus",
+        "Belarus",
+        "白俄罗斯",
+        "白俄羅斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/by.svg"
     },
     {
       "code": "BZ",
       "name": "Belize",
+      "name_zh": "伯利兹",
+      "name_zh_hant": "貝里斯",
+      "display_name": "BZ 伯利兹 Belize 貝里斯",
       "icon": "belize",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belize.png?v=e8bb180ae925"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/belize.png?v=e8bb180ae925",
+      "aliases": [
+        "BZ",
+        "belize",
+        "Belize",
+        "伯利兹",
+        "貝里斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/bz.svg"
     },
     {
       "code": "CA",
       "name": "Canada",
+      "name_zh": "加拿大",
+      "name_zh_hant": "加拿大",
+      "display_name": "CA 加拿大 Canada",
       "icon": "canada",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canada.png?v=cbb80311ea02"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canada.png?v=cbb80311ea02",
+      "aliases": [
+        "CA",
+        "canada",
+        "Canada",
+        "加拿大"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ca.svg"
     },
     {
       "code": "CC",
       "name": "Cocos (Keeling) Islands",
+      "name_zh": "科科斯（基林）群岛",
+      "name_zh_hant": "科克斯（基靈）群島",
+      "display_name": "CC 科科斯（基林）群岛 Cocos (Keeling) Islands 科克斯（基靈）群島",
       "icon": "cocos-keeling-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cocos-keeling-islands.png?v=e6eed4d969f2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cocos-keeling-islands.png?v=e6eed4d969f2",
+      "aliases": [
+        "CC",
+        "cocos-keeling-islands",
+        "cocos keeling islands",
+        "Cocos (Keeling) Islands",
+        "科科斯（基林）群岛",
+        "科克斯（基靈）群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cc.svg"
     },
     {
       "code": "CD",
       "name": "Democratic Republic of the Congo",
+      "name_zh": "刚果（金）",
+      "name_zh_hant": "剛果（金夏沙）",
+      "display_name": "CD 刚果（金） Democratic Republic of the Congo 剛果（金夏沙） Congo-Kinshasa",
       "icon": "democratic-republic-of-congo",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/democratic-republic-of-congo.png?v=df8c75d19b0b",
+      "aliases": [
+        "CD",
+        "democratic-republic-of-congo",
+        "democratic republic of congo",
+        "Democratic Republic of the Congo",
+        "刚果（金）",
+        "剛果（金夏沙）",
+        "Congo-Kinshasa"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cd.svg"
     },
     {
       "code": "CF",
       "name": "Central African Republic",
+      "name_zh": "中非共和国",
+      "name_zh_hant": "中非共和國",
+      "display_name": "CF 中非共和国 Central African Republic 中非共和國",
       "icon": "central-african-republic",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/central-african-republic.png?v=2624c8f081e6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/central-african-republic.png?v=2624c8f081e6",
+      "aliases": [
+        "CF",
+        "central-african-republic",
+        "central african republic",
+        "Central African Republic",
+        "中非共和国",
+        "中非共和國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cf.svg"
     },
     {
       "code": "CG",
       "name": "Republic of the Congo",
+      "name_zh": "刚果（布）",
+      "name_zh_hant": "剛果（布拉薩）",
+      "display_name": "CG 刚果（布） Republic of the Congo 剛果（布拉薩） Congo-Brazzaville",
       "icon": "republic-of-congo",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/republic-of-congo.png?v=78c09c3d7d1d",
+      "aliases": [
+        "CG",
+        "republic-of-congo",
+        "republic of congo",
+        "Republic of the Congo",
+        "刚果（布）",
+        "剛果（布拉薩）",
+        "Congo-Brazzaville"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cg.svg"
     },
     {
       "code": "CH",
       "name": "Switzerland",
+      "name_zh": "瑞士",
+      "name_zh_hant": "瑞士",
+      "display_name": "CH 瑞士 Switzerland",
       "icon": "switzerland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/switzerland.png?v=e3891e28de51"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/switzerland.png?v=e3891e28de51",
+      "aliases": [
+        "CH",
+        "switzerland",
+        "Switzerland",
+        "瑞士"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/1x1/ch.svg"
     },
     {
       "code": "CI",
       "name": "Côte d'Ivoire",
+      "name_zh": "科特迪瓦",
+      "name_zh_hant": "象牙海岸",
+      "display_name": "CI 科特迪瓦 Côte d'Ivoire 象牙海岸 Ivory Coast",
       "icon": "ivory-coast",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ivory-coast.png?v=b45e5c2a4882",
+      "aliases": [
+        "CI",
+        "ivory-coast",
+        "ivory coast",
+        "Côte d'Ivoire",
+        "科特迪瓦",
+        "象牙海岸",
+        "Ivory Coast"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ci.svg"
     },
     {
       "code": "CK",
       "name": "Cook Islands",
+      "name_zh": "库克群岛",
+      "name_zh_hant": "庫克群島",
+      "display_name": "CK 库克群岛 Cook Islands 庫克群島",
       "icon": "cook-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cook-islands.png?v=98f248c6ab68"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cook-islands.png?v=98f248c6ab68",
+      "aliases": [
+        "CK",
+        "cook-islands",
+        "cook islands",
+        "Cook Islands",
+        "库克群岛",
+        "庫克群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ck.svg"
     },
     {
       "code": "CL",
       "name": "Chile",
+      "name_zh": "智利",
+      "name_zh_hant": "智利",
+      "display_name": "CL 智利 Chile",
       "icon": "chile",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chile.png?v=7322373dd361"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chile.png?v=7322373dd361",
+      "aliases": [
+        "CL",
+        "chile",
+        "Chile",
+        "智利"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cl.svg"
     },
     {
       "code": "CM",
       "name": "Cameroon",
+      "name_zh": "喀麦隆",
+      "name_zh_hant": "喀麥隆",
+      "display_name": "CM 喀麦隆 Cameroon 喀麥隆",
       "icon": "cameroon",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cameroon.png?v=08e2199b021f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cameroon.png?v=08e2199b021f",
+      "aliases": [
+        "CM",
+        "cameroon",
+        "Cameroon",
+        "喀麦隆",
+        "喀麥隆"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cm.svg"
     },
     {
       "code": "CN",
       "name": "China",
+      "name_zh": "中国",
+      "name_zh_hant": "中國",
+      "display_name": "CN 中国 China 中國 中国大陆 Mainland China PRC",
       "icon": "china",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/china.png?v=880320af9779"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/china.png?v=880320af9779",
+      "aliases": [
+        "CN",
+        "china",
+        "China",
+        "中国",
+        "中國",
+        "中国大陆",
+        "Mainland China",
+        "PRC"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cn.svg"
     },
     {
       "code": "CO",
       "name": "Colombia",
+      "name_zh": "哥伦比亚",
+      "name_zh_hant": "哥倫比亞",
+      "display_name": "CO 哥伦比亚 Colombia 哥倫比亞",
       "icon": "colombia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colombia.png?v=b03c90df17fd"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colombia.png?v=b03c90df17fd",
+      "aliases": [
+        "CO",
+        "colombia",
+        "Colombia",
+        "哥伦比亚",
+        "哥倫比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/co.svg"
     },
     {
       "code": "CR",
       "name": "Costa Rica",
+      "name_zh": "哥斯达黎加",
+      "name_zh_hant": "哥斯大黎加",
+      "display_name": "CR 哥斯达黎加 Costa Rica 哥斯大黎加",
       "icon": "costa-rica",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/costa-rica.png?v=04c61e7ee09e",
+      "aliases": [
+        "CR",
+        "costa-rica",
+        "costa rica",
+        "Costa Rica",
+        "哥斯达黎加",
+        "哥斯大黎加"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cr.svg"
     },
     {
       "code": "CU",
       "name": "Cuba",
+      "name_zh": "古巴",
+      "name_zh_hant": "古巴",
+      "display_name": "CU 古巴 Cuba",
       "icon": "cuba",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cuba.png?v=0e6ca652e2f5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cuba.png?v=0e6ca652e2f5",
+      "aliases": [
+        "CU",
+        "cuba",
+        "Cuba",
+        "古巴"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cu.svg"
     },
     {
       "code": "CV",
       "name": "Cabo Verde",
+      "name_zh": "佛得角",
+      "name_zh_hant": "維德角",
+      "display_name": "CV 佛得角 Cabo Verde 維德角 Cape Verde",
       "icon": "cabo-verde",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cabo-verde.png?v=1be92b78ac22"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cabo-verde.png?v=1be92b78ac22",
+      "aliases": [
+        "CV",
+        "cabo-verde",
+        "cabo verde",
+        "Cabo Verde",
+        "佛得角",
+        "維德角",
+        "Cape Verde"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cv.svg"
     },
     {
       "code": "CW",
       "name": "Curaçao",
+      "name_zh": "库拉索",
+      "name_zh_hant": "庫拉索",
+      "display_name": "CW 库拉索 Curaçao 庫拉索",
       "icon": "curacao",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/curacao.png?v=522d90bc236b",
+      "aliases": [
+        "CW",
+        "curacao",
+        "Curaçao",
+        "库拉索",
+        "庫拉索"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cw.svg"
     },
     {
       "code": "CX",
       "name": "Christmas Island",
+      "name_zh": "圣诞岛",
+      "name_zh_hant": "聖誕島",
+      "display_name": "CX 圣诞岛 Christmas Island 聖誕島",
       "icon": "christmas-island",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/christmas-island.png?v=956a19669656"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/christmas-island.png?v=956a19669656",
+      "aliases": [
+        "CX",
+        "christmas-island",
+        "christmas island",
+        "Christmas Island",
+        "圣诞岛",
+        "聖誕島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cx.svg"
     },
     {
       "code": "CY",
       "name": "Cyprus",
+      "name_zh": "塞浦路斯",
+      "name_zh_hant": "賽普勒斯",
+      "display_name": "CY 塞浦路斯 Cyprus 賽普勒斯",
       "icon": "cyprus",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyprus.png?v=dcb7629cf868"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyprus.png?v=dcb7629cf868",
+      "aliases": [
+        "CY",
+        "cyprus",
+        "Cyprus",
+        "塞浦路斯",
+        "賽普勒斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cy.svg"
     },
     {
       "code": "CZ",
       "name": "Czech Republic",
+      "name_zh": "捷克",
+      "name_zh_hant": "捷克",
+      "display_name": "CZ 捷克 Czech Republic Czechia",
       "icon": "czech-republic",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/czech-republic.png?v=ce949451d54c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/czech-republic.png?v=ce949451d54c",
+      "aliases": [
+        "CZ",
+        "czech-republic",
+        "czech republic",
+        "Czech Republic",
+        "捷克",
+        "Czechia"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/cz.svg"
     },
     {
       "code": "DE",
       "name": "Germany",
+      "name_zh": "德国",
+      "name_zh_hant": "德國",
+      "display_name": "DE 德国 Germany 德國",
       "icon": "germany",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/germany.png?v=1d71059ff882"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/germany.png?v=1d71059ff882",
+      "aliases": [
+        "DE",
+        "germany",
+        "Germany",
+        "德国",
+        "德國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/de.svg"
     },
     {
       "code": "DJ",
       "name": "Djibouti",
+      "name_zh": "吉布提",
+      "name_zh_hant": "吉布地",
+      "display_name": "DJ 吉布提 Djibouti 吉布地",
       "icon": "djibouti",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/djibouti.png?v=e8055b033bee"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/djibouti.png?v=e8055b033bee",
+      "aliases": [
+        "DJ",
+        "djibouti",
+        "Djibouti",
+        "吉布提",
+        "吉布地"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/dj.svg"
     },
     {
       "code": "DK",
       "name": "Denmark",
+      "name_zh": "丹麦",
+      "name_zh_hant": "丹麥",
+      "display_name": "DK 丹麦 Denmark 丹麥",
       "icon": "denmark",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/denmark.png?v=698c6219917a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/denmark.png?v=698c6219917a",
+      "aliases": [
+        "DK",
+        "denmark",
+        "Denmark",
+        "丹麦",
+        "丹麥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/dk.svg"
     },
     {
       "code": "DM",
       "name": "Dominica",
+      "name_zh": "多米尼克",
+      "name_zh_hant": "多米尼克",
+      "display_name": "DM 多米尼克 Dominica",
       "icon": "dominica",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominica.png?v=ff3a24d62199"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominica.png?v=ff3a24d62199",
+      "aliases": [
+        "DM",
+        "dominica",
+        "Dominica",
+        "多米尼克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/dm.svg"
     },
     {
       "code": "DO",
       "name": "Dominican Republic",
+      "name_zh": "多米尼加共和国",
+      "name_zh_hant": "多明尼加共和國",
+      "display_name": "DO 多米尼加共和国 Dominican Republic 多明尼加共和國",
       "icon": "dominican-republic",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominican-republic.png?v=2998bd973006"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dominican-republic.png?v=2998bd973006",
+      "aliases": [
+        "DO",
+        "dominican-republic",
+        "dominican republic",
+        "Dominican Republic",
+        "多米尼加共和国",
+        "多明尼加共和國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/do.svg"
     },
     {
       "code": "DZ",
       "name": "Algeria",
+      "name_zh": "阿尔及利亚",
+      "name_zh_hant": "阿爾及利亞",
+      "display_name": "DZ 阿尔及利亚 Algeria 阿爾及利亞",
       "icon": "algeria",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/algeria.png?v=eae0fd13dc5d",
+      "aliases": [
+        "DZ",
+        "algeria",
+        "Algeria",
+        "阿尔及利亚",
+        "阿爾及利亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/dz.svg"
     },
     {
       "code": "EC",
       "name": "Ecuador",
+      "name_zh": "厄瓜多尔",
+      "name_zh_hant": "厄瓜多",
+      "display_name": "EC 厄瓜多尔 Ecuador",
       "icon": "ecuador",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ecuador.png?v=d56593171a81"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ecuador.png?v=d56593171a81",
+      "aliases": [
+        "EC",
+        "ecuador",
+        "Ecuador",
+        "厄瓜多尔",
+        "厄瓜多"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ec.svg"
     },
     {
       "code": "EE",
       "name": "Estonia",
+      "name_zh": "爱沙尼亚",
+      "name_zh_hant": "愛沙尼亞",
+      "display_name": "EE 爱沙尼亚 Estonia 愛沙尼亞",
       "icon": "estonia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/estonia.png?v=8fd4221c2e72",
+      "aliases": [
+        "EE",
+        "estonia",
+        "Estonia",
+        "爱沙尼亚",
+        "愛沙尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ee.svg"
     },
     {
       "code": "EG",
       "name": "Egypt",
+      "name_zh": "埃及",
+      "name_zh_hant": "埃及",
+      "display_name": "EG 埃及 Egypt",
       "icon": "egypt",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egypt.png?v=4fa429c1edcc"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egypt.png?v=4fa429c1edcc",
+      "aliases": [
+        "EG",
+        "egypt",
+        "Egypt",
+        "埃及"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/eg.svg"
     },
     {
       "code": "EH",
       "name": "Western Sahara",
+      "name_zh": "西撒哈拉",
+      "name_zh_hant": "西撒哈拉",
+      "display_name": "EH 西撒哈拉 Western Sahara",
       "icon": "western-sahara",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/western-sahara.png?v=868186ba9b1b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/western-sahara.png?v=868186ba9b1b",
+      "aliases": [
+        "EH",
+        "western-sahara",
+        "western sahara",
+        "Western Sahara",
+        "西撒哈拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/eh.svg"
     },
     {
       "code": "ER",
       "name": "Eritrea",
+      "name_zh": "厄立特里亚",
+      "name_zh_hant": "厄利垂亞",
+      "display_name": "ER 厄立特里亚 Eritrea 厄利垂亞",
       "icon": "eritrea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eritrea.png?v=bc77f34596a4",
+      "aliases": [
+        "ER",
+        "eritrea",
+        "Eritrea",
+        "厄立特里亚",
+        "厄利垂亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/er.svg"
     },
     {
       "code": "ES",
       "name": "Spain",
+      "name_zh": "西班牙",
+      "name_zh_hant": "西班牙",
+      "display_name": "ES 西班牙 Spain",
       "icon": "spain",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spain.png?v=8ea0a966df2c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spain.png?v=8ea0a966df2c",
+      "aliases": [
+        "ES",
+        "spain",
+        "Spain",
+        "西班牙"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/es.svg"
     },
     {
       "code": "ET",
       "name": "Ethiopia",
+      "name_zh": "埃塞俄比亚",
+      "name_zh_hant": "衣索比亞",
+      "display_name": "ET 埃塞俄比亚 Ethiopia 衣索比亞",
       "icon": "ethiopia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ethiopia.png?v=934c9dcb0891"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ethiopia.png?v=934c9dcb0891",
+      "aliases": [
+        "ET",
+        "ethiopia",
+        "Ethiopia",
+        "埃塞俄比亚",
+        "衣索比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/et.svg"
     },
     {
       "code": "FI",
       "name": "Finland",
+      "name_zh": "芬兰",
+      "name_zh_hant": "芬蘭",
+      "display_name": "FI 芬兰 Finland 芬蘭",
       "icon": "finland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/finland.png?v=1e89fe92f1cd",
+      "aliases": [
+        "FI",
+        "finland",
+        "Finland",
+        "芬兰",
+        "芬蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fi.svg"
     },
     {
       "code": "FJ",
       "name": "Fiji",
+      "name_zh": "斐济",
+      "name_zh_hant": "斐濟",
+      "display_name": "FJ 斐济 Fiji 斐濟",
       "icon": "fiji",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fiji.png?v=ccd11897e245"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fiji.png?v=ccd11897e245",
+      "aliases": [
+        "FJ",
+        "fiji",
+        "Fiji",
+        "斐济",
+        "斐濟"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fj.svg"
     },
     {
       "code": "FK",
       "name": "Falkland Islands",
+      "name_zh": "福克兰群岛",
+      "name_zh_hant": "福克蘭群島",
+      "display_name": "FK 福克兰群岛 Falkland Islands 福克蘭群島",
       "icon": "falkland-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/falkland-islands.png?v=23883e8e8dff"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/falkland-islands.png?v=23883e8e8dff",
+      "aliases": [
+        "FK",
+        "falkland-islands",
+        "falkland islands",
+        "Falkland Islands",
+        "福克兰群岛",
+        "福克蘭群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fk.svg"
     },
     {
       "code": "FM",
       "name": "Federated States of Micronesia",
+      "name_zh": "密克罗尼西亚",
+      "name_zh_hant": "密克羅尼西亞",
+      "display_name": "FM 密克罗尼西亚 Federated States of Micronesia 密克羅尼西亞",
       "icon": "federated-states-of-micronesia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/federated-states-of-micronesia.png?v=e78501aa65ef"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/federated-states-of-micronesia.png?v=e78501aa65ef",
+      "aliases": [
+        "FM",
+        "federated-states-of-micronesia",
+        "federated states of micronesia",
+        "Federated States of Micronesia",
+        "密克罗尼西亚",
+        "密克羅尼西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fm.svg"
     },
     {
       "code": "FO",
       "name": "Faroe Islands",
+      "name_zh": "法罗群岛",
+      "name_zh_hant": "法羅群島",
+      "display_name": "FO 法罗群岛 Faroe Islands 法羅群島",
       "icon": "faroe-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/faroe-islands.png?v=d7468e40e818"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/faroe-islands.png?v=d7468e40e818",
+      "aliases": [
+        "FO",
+        "faroe-islands",
+        "faroe islands",
+        "Faroe Islands",
+        "法罗群岛",
+        "法羅群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fo.svg"
     },
     {
       "code": "FR",
       "name": "France",
+      "name_zh": "法国",
+      "name_zh_hant": "法國",
+      "display_name": "FR 法国 France 法國",
       "icon": "france",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/france.png?v=4d239bf67ec3",
+      "aliases": [
+        "FR",
+        "france",
+        "France",
+        "法国",
+        "法國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/fr.svg"
     },
     {
       "code": "GA",
       "name": "Gabon",
+      "name_zh": "加蓬",
+      "name_zh_hant": "加彭",
+      "display_name": "GA 加蓬 Gabon 加彭",
       "icon": "gabon",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gabon.png?v=4b5f8fd9c39b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gabon.png?v=4b5f8fd9c39b",
+      "aliases": [
+        "GA",
+        "gabon",
+        "Gabon",
+        "加蓬",
+        "加彭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ga.svg"
     },
     {
       "code": "GB",
       "name": "United Kingdom",
+      "name_zh": "英国",
+      "name_zh_hant": "英國",
+      "display_name": "GB 英国 United Kingdom 英國 UK Britain",
       "icon": "united-kingdom",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-kingdom.png?v=8331137553b6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-kingdom.png?v=8331137553b6",
+      "aliases": [
+        "GB",
+        "united-kingdom",
+        "united kingdom",
+        "United Kingdom",
+        "英国",
+        "英國",
+        "UK",
+        "Britain"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gb.svg"
     },
     {
       "code": "GD",
       "name": "Grenada",
+      "name_zh": "格林纳达",
+      "name_zh_hant": "格瑞那達",
+      "display_name": "GD 格林纳达 Grenada 格瑞那達",
       "icon": "grenada",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/grenada.png?v=cfe8e0826b57",
+      "aliases": [
+        "GD",
+        "grenada",
+        "Grenada",
+        "格林纳达",
+        "格瑞那達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gd.svg"
     },
     {
       "code": "GE",
       "name": "Georgia",
+      "name_zh": "格鲁吉亚",
+      "name_zh_hant": "喬治亞",
+      "display_name": "GE 格鲁吉亚 Georgia 喬治亞",
       "icon": "georgia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/georgia.png?v=fd593d2b8abe"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/georgia.png?v=fd593d2b8abe",
+      "aliases": [
+        "GE",
+        "georgia",
+        "Georgia",
+        "格鲁吉亚",
+        "喬治亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ge.svg"
     },
     {
       "code": "GF",
       "name": "French Guiana",
+      "name_zh": "法属圭亚那",
+      "name_zh_hant": "法屬圭亞那",
+      "display_name": "GF 法属圭亚那 French Guiana 法屬圭亞那",
       "icon": "french-guiana",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-guiana.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-guiana.png?v=52869470aaeb",
+      "aliases": [
+        "GF",
+        "french-guiana",
+        "french guiana",
+        "French Guiana",
+        "法属圭亚那",
+        "法屬圭亞那"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_French_Guiana.svg",
+      "flag_kind": "regional",
+      "status_zh": "常用地方旗（非官方）",
+      "license": "Public domain",
+      "source_sha1": "721d233c7f3ede25a419e73388d994456e0f4776"
     },
     {
       "code": "GG",
       "name": "Guernsey",
+      "name_zh": "根西岛",
+      "name_zh_hant": "根息",
+      "display_name": "GG 根西岛 Guernsey 根息",
       "icon": "guernsey",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guernsey.png?v=881e3bd2582f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guernsey.png?v=881e3bd2582f",
+      "aliases": [
+        "GG",
+        "guernsey",
+        "Guernsey",
+        "根西岛",
+        "根息"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gg.svg"
     },
     {
       "code": "GH",
       "name": "Ghana",
+      "name_zh": "加纳",
+      "name_zh_hant": "迦納",
+      "display_name": "GH 加纳 Ghana 迦納",
       "icon": "ghana",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ghana.png?v=12c1c6f524e9"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ghana.png?v=12c1c6f524e9",
+      "aliases": [
+        "GH",
+        "ghana",
+        "Ghana",
+        "加纳",
+        "迦納"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gh.svg"
     },
     {
       "code": "GI",
       "name": "Gibraltar",
+      "name_zh": "直布罗陀",
+      "name_zh_hant": "直布羅陀",
+      "display_name": "GI 直布罗陀 Gibraltar 直布羅陀",
       "icon": "gibraltar",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gibraltar.png?v=a37ab72f23d8"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gibraltar.png?v=a37ab72f23d8",
+      "aliases": [
+        "GI",
+        "gibraltar",
+        "Gibraltar",
+        "直布罗陀",
+        "直布羅陀"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gi.svg"
     },
     {
       "code": "GL",
       "name": "Greenland",
+      "name_zh": "格陵兰",
+      "name_zh_hant": "格陵蘭",
+      "display_name": "GL 格陵兰 Greenland 格陵蘭",
       "icon": "greenland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greenland.png?v=a05e09539aed"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greenland.png?v=a05e09539aed",
+      "aliases": [
+        "GL",
+        "greenland",
+        "Greenland",
+        "格陵兰",
+        "格陵蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gl.svg"
     },
     {
       "code": "GM",
       "name": "Gambia",
+      "name_zh": "冈比亚",
+      "name_zh_hant": "甘比亞",
+      "display_name": "GM 冈比亚 Gambia 甘比亞",
       "icon": "gambia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gambia.png?v=b9ad803d5e54"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/gambia.png?v=b9ad803d5e54",
+      "aliases": [
+        "GM",
+        "gambia",
+        "Gambia",
+        "冈比亚",
+        "甘比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gm.svg"
     },
     {
       "code": "GN",
       "name": "Guinea",
+      "name_zh": "几内亚",
+      "name_zh_hant": "幾內亞",
+      "display_name": "GN 几内亚 Guinea 幾內亞",
       "icon": "guinea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea.png?v=25163c9ac964"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea.png?v=25163c9ac964",
+      "aliases": [
+        "GN",
+        "guinea",
+        "Guinea",
+        "几内亚",
+        "幾內亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gn.svg"
     },
     {
       "code": "GP",
       "name": "Guadeloupe",
+      "name_zh": "瓜德罗普",
+      "name_zh_hant": "瓜地洛普",
+      "display_name": "GP 瓜德罗普 Guadeloupe 瓜地洛普",
       "icon": "guadeloupe",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guadeloupe.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guadeloupe.png?v=dfa6c711f615",
+      "aliases": [
+        "GP",
+        "guadeloupe",
+        "Guadeloupe",
+        "瓜德罗普",
+        "瓜地洛普"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Unofficial_flag_of_Guadeloupe_(local).svg",
+      "flag_kind": "regional",
+      "status_zh": "常用地方旗（非官方）",
+      "license": "Public domain",
+      "source_sha1": "bb2645e2ba2a59656157f8f0f53d213e66b47568"
     },
     {
       "code": "GQ",
       "name": "Equatorial Guinea",
+      "name_zh": "赤道几内亚",
+      "name_zh_hant": "赤道幾內亞",
+      "display_name": "GQ 赤道几内亚 Equatorial Guinea 赤道幾內亞",
       "icon": "equatorial-guinea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/equatorial-guinea.png?v=6d8b1a8fac3e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/equatorial-guinea.png?v=6d8b1a8fac3e",
+      "aliases": [
+        "GQ",
+        "equatorial-guinea",
+        "equatorial guinea",
+        "Equatorial Guinea",
+        "赤道几内亚",
+        "赤道幾內亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gq.svg"
     },
     {
       "code": "GR",
       "name": "Greece",
+      "name_zh": "希腊",
+      "name_zh_hant": "希臘",
+      "display_name": "GR 希腊 Greece 希臘",
       "icon": "greece",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greece.png?v=f7daee05263d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greece.png?v=f7daee05263d",
+      "aliases": [
+        "GR",
+        "greece",
+        "Greece",
+        "希腊",
+        "希臘"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gr.svg"
     },
     {
       "code": "GS",
       "name": "South Georgia and the South Sandwich Islands",
+      "name_zh": "南乔治亚和南桑威奇群岛",
+      "name_zh_hant": "南喬治亞與南三明治群島",
+      "display_name": "GS 南乔治亚和南桑威奇群岛 South Georgia and the South Sandwich Islands 南喬治亞與南三明治群島",
       "icon": "south-georgia-and-the-south-sandwich-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-georgia-and-the-south-sandwich-islands.png?v=fab53d16fff5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-georgia-and-the-south-sandwich-islands.png?v=fab53d16fff5",
+      "aliases": [
+        "GS",
+        "south-georgia-and-the-south-sandwich-islands",
+        "south georgia and the south sandwich islands",
+        "South Georgia and the South Sandwich Islands",
+        "南乔治亚和南桑威奇群岛",
+        "南喬治亞與南三明治群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gs.svg"
     },
     {
       "code": "GT",
       "name": "Guatemala",
+      "name_zh": "危地马拉",
+      "name_zh_hant": "瓜地馬拉",
+      "display_name": "GT 危地马拉 Guatemala 瓜地馬拉",
       "icon": "guatemala",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guatemala.png?v=bc470d21151f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guatemala.png?v=bc470d21151f",
+      "aliases": [
+        "GT",
+        "guatemala",
+        "Guatemala",
+        "危地马拉",
+        "瓜地馬拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gt.svg"
     },
     {
       "code": "GU",
       "name": "Guam",
+      "name_zh": "关岛",
+      "name_zh_hant": "關島",
+      "display_name": "GU 关岛 Guam 關島",
       "icon": "guam",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guam.png?v=96fd627bab24"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guam.png?v=96fd627bab24",
+      "aliases": [
+        "GU",
+        "guam",
+        "Guam",
+        "关岛",
+        "關島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gu.svg"
     },
     {
       "code": "GW",
       "name": "Guinea-Bissau",
+      "name_zh": "几内亚比绍",
+      "name_zh_hant": "幾內亞比索",
+      "display_name": "GW 几内亚比绍 Guinea-Bissau 幾內亞比索",
       "icon": "guinea-bissau",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea-bissau.png?v=688f4009d50d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guinea-bissau.png?v=688f4009d50d",
+      "aliases": [
+        "GW",
+        "guinea-bissau",
+        "guinea bissau",
+        "Guinea-Bissau",
+        "几内亚比绍",
+        "幾內亞比索"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gw.svg"
     },
     {
       "code": "GY",
       "name": "Guyana",
+      "name_zh": "圭亚那",
+      "name_zh_hant": "蓋亞那",
+      "display_name": "GY 圭亚那 Guyana 蓋亞那",
       "icon": "guyana",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guyana.png?v=f1ac438787de"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/guyana.png?v=f1ac438787de",
+      "aliases": [
+        "GY",
+        "guyana",
+        "Guyana",
+        "圭亚那",
+        "蓋亞那"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/gy.svg"
     },
     {
       "code": "HK",
       "name": "Hong Kong",
+      "name_zh": "香港",
+      "name_zh_hant": "香港",
+      "display_name": "HK 香港 Hong Kong HongKong",
       "icon": "hongkong",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hongkong.png?v=7761e52edae2",
+      "aliases": [
+        "HK",
+        "hongkong",
+        "Hong Kong",
+        "香港",
+        "中国香港特别行政区",
+        "中國香港特別行政區",
+        "HongKong"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hk.svg"
     },
     {
       "code": "HM",
       "name": "Heard Island and McDonald Islands",
+      "name_zh": "赫德岛和麦克唐纳群岛",
+      "name_zh_hant": "赫德島及麥唐納群島",
+      "display_name": "HM 赫德岛和麦克唐纳群岛 Heard Island and McDonald Islands 赫德島及麥唐納群島",
       "icon": "heard-island-and-mcdonald-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/heard-island-and-mcdonald-islands.png?v=6e455c3ff567"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/heard-island-and-mcdonald-islands.png?v=6e455c3ff567",
+      "aliases": [
+        "HM",
+        "heard-island-and-mcdonald-islands",
+        "heard island and mcdonald islands",
+        "Heard Island and McDonald Islands",
+        "赫德岛和麦克唐纳群岛",
+        "赫德島及麥唐納群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hm.svg"
     },
     {
       "code": "HN",
       "name": "Honduras",
+      "name_zh": "洪都拉斯",
+      "name_zh_hant": "宏都拉斯",
+      "display_name": "HN 洪都拉斯 Honduras 宏都拉斯",
       "icon": "honduras",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/honduras.png?v=1494ff88dc67"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/honduras.png?v=1494ff88dc67",
+      "aliases": [
+        "HN",
+        "honduras",
+        "Honduras",
+        "洪都拉斯",
+        "宏都拉斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hn.svg"
     },
     {
       "code": "HR",
       "name": "Croatia",
+      "name_zh": "克罗地亚",
+      "name_zh_hant": "克羅埃西亞",
+      "display_name": "HR 克罗地亚 Croatia 克羅埃西亞",
       "icon": "croatia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/croatia.png?v=23113526d9c3",
+      "aliases": [
+        "HR",
+        "croatia",
+        "Croatia",
+        "克罗地亚",
+        "克羅埃西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hr.svg"
     },
     {
       "code": "HT",
       "name": "Haiti",
+      "name_zh": "海地",
+      "name_zh_hant": "海地",
+      "display_name": "HT 海地 Haiti",
       "icon": "haiti",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haiti.png?v=de899254a61c",
+      "aliases": [
+        "HT",
+        "haiti",
+        "Haiti",
+        "海地"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ht.svg"
     },
     {
       "code": "HU",
       "name": "Hungary",
+      "name_zh": "匈牙利",
+      "name_zh_hant": "匈牙利",
+      "display_name": "HU 匈牙利 Hungary",
       "icon": "hungary",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hungary.png?v=4fc0cf1d9606"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hungary.png?v=4fc0cf1d9606",
+      "aliases": [
+        "HU",
+        "hungary",
+        "Hungary",
+        "匈牙利"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/hu.svg"
     },
     {
       "code": "ID",
       "name": "Indonesia",
+      "name_zh": "印度尼西亚",
+      "name_zh_hant": "印尼",
+      "display_name": "ID 印度尼西亚 Indonesia 印尼",
       "icon": "indonesia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/indonesia.png?v=581378b82014"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/indonesia.png?v=581378b82014",
+      "aliases": [
+        "ID",
+        "indonesia",
+        "Indonesia",
+        "印度尼西亚",
+        "印尼"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/id.svg"
     },
     {
       "code": "IE",
       "name": "Ireland",
+      "name_zh": "爱尔兰",
+      "name_zh_hant": "愛爾蘭",
+      "display_name": "IE 爱尔兰 Ireland 愛爾蘭",
       "icon": "ireland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ireland.png?v=80dd36c918ec"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ireland.png?v=80dd36c918ec",
+      "aliases": [
+        "IE",
+        "ireland",
+        "Ireland",
+        "爱尔兰",
+        "愛爾蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ie.svg"
     },
     {
       "code": "IL",
       "name": "Israel",
+      "name_zh": "以色列",
+      "name_zh_hant": "以色列",
+      "display_name": "IL 以色列 Israel",
       "icon": "israel",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/israel.png?v=35b67194c70b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/israel.png?v=35b67194c70b",
+      "aliases": [
+        "IL",
+        "israel",
+        "Israel",
+        "以色列"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/il.svg"
     },
     {
       "code": "IM",
       "name": "Isle of Man",
+      "name_zh": "马恩岛",
+      "name_zh_hant": "曼島",
+      "display_name": "IM 马恩岛 Isle of Man 曼島",
       "icon": "isle-of-man",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/isle-of-man.png?v=4ffbdfbad787"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/isle-of-man.png?v=4ffbdfbad787",
+      "aliases": [
+        "IM",
+        "isle-of-man",
+        "isle of man",
+        "Isle of Man",
+        "马恩岛",
+        "曼島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/im.svg"
     },
     {
       "code": "IN",
       "name": "India",
+      "name_zh": "印度",
+      "name_zh_hant": "印度",
+      "display_name": "IN 印度 India",
       "icon": "india",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/india.png?v=b6a6415dde4f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/india.png?v=b6a6415dde4f",
+      "aliases": [
+        "IN",
+        "india",
+        "India",
+        "印度"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/in.svg"
     },
     {
       "code": "IO",
       "name": "British Indian Ocean Territory",
+      "name_zh": "英属印度洋领地",
+      "name_zh_hant": "英屬印度洋領地",
+      "display_name": "IO 英属印度洋领地 British Indian Ocean Territory 英屬印度洋領地",
       "icon": "british-indian-ocean-territory",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-indian-ocean-territory.png?v=6aeb90a709d1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/british-indian-ocean-territory.png?v=6aeb90a709d1",
+      "aliases": [
+        "IO",
+        "british-indian-ocean-territory",
+        "british indian ocean territory",
+        "British Indian Ocean Territory",
+        "英属印度洋领地",
+        "英屬印度洋領地"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/io.svg"
     },
     {
       "code": "IQ",
       "name": "Iraq",
+      "name_zh": "伊拉克",
+      "name_zh_hant": "伊拉克",
+      "display_name": "IQ 伊拉克 Iraq",
       "icon": "iraq",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iraq.png?v=29d31c2ec6c2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iraq.png?v=29d31c2ec6c2",
+      "aliases": [
+        "IQ",
+        "iraq",
+        "Iraq",
+        "伊拉克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/iq.svg"
     },
     {
       "code": "IR",
       "name": "Iran",
+      "name_zh": "伊朗",
+      "name_zh_hant": "伊朗",
+      "display_name": "IR 伊朗 Iran",
       "icon": "iran",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iran.png?v=598b72909afb"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iran.png?v=598b72909afb",
+      "aliases": [
+        "IR",
+        "iran",
+        "Iran",
+        "伊朗"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ir.svg"
     },
     {
       "code": "IS",
       "name": "Iceland",
+      "name_zh": "冰岛",
+      "name_zh_hant": "冰島",
+      "display_name": "IS 冰岛 Iceland 冰島",
       "icon": "iceland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iceland.png?v=147d5d5aea23"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/iceland.png?v=147d5d5aea23",
+      "aliases": [
+        "IS",
+        "iceland",
+        "Iceland",
+        "冰岛",
+        "冰島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/is.svg"
     },
     {
       "code": "IT",
       "name": "Italy",
+      "name_zh": "意大利",
+      "name_zh_hant": "義大利",
+      "display_name": "IT 意大利 Italy 義大利",
       "icon": "italy",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/italy.png?v=baffef516b0a",
+      "aliases": [
+        "IT",
+        "italy",
+        "Italy",
+        "意大利",
+        "義大利"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/it.svg"
     },
     {
       "code": "JE",
       "name": "Jersey",
+      "name_zh": "泽西岛",
+      "name_zh_hant": "澤西島",
+      "display_name": "JE 泽西岛 Jersey 澤西島",
       "icon": "jersey",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jersey.png?v=2a5542845f22"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jersey.png?v=2a5542845f22",
+      "aliases": [
+        "JE",
+        "jersey",
+        "Jersey",
+        "泽西岛",
+        "澤西島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/je.svg"
     },
     {
       "code": "JM",
       "name": "Jamaica",
+      "name_zh": "牙买加",
+      "name_zh_hant": "牙買加",
+      "display_name": "JM 牙买加 Jamaica 牙買加",
       "icon": "jamaica",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jamaica.png?v=918a4daa2f6a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jamaica.png?v=918a4daa2f6a",
+      "aliases": [
+        "JM",
+        "jamaica",
+        "Jamaica",
+        "牙买加",
+        "牙買加"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/jm.svg"
     },
     {
       "code": "JO",
       "name": "Jordan",
+      "name_zh": "约旦",
+      "name_zh_hant": "約旦",
+      "display_name": "JO 约旦 Jordan 約旦",
       "icon": "jordan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jordan.png?v=c554be376b5e",
+      "aliases": [
+        "JO",
+        "jordan",
+        "Jordan",
+        "约旦",
+        "約旦"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/jo.svg"
     },
     {
       "code": "JP",
       "name": "Japan",
+      "name_zh": "日本",
+      "name_zh_hant": "日本",
+      "display_name": "JP 日本 Japan",
       "icon": "japan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/japan.png?v=4770aede38cc",
+      "aliases": [
+        "JP",
+        "japan",
+        "Japan",
+        "日本"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/jp.svg"
     },
     {
       "code": "KE",
       "name": "Kenya",
+      "name_zh": "肯尼亚",
+      "name_zh_hant": "肯亞",
+      "display_name": "KE 肯尼亚 Kenya 肯亞",
       "icon": "kenya",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kenya.png?v=9859dcf12997"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kenya.png?v=9859dcf12997",
+      "aliases": [
+        "KE",
+        "kenya",
+        "Kenya",
+        "肯尼亚",
+        "肯亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ke.svg"
     },
     {
       "code": "KG",
       "name": "Kyrgyzstan",
+      "name_zh": "吉尔吉斯斯坦",
+      "name_zh_hant": "吉爾吉斯",
+      "display_name": "KG 吉尔吉斯斯坦 Kyrgyzstan 吉爾吉斯",
       "icon": "kyrgyzstan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kyrgyzstan.png?v=55b9c4dc8408"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kyrgyzstan.png?v=55b9c4dc8408",
+      "aliases": [
+        "KG",
+        "kyrgyzstan",
+        "Kyrgyzstan",
+        "吉尔吉斯斯坦",
+        "吉爾吉斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kg.svg"
     },
     {
       "code": "KH",
       "name": "Cambodia",
+      "name_zh": "柬埔寨",
+      "name_zh_hant": "柬埔寨",
+      "display_name": "KH 柬埔寨 Cambodia",
       "icon": "cambodia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cambodia.png?v=233a785ecdc1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cambodia.png?v=233a785ecdc1",
+      "aliases": [
+        "KH",
+        "cambodia",
+        "Cambodia",
+        "柬埔寨"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kh.svg"
     },
     {
       "code": "KI",
       "name": "Kiribati",
+      "name_zh": "基里巴斯",
+      "name_zh_hant": "吉里巴斯",
+      "display_name": "KI 基里巴斯 Kiribati 吉里巴斯",
       "icon": "kiribati",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kiribati.png?v=17ae5e2ea215"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kiribati.png?v=17ae5e2ea215",
+      "aliases": [
+        "KI",
+        "kiribati",
+        "Kiribati",
+        "基里巴斯",
+        "吉里巴斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ki.svg"
     },
     {
       "code": "KM",
       "name": "Comoros",
+      "name_zh": "科摩罗",
+      "name_zh_hant": "葛摩",
+      "display_name": "KM 科摩罗 Comoros 葛摩",
       "icon": "comoros",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/comoros.png?v=f65327a5ffc1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/comoros.png?v=f65327a5ffc1",
+      "aliases": [
+        "KM",
+        "comoros",
+        "Comoros",
+        "科摩罗",
+        "葛摩"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/km.svg"
     },
     {
       "code": "KN",
       "name": "Saint Kitts and Nevis",
+      "name_zh": "圣基茨和尼维斯",
+      "name_zh_hant": "聖克里斯多福及尼維斯",
+      "display_name": "KN 圣基茨和尼维斯 Saint Kitts and Nevis 聖克里斯多福及尼維斯",
       "icon": "saint-kitts-and-nevis",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-kitts-and-nevis.png?v=7a2c3a657770",
+      "aliases": [
+        "KN",
+        "saint-kitts-and-nevis",
+        "saint kitts and nevis",
+        "Saint Kitts and Nevis",
+        "圣基茨和尼维斯",
+        "聖克里斯多福及尼維斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kn.svg"
     },
     {
       "code": "KP",
       "name": "North Korea",
+      "name_zh": "朝鲜",
+      "name_zh_hant": "北韓",
+      "display_name": "KP 朝鲜 North Korea 北韓 北韩",
       "icon": "north-korea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-korea.png?v=e353da62f1b6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-korea.png?v=e353da62f1b6",
+      "aliases": [
+        "KP",
+        "north-korea",
+        "north korea",
+        "North Korea",
+        "朝鲜",
+        "北韓",
+        "北韩"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kp.svg"
     },
     {
       "code": "KR",
       "name": "South Korea",
+      "name_zh": "韩国",
+      "name_zh_hant": "南韓",
+      "display_name": "KR 韩国 South Korea 南韓 韓國 南韩",
       "icon": "korea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/korea.png?v=883ec2798a03",
+      "aliases": [
+        "KR",
+        "korea",
+        "South Korea",
+        "韩国",
+        "南韓",
+        "韓國",
+        "南韩"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kr.svg"
     },
     {
       "code": "KW",
       "name": "Kuwait",
+      "name_zh": "科威特",
+      "name_zh_hant": "科威特",
+      "display_name": "KW 科威特 Kuwait",
       "icon": "kuwait",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuwait.png?v=19be407d49d2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuwait.png?v=19be407d49d2",
+      "aliases": [
+        "KW",
+        "kuwait",
+        "Kuwait",
+        "科威特"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kw.svg"
     },
     {
       "code": "KY",
       "name": "Cayman Islands",
+      "name_zh": "开曼群岛",
+      "name_zh_hant": "開曼群島",
+      "display_name": "KY 开曼群岛 Cayman Islands 開曼群島",
       "icon": "cayman-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cayman-islands.png?v=19cd7dfa05a6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cayman-islands.png?v=19cd7dfa05a6",
+      "aliases": [
+        "KY",
+        "cayman-islands",
+        "cayman islands",
+        "Cayman Islands",
+        "开曼群岛",
+        "開曼群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ky.svg"
     },
     {
       "code": "KZ",
       "name": "Kazakhstan",
+      "name_zh": "哈萨克斯坦",
+      "name_zh_hant": "哈薩克",
+      "display_name": "KZ 哈萨克斯坦 Kazakhstan 哈薩克",
       "icon": "kazakhstan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kazakhstan.png?v=245bc3f30e99"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kazakhstan.png?v=245bc3f30e99",
+      "aliases": [
+        "KZ",
+        "kazakhstan",
+        "Kazakhstan",
+        "哈萨克斯坦",
+        "哈薩克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/kz.svg"
     },
     {
       "code": "LA",
       "name": "Laos",
+      "name_zh": "老挝",
+      "name_zh_hant": "寮國",
+      "display_name": "LA 老挝 Laos 寮國",
       "icon": "laos",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/laos.png?v=5232f8ed2e76"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/laos.png?v=5232f8ed2e76",
+      "aliases": [
+        "LA",
+        "laos",
+        "Laos",
+        "老挝",
+        "寮國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/la.svg"
     },
     {
       "code": "LB",
       "name": "Lebanon",
+      "name_zh": "黎巴嫩",
+      "name_zh_hant": "黎巴嫩",
+      "display_name": "LB 黎巴嫩 Lebanon",
       "icon": "lebanon",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lebanon.png?v=8e3d89e08c95"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lebanon.png?v=8e3d89e08c95",
+      "aliases": [
+        "LB",
+        "lebanon",
+        "Lebanon",
+        "黎巴嫩"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lb.svg"
     },
     {
       "code": "LC",
       "name": "Saint Lucia",
+      "name_zh": "圣卢西亚",
+      "name_zh_hant": "聖露西亞",
+      "display_name": "LC 圣卢西亚 Saint Lucia 聖露西亞",
       "icon": "saint-lucia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-lucia.png?v=bd87cf24b529",
+      "aliases": [
+        "LC",
+        "saint-lucia",
+        "saint lucia",
+        "Saint Lucia",
+        "圣卢西亚",
+        "聖露西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lc.svg"
     },
     {
       "code": "LI",
       "name": "Liechtenstein",
+      "name_zh": "列支敦士登",
+      "name_zh_hant": "列支敦斯登",
+      "display_name": "LI 列支敦士登 Liechtenstein 列支敦斯登",
       "icon": "liechtenstein",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liechtenstein.png?v=12b141ba2a36"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liechtenstein.png?v=12b141ba2a36",
+      "aliases": [
+        "LI",
+        "liechtenstein",
+        "Liechtenstein",
+        "列支敦士登",
+        "列支敦斯登"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/li.svg"
     },
     {
       "code": "LK",
       "name": "Sri Lanka",
+      "name_zh": "斯里兰卡",
+      "name_zh_hant": "斯里蘭卡",
+      "display_name": "LK 斯里兰卡 Sri Lanka 斯里蘭卡",
       "icon": "sri-lanka",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sri-lanka.png?v=7c30d99ed1ce",
+      "aliases": [
+        "LK",
+        "sri-lanka",
+        "sri lanka",
+        "Sri Lanka",
+        "斯里兰卡",
+        "斯里蘭卡"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lk.svg"
     },
     {
       "code": "LR",
       "name": "Liberia",
+      "name_zh": "利比里亚",
+      "name_zh_hant": "賴比瑞亞",
+      "display_name": "LR 利比里亚 Liberia 賴比瑞亞",
       "icon": "liberia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liberia.png?v=798bd47df7e0"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/liberia.png?v=798bd47df7e0",
+      "aliases": [
+        "LR",
+        "liberia",
+        "Liberia",
+        "利比里亚",
+        "賴比瑞亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lr.svg"
     },
     {
       "code": "LS",
       "name": "Lesotho",
+      "name_zh": "莱索托",
+      "name_zh_hant": "賴索托",
+      "display_name": "LS 莱索托 Lesotho 賴索托",
       "icon": "lesotho",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lesotho.png?v=74d35b8852cc"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lesotho.png?v=74d35b8852cc",
+      "aliases": [
+        "LS",
+        "lesotho",
+        "Lesotho",
+        "莱索托",
+        "賴索托"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ls.svg"
     },
     {
       "code": "LT",
       "name": "Lithuania",
+      "name_zh": "立陶宛",
+      "name_zh_hant": "立陶宛",
+      "display_name": "LT 立陶宛 Lithuania",
       "icon": "lithuania",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lithuania.png?v=10c94c03edeb"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lithuania.png?v=10c94c03edeb",
+      "aliases": [
+        "LT",
+        "lithuania",
+        "Lithuania",
+        "立陶宛"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lt.svg"
     },
     {
       "code": "LU",
       "name": "Luxembourg",
+      "name_zh": "卢森堡",
+      "name_zh_hant": "盧森堡",
+      "display_name": "LU 卢森堡 Luxembourg 盧森堡",
       "icon": "luxembourg",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luxembourg.png?v=6d02476f7445"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luxembourg.png?v=6d02476f7445",
+      "aliases": [
+        "LU",
+        "luxembourg",
+        "Luxembourg",
+        "卢森堡",
+        "盧森堡"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lu.svg"
     },
     {
       "code": "LV",
       "name": "Latvia",
+      "name_zh": "拉脱维亚",
+      "name_zh_hant": "拉脫維亞",
+      "display_name": "LV 拉脱维亚 Latvia 拉脫維亞",
       "icon": "latvia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/latvia.png?v=c3f817944adb"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/latvia.png?v=c3f817944adb",
+      "aliases": [
+        "LV",
+        "latvia",
+        "Latvia",
+        "拉脱维亚",
+        "拉脫維亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/lv.svg"
     },
     {
       "code": "LY",
       "name": "Libya",
+      "name_zh": "利比亚",
+      "name_zh_hant": "利比亞",
+      "display_name": "LY 利比亚 Libya 利比亞",
       "icon": "libya",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/libya.png?v=3a93342762d7"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/libya.png?v=3a93342762d7",
+      "aliases": [
+        "LY",
+        "libya",
+        "Libya",
+        "利比亚",
+        "利比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ly.svg"
     },
     {
       "code": "MA",
       "name": "Morocco",
+      "name_zh": "摩洛哥",
+      "name_zh_hant": "摩洛哥",
+      "display_name": "MA 摩洛哥 Morocco",
       "icon": "morocco",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/morocco.png?v=1530ff64e43e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/morocco.png?v=1530ff64e43e",
+      "aliases": [
+        "MA",
+        "morocco",
+        "Morocco",
+        "摩洛哥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ma.svg"
     },
     {
       "code": "MC",
       "name": "Monaco",
+      "name_zh": "摩纳哥",
+      "name_zh_hant": "摩納哥",
+      "display_name": "MC 摩纳哥 Monaco 摩納哥",
       "icon": "monaco",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/monaco.png?v=27cc7d0220f4"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/monaco.png?v=27cc7d0220f4",
+      "aliases": [
+        "MC",
+        "monaco",
+        "Monaco",
+        "摩纳哥",
+        "摩納哥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mc.svg"
     },
     {
       "code": "MD",
       "name": "Moldova",
+      "name_zh": "摩尔多瓦",
+      "name_zh_hant": "摩爾多瓦",
+      "display_name": "MD 摩尔多瓦 Moldova 摩爾多瓦",
       "icon": "moldova",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/moldova.png?v=f8f8e22d9004"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/moldova.png?v=f8f8e22d9004",
+      "aliases": [
+        "MD",
+        "moldova",
+        "Moldova",
+        "摩尔多瓦",
+        "摩爾多瓦"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/md.svg"
     },
     {
       "code": "ME",
       "name": "Montenegro",
+      "name_zh": "黑山",
+      "name_zh_hant": "蒙特內哥羅",
+      "display_name": "ME 黑山 Montenegro 蒙特內哥羅",
       "icon": "montenegro",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montenegro.png?v=cf37f1d536e1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montenegro.png?v=cf37f1d536e1",
+      "aliases": [
+        "ME",
+        "montenegro",
+        "Montenegro",
+        "黑山",
+        "蒙特內哥羅"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/me.svg"
     },
     {
       "code": "MF",
       "name": "Saint Martin",
+      "name_zh": "法属圣马丁",
+      "name_zh_hant": "法屬聖馬丁",
+      "display_name": "MF 法属圣马丁 Saint Martin 法屬聖馬丁",
       "icon": "saint-martin",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-martin.png?v=7f6a5facdf3a",
+      "aliases": [
+        "MF",
+        "saint-martin",
+        "saint martin",
+        "Saint Martin",
+        "法属圣马丁",
+        "法屬聖馬丁"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Local_flag_of_the_Collectivity_of_Saint_Martin.svg",
+      "flag_kind": "regional",
+      "status_zh": "徽标示意旗（非官方构图）",
+      "license": "Licence Ouverte",
+      "source_sha1": "7405c07cc5aaf8e6ac7ea20233647b2d998cd8f3"
     },
     {
       "code": "MG",
       "name": "Madagascar",
+      "name_zh": "马达加斯加",
+      "name_zh_hant": "馬達加斯加",
+      "display_name": "MG 马达加斯加 Madagascar 馬達加斯加",
       "icon": "madagascar",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/madagascar.png?v=08a2aba2a474"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/madagascar.png?v=08a2aba2a474",
+      "aliases": [
+        "MG",
+        "madagascar",
+        "Madagascar",
+        "马达加斯加",
+        "馬達加斯加"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mg.svg"
     },
     {
       "code": "MH",
       "name": "Marshall Islands",
+      "name_zh": "马绍尔群岛",
+      "name_zh_hant": "馬紹爾群島",
+      "display_name": "MH 马绍尔群岛 Marshall Islands 馬紹爾群島",
       "icon": "marshall-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/marshall-islands.png?v=710460e9ad37"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/marshall-islands.png?v=710460e9ad37",
+      "aliases": [
+        "MH",
+        "marshall-islands",
+        "marshall islands",
+        "Marshall Islands",
+        "马绍尔群岛",
+        "馬紹爾群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mh.svg"
     },
     {
       "code": "MK",
       "name": "North Macedonia",
+      "name_zh": "北马其顿",
+      "name_zh_hant": "北馬其頓",
+      "display_name": "MK 北马其顿 North Macedonia 北馬其頓",
       "icon": "north-macedonia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-macedonia.png?v=9a9885123201"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-macedonia.png?v=9a9885123201",
+      "aliases": [
+        "MK",
+        "north-macedonia",
+        "north macedonia",
+        "North Macedonia",
+        "北马其顿",
+        "北馬其頓"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mk.svg"
     },
     {
       "code": "ML",
       "name": "Mali",
+      "name_zh": "马里",
+      "name_zh_hant": "馬利",
+      "display_name": "ML 马里 Mali 馬利",
       "icon": "mali",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mali.png?v=d117d7177522"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mali.png?v=d117d7177522",
+      "aliases": [
+        "ML",
+        "mali",
+        "Mali",
+        "马里",
+        "馬利"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ml.svg"
     },
     {
       "code": "MM",
       "name": "Myanmar",
+      "name_zh": "缅甸",
+      "name_zh_hant": "緬甸",
+      "display_name": "MM 缅甸 Myanmar 緬甸",
       "icon": "myanmar",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myanmar.png?v=fb1e8c73a95e",
+      "aliases": [
+        "MM",
+        "myanmar",
+        "Myanmar",
+        "缅甸",
+        "緬甸"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mm.svg"
     },
     {
       "code": "MN",
       "name": "Mongolia",
+      "name_zh": "蒙古",
+      "name_zh_hant": "蒙古",
+      "display_name": "MN 蒙古 Mongolia",
       "icon": "mongolia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mongolia.png?v=fed76bfbb238"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mongolia.png?v=fed76bfbb238",
+      "aliases": [
+        "MN",
+        "mongolia",
+        "Mongolia",
+        "蒙古"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mn.svg"
     },
     {
       "code": "MO",
       "name": "Macau",
+      "name_zh": "澳门",
+      "name_zh_hant": "澳門",
+      "display_name": "MO 澳门 Macau 澳門",
       "icon": "macau",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/macau.png?v=40c4be48deb6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/macau.png?v=40c4be48deb6",
+      "aliases": [
+        "MO",
+        "macau",
+        "Macau",
+        "澳门",
+        "澳門",
+        "中国澳门特别行政区",
+        "中國澳門特別行政區"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mo.svg"
     },
     {
       "code": "MP",
       "name": "Northern Mariana Islands",
+      "name_zh": "北马里亚纳群岛",
+      "name_zh_hant": "北馬利安納群島",
+      "display_name": "MP 北马里亚纳群岛 Northern Mariana Islands 北馬利安納群島",
       "icon": "northern-mariana-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/northern-mariana-islands.png?v=9d485c8c37e1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/northern-mariana-islands.png?v=9d485c8c37e1",
+      "aliases": [
+        "MP",
+        "northern-mariana-islands",
+        "northern mariana islands",
+        "Northern Mariana Islands",
+        "北马里亚纳群岛",
+        "北馬利安納群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mp.svg"
     },
     {
       "code": "MQ",
       "name": "Martinique",
+      "name_zh": "马提尼克",
+      "name_zh_hant": "馬丁尼克",
+      "display_name": "MQ 马提尼克 Martinique 馬丁尼克",
       "icon": "martinique",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/martinique.png?v=ccda85fe0c24"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/martinique.png?v=ccda85fe0c24",
+      "aliases": [
+        "MQ",
+        "martinique",
+        "Martinique",
+        "马提尼克",
+        "馬丁尼克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mq.svg"
     },
     {
       "code": "MR",
       "name": "Mauritania",
+      "name_zh": "毛里塔尼亚",
+      "name_zh_hant": "茅利塔尼亞",
+      "display_name": "MR 毛里塔尼亚 Mauritania 茅利塔尼亞",
       "icon": "mauritania",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritania.png?v=602caafae99f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritania.png?v=602caafae99f",
+      "aliases": [
+        "MR",
+        "mauritania",
+        "Mauritania",
+        "毛里塔尼亚",
+        "茅利塔尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mr.svg"
     },
     {
       "code": "MS",
       "name": "Montserrat",
+      "name_zh": "蒙特塞拉特",
+      "name_zh_hant": "蒙哲臘",
+      "display_name": "MS 蒙特塞拉特 Montserrat 蒙哲臘",
       "icon": "montserrat",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montserrat.png?v=dbf67f8df122"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/montserrat.png?v=dbf67f8df122",
+      "aliases": [
+        "MS",
+        "montserrat",
+        "Montserrat",
+        "蒙特塞拉特",
+        "蒙哲臘"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ms.svg"
     },
     {
       "code": "MT",
       "name": "Malta",
+      "name_zh": "马耳他",
+      "name_zh_hant": "馬爾他",
+      "display_name": "MT 马耳他 Malta 馬爾他",
       "icon": "malta",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malta.png?v=80c3af4f9fb0"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malta.png?v=80c3af4f9fb0",
+      "aliases": [
+        "MT",
+        "malta",
+        "Malta",
+        "马耳他",
+        "馬爾他"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mt.svg"
     },
     {
       "code": "MU",
       "name": "Mauritius",
+      "name_zh": "毛里求斯",
+      "name_zh_hant": "模里西斯",
+      "display_name": "MU 毛里求斯 Mauritius 模里西斯",
       "icon": "mauritius",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritius.png?v=896ceb02e493"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mauritius.png?v=896ceb02e493",
+      "aliases": [
+        "MU",
+        "mauritius",
+        "Mauritius",
+        "毛里求斯",
+        "模里西斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mu.svg"
     },
     {
       "code": "MV",
       "name": "Maldives",
+      "name_zh": "马尔代夫",
+      "name_zh_hant": "馬爾地夫",
+      "display_name": "MV 马尔代夫 Maldives 馬爾地夫",
       "icon": "maldives",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maldives.png?v=598b8485d579"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maldives.png?v=598b8485d579",
+      "aliases": [
+        "MV",
+        "maldives",
+        "Maldives",
+        "马尔代夫",
+        "馬爾地夫"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mv.svg"
     },
     {
       "code": "MW",
       "name": "Malawi",
+      "name_zh": "马拉维",
+      "name_zh_hant": "馬拉威",
+      "display_name": "MW 马拉维 Malawi 馬拉威",
       "icon": "malawi",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malawi.png?v=5b4112170008"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malawi.png?v=5b4112170008",
+      "aliases": [
+        "MW",
+        "malawi",
+        "Malawi",
+        "马拉维",
+        "馬拉威"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mw.svg"
     },
     {
       "code": "MX",
       "name": "Mexico",
+      "name_zh": "墨西哥",
+      "name_zh_hant": "墨西哥",
+      "display_name": "MX 墨西哥 Mexico",
       "icon": "mexico",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mexico.png?v=02252a62d5da",
+      "aliases": [
+        "MX",
+        "mexico",
+        "Mexico",
+        "墨西哥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mx.svg"
     },
     {
       "code": "MY",
       "name": "Malaysia",
+      "name_zh": "马来西亚",
+      "name_zh_hant": "馬來西亞",
+      "display_name": "MY 马来西亚 Malaysia 馬來西亞",
       "icon": "malaysia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malaysia.png?v=d090774d166a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/malaysia.png?v=d090774d166a",
+      "aliases": [
+        "MY",
+        "malaysia",
+        "Malaysia",
+        "马来西亚",
+        "馬來西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/my.svg"
     },
     {
       "code": "MZ",
       "name": "Mozambique",
+      "name_zh": "莫桑比克",
+      "name_zh_hant": "莫三比克",
+      "display_name": "MZ 莫桑比克 Mozambique 莫三比克",
       "icon": "mozambique",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mozambique.png?v=10c120ea70ff"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mozambique.png?v=10c120ea70ff",
+      "aliases": [
+        "MZ",
+        "mozambique",
+        "Mozambique",
+        "莫桑比克",
+        "莫三比克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/mz.svg"
     },
     {
       "code": "NA",
       "name": "Namibia",
+      "name_zh": "纳米比亚",
+      "name_zh_hant": "納米比亞",
+      "display_name": "NA 纳米比亚 Namibia 納米比亞",
       "icon": "namibia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/namibia.png?v=8b52aaed14a1",
+      "aliases": [
+        "NA",
+        "namibia",
+        "Namibia",
+        "纳米比亚",
+        "納米比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/na.svg"
     },
     {
       "code": "NC",
       "name": "New Caledonia",
+      "name_zh": "新喀里多尼亚",
+      "name_zh_hant": "新喀里多尼亞",
+      "display_name": "NC 新喀里多尼亚 New Caledonia 新喀里多尼亞",
       "icon": "new-caledonia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-caledonia.png?v=6933fa0f2e8c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-caledonia.png?v=6933fa0f2e8c",
+      "aliases": [
+        "NC",
+        "new-caledonia",
+        "new caledonia",
+        "New Caledonia",
+        "新喀里多尼亚",
+        "新喀里多尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nc.svg"
     },
     {
       "code": "NE",
       "name": "Niger",
+      "name_zh": "尼日尔",
+      "name_zh_hant": "尼日",
+      "display_name": "NE 尼日尔 Niger",
       "icon": "niger",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niger.png?v=b4eda89dc993"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niger.png?v=b4eda89dc993",
+      "aliases": [
+        "NE",
+        "niger",
+        "Niger",
+        "尼日尔",
+        "尼日"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ne.svg"
     },
     {
       "code": "NF",
       "name": "Norfolk Island",
+      "name_zh": "诺福克岛",
+      "name_zh_hant": "諾福克島",
+      "display_name": "NF 诺福克岛 Norfolk Island 諾福克島",
       "icon": "norfolk-island",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norfolk-island.png?v=13de27b2f90d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norfolk-island.png?v=13de27b2f90d",
+      "aliases": [
+        "NF",
+        "norfolk-island",
+        "norfolk island",
+        "Norfolk Island",
+        "诺福克岛",
+        "諾福克島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nf.svg"
     },
     {
       "code": "NG",
       "name": "Nigeria",
+      "name_zh": "尼日利亚",
+      "name_zh_hant": "奈及利亞",
+      "display_name": "NG 尼日利亚 Nigeria 奈及利亞",
       "icon": "nigeria",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nigeria.png?v=a4a2af79fd71",
+      "aliases": [
+        "NG",
+        "nigeria",
+        "Nigeria",
+        "尼日利亚",
+        "奈及利亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ng.svg"
     },
     {
       "code": "NI",
       "name": "Nicaragua",
+      "name_zh": "尼加拉瓜",
+      "name_zh_hant": "尼加拉瓜",
+      "display_name": "NI 尼加拉瓜 Nicaragua",
       "icon": "nicaragua",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nicaragua.png?v=ced76495a438"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nicaragua.png?v=ced76495a438",
+      "aliases": [
+        "NI",
+        "nicaragua",
+        "Nicaragua",
+        "尼加拉瓜"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ni.svg"
     },
     {
       "code": "NL",
       "name": "Netherlands",
+      "name_zh": "荷兰",
+      "name_zh_hant": "荷蘭",
+      "display_name": "NL 荷兰 Netherlands 荷蘭",
       "icon": "netherlands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netherlands.png?v=c76573c54487"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netherlands.png?v=c76573c54487",
+      "aliases": [
+        "NL",
+        "netherlands",
+        "Netherlands",
+        "荷兰",
+        "荷蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nl.svg"
     },
     {
       "code": "NO",
       "name": "Norway",
+      "name_zh": "挪威",
+      "name_zh_hant": "挪威",
+      "display_name": "NO 挪威 Norway",
       "icon": "norway",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/norway.png?v=b2a1b1d63db5",
+      "aliases": [
+        "NO",
+        "norway",
+        "Norway",
+        "挪威"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/no.svg"
     },
     {
       "code": "NP",
       "name": "Nepal",
+      "name_zh": "尼泊尔",
+      "name_zh_hant": "尼泊爾",
+      "display_name": "NP 尼泊尔 Nepal 尼泊爾",
       "icon": "nepal",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nepal.png?v=aef9ac4f012d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nepal.png?v=aef9ac4f012d",
+      "aliases": [
+        "NP",
+        "nepal",
+        "Nepal",
+        "尼泊尔",
+        "尼泊爾"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/np.svg"
     },
     {
       "code": "NR",
       "name": "Nauru",
+      "name_zh": "瑙鲁",
+      "name_zh_hant": "諾魯",
+      "display_name": "NR 瑙鲁 Nauru 諾魯",
       "icon": "nauru",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nauru.png?v=483be1fdafcd",
+      "aliases": [
+        "NR",
+        "nauru",
+        "Nauru",
+        "瑙鲁",
+        "諾魯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nr.svg"
     },
     {
       "code": "NU",
       "name": "Niue",
+      "name_zh": "纽埃",
+      "name_zh_hant": "紐埃島",
+      "display_name": "NU 纽埃 Niue 紐埃島",
       "icon": "niue",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niue.png?v=800c8051e0e0"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/niue.png?v=800c8051e0e0",
+      "aliases": [
+        "NU",
+        "niue",
+        "Niue",
+        "纽埃",
+        "紐埃島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nu.svg"
     },
     {
       "code": "NZ",
       "name": "New Zealand",
+      "name_zh": "新西兰",
+      "name_zh_hant": "紐西蘭",
+      "display_name": "NZ 新西兰 New Zealand 紐西蘭",
       "icon": "new-zealand",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/new-zealand.png?v=a0ba0b980d45",
+      "aliases": [
+        "NZ",
+        "new-zealand",
+        "new zealand",
+        "New Zealand",
+        "新西兰",
+        "紐西蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/nz.svg"
     },
     {
       "code": "OM",
       "name": "Oman",
+      "name_zh": "阿曼",
+      "name_zh_hant": "阿曼",
+      "display_name": "OM 阿曼 Oman",
       "icon": "oman",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oman.png?v=de6c321ac41f",
+      "aliases": [
+        "OM",
+        "oman",
+        "Oman",
+        "阿曼"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/om.svg"
     },
     {
       "code": "PA",
       "name": "Panama",
+      "name_zh": "巴拿马",
+      "name_zh_hant": "巴拿馬",
+      "display_name": "PA 巴拿马 Panama 巴拿馬",
       "icon": "panama",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/panama.png?v=c26fec9d98b5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/panama.png?v=c26fec9d98b5",
+      "aliases": [
+        "PA",
+        "panama",
+        "Panama",
+        "巴拿马",
+        "巴拿馬"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pa.svg"
     },
     {
       "code": "PE",
       "name": "Peru",
+      "name_zh": "秘鲁",
+      "name_zh_hant": "秘魯",
+      "display_name": "PE 秘鲁 Peru 秘魯",
       "icon": "peru",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peru.png?v=777fd2b5834f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/peru.png?v=777fd2b5834f",
+      "aliases": [
+        "PE",
+        "peru",
+        "Peru",
+        "秘鲁",
+        "秘魯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pe.svg"
     },
     {
       "code": "PF",
       "name": "French Polynesia",
+      "name_zh": "法属波利尼西亚",
+      "name_zh_hant": "法屬玻里尼西亞",
+      "display_name": "PF 法属波利尼西亚 French Polynesia 法屬玻里尼西亞",
       "icon": "french-polynesia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-polynesia.png?v=6d63b685659a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-polynesia.png?v=6d63b685659a",
+      "aliases": [
+        "PF",
+        "french-polynesia",
+        "french polynesia",
+        "French Polynesia",
+        "法属波利尼西亚",
+        "法屬玻里尼西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pf.svg"
     },
     {
       "code": "PG",
       "name": "Papua New Guinea",
+      "name_zh": "巴布亚新几内亚",
+      "name_zh_hant": "巴布亞紐幾內亞",
+      "display_name": "PG 巴布亚新几内亚 Papua New Guinea 巴布亞紐幾內亞",
       "icon": "papua-new-guinea",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/papua-new-guinea.png?v=4425df130b06"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/papua-new-guinea.png?v=4425df130b06",
+      "aliases": [
+        "PG",
+        "papua-new-guinea",
+        "papua new guinea",
+        "Papua New Guinea",
+        "巴布亚新几内亚",
+        "巴布亞紐幾內亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pg.svg"
     },
     {
       "code": "PH",
       "name": "Philippines",
+      "name_zh": "菲律宾",
+      "name_zh_hant": "菲律賓",
+      "display_name": "PH 菲律宾 Philippines 菲律賓",
       "icon": "philippines",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/philippines.png?v=23b265f0baac",
+      "aliases": [
+        "PH",
+        "philippines",
+        "Philippines",
+        "菲律宾",
+        "菲律賓"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ph.svg"
     },
     {
       "code": "PK",
       "name": "Pakistan",
+      "name_zh": "巴基斯坦",
+      "name_zh_hant": "巴基斯坦",
+      "display_name": "PK 巴基斯坦 Pakistan",
       "icon": "pakistan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pakistan.png?v=877cc14ead18"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pakistan.png?v=877cc14ead18",
+      "aliases": [
+        "PK",
+        "pakistan",
+        "Pakistan",
+        "巴基斯坦"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pk.svg"
     },
     {
       "code": "PL",
       "name": "Poland",
+      "name_zh": "波兰",
+      "name_zh_hant": "波蘭",
+      "display_name": "PL 波兰 Poland 波蘭",
       "icon": "poland",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/poland.png?v=d540272cd5f9",
+      "aliases": [
+        "PL",
+        "poland",
+        "Poland",
+        "波兰",
+        "波蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pl.svg"
     },
     {
       "code": "PM",
       "name": "Saint Pierre and Miquelon",
+      "name_zh": "圣皮埃尔和密克隆群岛",
+      "name_zh_hant": "聖皮埃與密克隆群島",
+      "display_name": "PM 圣皮埃尔和密克隆群岛 Saint Pierre and Miquelon 聖皮埃與密克隆群島",
       "icon": "saint-pierre-and-miquelon",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-pierre-and-miquelon.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-pierre-and-miquelon.png?v=98e8de5a4d2e",
+      "aliases": [
+        "PM",
+        "saint-pierre-and-miquelon",
+        "saint pierre and miquelon",
+        "Saint Pierre and Miquelon",
+        "圣皮埃尔和密克隆群岛",
+        "聖皮埃與密克隆群島"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Saint-Pierre_and_Miquelon.svg",
+      "flag_kind": "regional",
+      "status_zh": "常用地方旗（非官方）",
+      "license": "Public domain",
+      "source_sha1": "5288641251bda9e3ccbae05414753b821a643425"
     },
     {
       "code": "PN",
       "name": "Pitcairn",
+      "name_zh": "皮特凯恩群岛",
+      "name_zh_hant": "皮特肯群島",
+      "display_name": "PN 皮特凯恩群岛 Pitcairn 皮特肯群島",
       "icon": "pitcairn",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pitcairn.png?v=6af02dd5a851",
+      "aliases": [
+        "PN",
+        "pitcairn",
+        "Pitcairn",
+        "皮特凯恩群岛",
+        "皮特肯群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pn.svg"
     },
     {
       "code": "PR",
       "name": "Puerto Rico",
+      "name_zh": "波多黎各",
+      "name_zh_hant": "波多黎各",
+      "display_name": "PR 波多黎各 Puerto Rico",
       "icon": "puerto-rico",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/puerto-rico.png?v=0c92dc02c242"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/puerto-rico.png?v=0c92dc02c242",
+      "aliases": [
+        "PR",
+        "puerto-rico",
+        "puerto rico",
+        "Puerto Rico",
+        "波多黎各"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pr.svg"
     },
     {
       "code": "PS",
       "name": "State of Palestine",
+      "name_zh": "巴勒斯坦",
+      "name_zh_hant": "巴勒斯坦",
+      "display_name": "PS 巴勒斯坦 State of Palestine",
       "icon": "state-of-palestine",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/state-of-palestine.png?v=38dac2a2aa56"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/state-of-palestine.png?v=38dac2a2aa56",
+      "aliases": [
+        "PS",
+        "state-of-palestine",
+        "state of palestine",
+        "State of Palestine",
+        "巴勒斯坦",
+        "巴勒斯坦领土",
+        "巴勒斯坦自治區"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ps.svg"
     },
     {
       "code": "PT",
       "name": "Portugal",
+      "name_zh": "葡萄牙",
+      "name_zh_hant": "葡萄牙",
+      "display_name": "PT 葡萄牙 Portugal",
       "icon": "portugal",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/portugal.png?v=0f1dfd5ebbe7",
+      "aliases": [
+        "PT",
+        "portugal",
+        "Portugal",
+        "葡萄牙"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pt.svg"
     },
     {
       "code": "PW",
       "name": "Palau",
+      "name_zh": "帕劳",
+      "name_zh_hant": "帛琉",
+      "display_name": "PW 帕劳 Palau 帛琉",
       "icon": "palau",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/palau.png?v=fe38f767bf7d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/palau.png?v=fe38f767bf7d",
+      "aliases": [
+        "PW",
+        "palau",
+        "Palau",
+        "帕劳",
+        "帛琉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/pw.svg"
     },
     {
       "code": "PY",
       "name": "Paraguay",
+      "name_zh": "巴拉圭",
+      "name_zh_hant": "巴拉圭",
+      "display_name": "PY 巴拉圭 Paraguay",
       "icon": "paraguay",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paraguay.png?v=d388b0b30ab4"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paraguay.png?v=d388b0b30ab4",
+      "aliases": [
+        "PY",
+        "paraguay",
+        "Paraguay",
+        "巴拉圭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/py.svg"
     },
     {
       "code": "QA",
       "name": "Qatar",
+      "name_zh": "卡塔尔",
+      "name_zh_hant": "卡達",
+      "display_name": "QA 卡塔尔 Qatar 卡達",
       "icon": "qatar",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qatar.png?v=d6982ea8a8ba",
+      "aliases": [
+        "QA",
+        "qatar",
+        "Qatar",
+        "卡塔尔",
+        "卡達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/qa.svg"
     },
     {
       "code": "RE",
       "name": "Réunion",
+      "name_zh": "留尼汪",
+      "name_zh_hant": "留尼旺",
+      "display_name": "RE 留尼汪 Réunion 留尼旺",
       "icon": "reunion",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/reunion.png?v=ff9f6a1e176b",
+      "aliases": [
+        "RE",
+        "reunion",
+        "Réunion",
+        "留尼汪",
+        "留尼旺"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Proposed_flag_of_R%C3%A9union_(VAR).svg",
+      "flag_kind": "regional",
+      "status_zh": "常用地方旗 Lo Mavéli（非官方）",
+      "license": "Public domain",
+      "source_sha1": "24f4e4bfe47d7af1115fdab410093875ed072536"
     },
     {
       "code": "RO",
       "name": "Romania",
+      "name_zh": "罗马尼亚",
+      "name_zh_hant": "羅馬尼亞",
+      "display_name": "RO 罗马尼亚 Romania 羅馬尼亞",
       "icon": "romania",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/romania.png?v=f2268e235bb4"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/romania.png?v=f2268e235bb4",
+      "aliases": [
+        "RO",
+        "romania",
+        "Romania",
+        "罗马尼亚",
+        "羅馬尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ro.svg"
     },
     {
       "code": "RS",
       "name": "Serbia",
+      "name_zh": "塞尔维亚",
+      "name_zh_hant": "塞爾維亞",
+      "display_name": "RS 塞尔维亚 Serbia 塞爾維亞",
       "icon": "serbia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/serbia.png?v=fe33414010a2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/serbia.png?v=fe33414010a2",
+      "aliases": [
+        "RS",
+        "serbia",
+        "Serbia",
+        "塞尔维亚",
+        "塞爾維亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/rs.svg"
     },
     {
       "code": "RU",
       "name": "Russia",
+      "name_zh": "俄罗斯",
+      "name_zh_hant": "俄羅斯",
+      "display_name": "RU 俄罗斯 Russia 俄羅斯",
       "icon": "russia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/russia.png?v=eebce10037da",
+      "aliases": [
+        "RU",
+        "russia",
+        "Russia",
+        "俄罗斯",
+        "俄羅斯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ru.svg"
     },
     {
       "code": "RW",
       "name": "Rwanda",
+      "name_zh": "卢旺达",
+      "name_zh_hant": "盧安達",
+      "display_name": "RW 卢旺达 Rwanda 盧安達",
       "icon": "rwanda",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/rwanda.png?v=78c0799b999c",
+      "aliases": [
+        "RW",
+        "rwanda",
+        "Rwanda",
+        "卢旺达",
+        "盧安達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/rw.svg"
     },
     {
       "code": "SA",
       "name": "Saudi Arabia",
+      "name_zh": "沙特阿拉伯",
+      "name_zh_hant": "沙烏地阿拉伯",
+      "display_name": "SA 沙特阿拉伯 Saudi Arabia 沙烏地阿拉伯",
       "icon": "saudi-arabia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saudi-arabia.png?v=49f6e63bb253",
+      "aliases": [
+        "SA",
+        "saudi-arabia",
+        "saudi arabia",
+        "Saudi Arabia",
+        "沙特阿拉伯",
+        "沙烏地阿拉伯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sa.svg"
     },
     {
       "code": "SB",
       "name": "Solomon Islands",
+      "name_zh": "所罗门群岛",
+      "name_zh_hant": "索羅門群島",
+      "display_name": "SB 所罗门群岛 Solomon Islands 索羅門群島",
       "icon": "solomon-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/solomon-islands.png?v=0ddcaa23ed12"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/solomon-islands.png?v=0ddcaa23ed12",
+      "aliases": [
+        "SB",
+        "solomon-islands",
+        "solomon islands",
+        "Solomon Islands",
+        "所罗门群岛",
+        "索羅門群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sb.svg"
     },
     {
       "code": "SC",
       "name": "Seychelles",
+      "name_zh": "塞舌尔",
+      "name_zh_hant": "塞席爾",
+      "display_name": "SC 塞舌尔 Seychelles 塞席爾",
       "icon": "seychelles",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/seychelles.png?v=5a74ecb04949",
+      "aliases": [
+        "SC",
+        "seychelles",
+        "Seychelles",
+        "塞舌尔",
+        "塞席爾"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sc.svg"
     },
     {
       "code": "SD",
       "name": "Sudan",
+      "name_zh": "苏丹",
+      "name_zh_hant": "蘇丹",
+      "display_name": "SD 苏丹 Sudan 蘇丹",
       "icon": "sudan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sudan.png?v=7271b91a4022"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sudan.png?v=7271b91a4022",
+      "aliases": [
+        "SD",
+        "sudan",
+        "Sudan",
+        "苏丹",
+        "蘇丹"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sd.svg"
     },
     {
       "code": "SE",
       "name": "Sweden",
+      "name_zh": "瑞典",
+      "name_zh_hant": "瑞典",
+      "display_name": "SE 瑞典 Sweden",
       "icon": "sweden",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sweden.png?v=feedf440ac95"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sweden.png?v=feedf440ac95",
+      "aliases": [
+        "SE",
+        "sweden",
+        "Sweden",
+        "瑞典"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/se.svg"
     },
     {
       "code": "SG",
       "name": "Singapore",
+      "name_zh": "新加坡",
+      "name_zh_hant": "新加坡",
+      "display_name": "SG 新加坡 Singapore",
       "icon": "singapore",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/singapore.png?v=3ece67d8a00f",
+      "aliases": [
+        "SG",
+        "singapore",
+        "Singapore",
+        "新加坡"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sg.svg"
     },
     {
       "code": "SH",
       "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "name_zh": "圣赫勒拿",
+      "name_zh_hant": "聖赫勒拿島",
+      "display_name": "SH 圣赫勒拿 Saint Helena, Ascension and Tristan da Cunha 聖赫勒拿島",
       "icon": "saint-helena-ascension-and-tristan-da-cunha",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-helena-ascension-and-tristan-da-cunha.png?v=8331137553b6",
+      "aliases": [
+        "SH",
+        "saint-helena-ascension-and-tristan-da-cunha",
+        "saint helena ascension and tristan da cunha",
+        "Saint Helena, Ascension and Tristan da Cunha",
+        "圣赫勒拿",
+        "聖赫勒拿島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sh.svg"
     },
     {
       "code": "SI",
       "name": "Slovenia",
+      "name_zh": "斯洛文尼亚",
+      "name_zh_hant": "斯洛維尼亞",
+      "display_name": "SI 斯洛文尼亚 Slovenia 斯洛維尼亞",
       "icon": "slovenia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovenia.png?v=f9cae336674b",
+      "aliases": [
+        "SI",
+        "slovenia",
+        "Slovenia",
+        "斯洛文尼亚",
+        "斯洛維尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/si.svg"
     },
     {
       "code": "SJ",
       "name": "Svalbard and Jan Mayen",
+      "name_zh": "斯瓦尔巴和扬马延",
+      "name_zh_hant": "挪威屬斯瓦巴及尖棉",
+      "display_name": "SJ 斯瓦尔巴和扬马延 Svalbard and Jan Mayen 挪威屬斯瓦巴及尖棉",
       "icon": "svalbard-and-jan-mayen",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/svalbard-and-jan-mayen.png?v=da859910bcff"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/svalbard-and-jan-mayen.png?v=da859910bcff",
+      "aliases": [
+        "SJ",
+        "svalbard-and-jan-mayen",
+        "svalbard and jan mayen",
+        "Svalbard and Jan Mayen",
+        "斯瓦尔巴和扬马延",
+        "挪威屬斯瓦巴及尖棉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sj.svg"
     },
     {
       "code": "SK",
       "name": "Slovakia",
+      "name_zh": "斯洛伐克",
+      "name_zh_hant": "斯洛伐克",
+      "display_name": "SK 斯洛伐克 Slovakia",
       "icon": "slovakia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slovakia.png?v=01de34d381b6",
+      "aliases": [
+        "SK",
+        "slovakia",
+        "Slovakia",
+        "斯洛伐克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sk.svg"
     },
     {
       "code": "SL",
       "name": "Sierra Leone",
+      "name_zh": "塞拉利昂",
+      "name_zh_hant": "獅子山",
+      "display_name": "SL 塞拉利昂 Sierra Leone 獅子山",
       "icon": "sierra-leone",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sierra-leone.png?v=0cf313e96496",
+      "aliases": [
+        "SL",
+        "sierra-leone",
+        "sierra leone",
+        "Sierra Leone",
+        "塞拉利昂",
+        "獅子山"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sl.svg"
     },
     {
       "code": "SM",
       "name": "San Marino",
+      "name_zh": "圣马力诺",
+      "name_zh_hant": "聖馬利諾",
+      "display_name": "SM 圣马力诺 San Marino 聖馬利諾",
       "icon": "san-marino",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/san-marino.png?v=5983b7386585"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/san-marino.png?v=5983b7386585",
+      "aliases": [
+        "SM",
+        "san-marino",
+        "san marino",
+        "San Marino",
+        "圣马力诺",
+        "聖馬利諾"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sm.svg"
     },
     {
       "code": "SN",
       "name": "Senegal",
+      "name_zh": "塞内加尔",
+      "name_zh_hant": "塞內加爾",
+      "display_name": "SN 塞内加尔 Senegal 塞內加爾",
       "icon": "senegal",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/senegal.png?v=f98d9370b02d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/senegal.png?v=f98d9370b02d",
+      "aliases": [
+        "SN",
+        "senegal",
+        "Senegal",
+        "塞内加尔",
+        "塞內加爾"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sn.svg"
     },
     {
       "code": "SO",
       "name": "Somalia",
+      "name_zh": "索马里",
+      "name_zh_hant": "索馬利亞",
+      "display_name": "SO 索马里 Somalia 索馬利亞",
       "icon": "somalia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/somalia.png?v=dab66691cb29"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/somalia.png?v=dab66691cb29",
+      "aliases": [
+        "SO",
+        "somalia",
+        "Somalia",
+        "索马里",
+        "索馬利亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/so.svg"
     },
     {
       "code": "SR",
       "name": "Suriname",
+      "name_zh": "苏里南",
+      "name_zh_hant": "蘇利南",
+      "display_name": "SR 苏里南 Suriname 蘇利南",
       "icon": "suriname",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suriname.png?v=938d688f7a7b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suriname.png?v=938d688f7a7b",
+      "aliases": [
+        "SR",
+        "suriname",
+        "Suriname",
+        "苏里南",
+        "蘇利南"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sr.svg"
     },
     {
       "code": "SS",
       "name": "South Sudan",
+      "name_zh": "南苏丹",
+      "name_zh_hant": "南蘇丹",
+      "display_name": "SS 南苏丹 South Sudan 南蘇丹",
       "icon": "south-sudan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-sudan.png?v=03c66d0c18c5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-sudan.png?v=03c66d0c18c5",
+      "aliases": [
+        "SS",
+        "south-sudan",
+        "south sudan",
+        "South Sudan",
+        "南苏丹",
+        "南蘇丹"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ss.svg"
     },
     {
       "code": "ST",
       "name": "Sao Tome and Principe",
+      "name_zh": "圣多美和普林西比",
+      "name_zh_hant": "聖多美普林西比",
+      "display_name": "ST 圣多美和普林西比 Sao Tome and Principe 聖多美普林西比",
       "icon": "sao-tome-and-principe",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sao-tome-and-principe.png?v=6831995937f8",
+      "aliases": [
+        "ST",
+        "sao-tome-and-principe",
+        "sao tome and principe",
+        "Sao Tome and Principe",
+        "圣多美和普林西比",
+        "聖多美普林西比"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/st.svg"
     },
     {
       "code": "SV",
       "name": "El Salvador",
+      "name_zh": "萨尔瓦多",
+      "name_zh_hant": "薩爾瓦多",
+      "display_name": "SV 萨尔瓦多 El Salvador 薩爾瓦多",
       "icon": "el-salvador",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/el-salvador.png?v=5d36cc84688b"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/el-salvador.png?v=5d36cc84688b",
+      "aliases": [
+        "SV",
+        "el-salvador",
+        "el salvador",
+        "El Salvador",
+        "萨尔瓦多",
+        "薩爾瓦多"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sv.svg"
     },
     {
       "code": "SX",
       "name": "Sint Maarten",
+      "name_zh": "荷属圣马丁",
+      "name_zh_hant": "荷屬聖馬丁",
+      "display_name": "SX 荷属圣马丁 Sint Maarten 荷屬聖馬丁",
       "icon": "sint-maarten",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-maarten.png?v=f62ea36d4a5e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sint-maarten.png?v=f62ea36d4a5e",
+      "aliases": [
+        "SX",
+        "sint-maarten",
+        "sint maarten",
+        "Sint Maarten",
+        "荷属圣马丁",
+        "荷屬聖馬丁"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sx.svg"
     },
     {
       "code": "SY",
       "name": "Syria",
+      "name_zh": "叙利亚",
+      "name_zh_hant": "敘利亞",
+      "display_name": "SY 叙利亚 Syria 敘利亞",
       "icon": "syria",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/syria.png?v=2dcc231be5f0"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/syria.png?v=2dcc231be5f0",
+      "aliases": [
+        "SY",
+        "syria",
+        "Syria",
+        "叙利亚",
+        "敘利亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sy.svg"
     },
     {
       "code": "SZ",
       "name": "Eswatini",
+      "name_zh": "斯威士兰",
+      "name_zh_hant": "史瓦帝尼",
+      "display_name": "SZ 斯威士兰 Eswatini 史瓦帝尼",
       "icon": "eswatini",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eswatini.png?v=efc6f4e2a0c3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/eswatini.png?v=efc6f4e2a0c3",
+      "aliases": [
+        "SZ",
+        "eswatini",
+        "Eswatini",
+        "斯威士兰",
+        "史瓦帝尼"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/sz.svg"
     },
     {
       "code": "TC",
       "name": "Turks and Caicos Islands",
+      "name_zh": "特克斯和凯科斯群岛",
+      "name_zh_hant": "土克斯及開科斯群島",
+      "display_name": "TC 特克斯和凯科斯群岛 Turks and Caicos Islands 土克斯及開科斯群島",
       "icon": "turks-and-caicos-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turks-and-caicos-islands.png?v=9b22271883e9"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turks-and-caicos-islands.png?v=9b22271883e9",
+      "aliases": [
+        "TC",
+        "turks-and-caicos-islands",
+        "turks and caicos islands",
+        "Turks and Caicos Islands",
+        "特克斯和凯科斯群岛",
+        "土克斯及開科斯群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tc.svg"
     },
     {
       "code": "TD",
       "name": "Chad",
+      "name_zh": "乍得",
+      "name_zh_hant": "查德",
+      "display_name": "TD 乍得 Chad 查德",
       "icon": "chad",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chad.png?v=0ebf77766253"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chad.png?v=0ebf77766253",
+      "aliases": [
+        "TD",
+        "chad",
+        "Chad",
+        "乍得",
+        "查德"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/td.svg"
     },
     {
       "code": "TF",
       "name": "French Southern Territories",
+      "name_zh": "法属南部领地",
+      "name_zh_hant": "法屬南部屬地",
+      "display_name": "TF 法属南部领地 French Southern Territories 法屬南部屬地",
       "icon": "french-southern-territories",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/french-southern-territories.png?v=78bae73cb40d",
+      "aliases": [
+        "TF",
+        "french-southern-territories",
+        "french southern territories",
+        "French Southern Territories",
+        "法属南部领地",
+        "法屬南部屬地"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tf.svg"
     },
     {
       "code": "TG",
       "name": "Togo",
+      "name_zh": "多哥",
+      "name_zh_hant": "多哥",
+      "display_name": "TG 多哥 Togo",
       "icon": "togo",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/togo.png?v=f682ec665910"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/togo.png?v=f682ec665910",
+      "aliases": [
+        "TG",
+        "togo",
+        "Togo",
+        "多哥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tg.svg"
     },
     {
       "code": "TH",
       "name": "Thailand",
+      "name_zh": "泰国",
+      "name_zh_hant": "泰國",
+      "display_name": "TH 泰国 Thailand 泰國",
       "icon": "thailand",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/thailand.png?v=d742b8cc3b3f",
+      "aliases": [
+        "TH",
+        "thailand",
+        "Thailand",
+        "泰国",
+        "泰國"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/th.svg"
     },
     {
       "code": "TJ",
       "name": "Tajikistan",
+      "name_zh": "塔吉克斯坦",
+      "name_zh_hant": "塔吉克",
+      "display_name": "TJ 塔吉克斯坦 Tajikistan",
       "icon": "tajikistan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tajikistan.png?v=0acc4ea90931"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tajikistan.png?v=d77331e7bfba",
+      "aliases": [
+        "TJ",
+        "tajikistan",
+        "Tajikistan",
+        "塔吉克斯坦",
+        "塔吉克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tj.svg"
     },
     {
       "code": "TK",
       "name": "Tokelau",
+      "name_zh": "托克劳",
+      "name_zh_hant": "托克勞群島",
+      "display_name": "TK 托克劳 Tokelau 托克勞群島",
       "icon": "tokelau",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tokelau.png?v=384a3592abec"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tokelau.png?v=384a3592abec",
+      "aliases": [
+        "TK",
+        "tokelau",
+        "Tokelau",
+        "托克劳",
+        "托克勞群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tk.svg"
     },
     {
       "code": "TL",
       "name": "Timor-Leste",
+      "name_zh": "东帝汶",
+      "name_zh_hant": "東帝汶",
+      "display_name": "TL 东帝汶 Timor-Leste 東帝汶",
       "icon": "timor-leste",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/timor-leste.png?v=9e85b0c68d3a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/timor-leste.png?v=9e85b0c68d3a",
+      "aliases": [
+        "TL",
+        "timor-leste",
+        "timor leste",
+        "Timor-Leste",
+        "东帝汶",
+        "東帝汶"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tl.svg"
     },
     {
       "code": "TM",
       "name": "Turkmenistan",
+      "name_zh": "土库曼斯坦",
+      "name_zh_hant": "土庫曼",
+      "display_name": "TM 土库曼斯坦 Turkmenistan 土庫曼",
       "icon": "turkmenistan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkmenistan.png?v=36666330a042"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkmenistan.png?v=36666330a042",
+      "aliases": [
+        "TM",
+        "turkmenistan",
+        "Turkmenistan",
+        "土库曼斯坦",
+        "土庫曼"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tm.svg"
     },
     {
       "code": "TN",
       "name": "Tunisia",
+      "name_zh": "突尼斯",
+      "name_zh_hant": "突尼西亞",
+      "display_name": "TN 突尼斯 Tunisia 突尼西亞",
       "icon": "tunisia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tunisia.png?v=df301614a385",
+      "aliases": [
+        "TN",
+        "tunisia",
+        "Tunisia",
+        "突尼斯",
+        "突尼西亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tn.svg"
     },
     {
       "code": "TO",
       "name": "Tonga",
+      "name_zh": "汤加",
+      "name_zh_hant": "東加",
+      "display_name": "TO 汤加 Tonga 東加",
       "icon": "tonga",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tonga.png?v=02d4325d9489"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tonga.png?v=02d4325d9489",
+      "aliases": [
+        "TO",
+        "tonga",
+        "Tonga",
+        "汤加",
+        "東加"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/to.svg"
     },
     {
       "code": "TR",
       "name": "Türkiye",
+      "name_zh": "土耳其",
+      "name_zh_hant": "土耳其",
+      "display_name": "TR 土耳其 Türkiye Turkey",
       "icon": "turkiye",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkiye.png?v=c27f1e153956"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/turkiye.png?v=c27f1e153956",
+      "aliases": [
+        "TR",
+        "turkiye",
+        "Türkiye",
+        "土耳其",
+        "Turkey"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tr.svg"
     },
     {
       "code": "TT",
       "name": "Trinidad and Tobago",
+      "name_zh": "特立尼达和多巴哥",
+      "name_zh_hant": "千里達及托巴哥",
+      "display_name": "TT 特立尼达和多巴哥 Trinidad and Tobago 千里達及托巴哥",
       "icon": "trinidad-and-tobago",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/trinidad-and-tobago.png?v=8a35252c62dc",
+      "aliases": [
+        "TT",
+        "trinidad-and-tobago",
+        "trinidad and tobago",
+        "Trinidad and Tobago",
+        "特立尼达和多巴哥",
+        "千里達及托巴哥"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tt.svg"
     },
     {
       "code": "TV",
       "name": "Tuvalu",
+      "name_zh": "图瓦卢",
+      "name_zh_hant": "吐瓦魯",
+      "display_name": "TV 图瓦卢 Tuvalu 吐瓦魯",
       "icon": "tuvalu",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tuvalu.png?v=0ea3df820cf5",
+      "aliases": [
+        "TV",
+        "tuvalu",
+        "Tuvalu",
+        "图瓦卢",
+        "吐瓦魯"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tv.svg"
     },
     {
       "code": "TW",
       "name": "Taiwan",
+      "name_zh": "台湾",
+      "name_zh_hant": "台灣",
+      "display_name": "TW 台湾 Taiwan 台灣 臺灣",
       "icon": "taiwan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/taiwan.png?v=a449a90ec079",
+      "aliases": [
+        "TW",
+        "taiwan",
+        "Taiwan",
+        "台湾",
+        "台灣",
+        "臺灣"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tw.svg"
     },
     {
       "code": "TZ",
       "name": "Tanzania",
+      "name_zh": "坦桑尼亚",
+      "name_zh_hant": "坦尚尼亞",
+      "display_name": "TZ 坦桑尼亚 Tanzania 坦尚尼亞",
       "icon": "tanzania",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tanzania.png?v=8b3f275683ab"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tanzania.png?v=8b3f275683ab",
+      "aliases": [
+        "TZ",
+        "tanzania",
+        "Tanzania",
+        "坦桑尼亚",
+        "坦尚尼亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/tz.svg"
     },
     {
       "code": "UA",
       "name": "Ukraine",
+      "name_zh": "乌克兰",
+      "name_zh_hant": "烏克蘭",
+      "display_name": "UA 乌克兰 Ukraine 烏克蘭",
       "icon": "ukraine",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ukraine.png?v=8d4b6c8ed72a",
+      "aliases": [
+        "UA",
+        "ukraine",
+        "Ukraine",
+        "乌克兰",
+        "烏克蘭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ua.svg"
     },
     {
       "code": "UG",
       "name": "Uganda",
+      "name_zh": "乌干达",
+      "name_zh_hant": "烏干達",
+      "display_name": "UG 乌干达 Uganda 烏干達",
       "icon": "uganda",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uganda.png?v=0a3716abc6d3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uganda.png?v=0a3716abc6d3",
+      "aliases": [
+        "UG",
+        "uganda",
+        "Uganda",
+        "乌干达",
+        "烏干達"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ug.svg"
     },
     {
       "code": "UM",
       "name": "United States Minor Outlying Islands",
+      "name_zh": "美国本土外小岛屿",
+      "name_zh_hant": "美國本土外小島嶼",
+      "display_name": "UM 美国本土外小岛屿 United States Minor Outlying Islands 美國本土外小島嶼",
       "icon": "united-states-minor-outlying-islands",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-states-minor-outlying-islands.png?v=b642da68f0e2"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/united-states-minor-outlying-islands.png?v=b642da68f0e2",
+      "aliases": [
+        "UM",
+        "united-states-minor-outlying-islands",
+        "united states minor outlying islands",
+        "United States Minor Outlying Islands",
+        "美国本土外小岛屿",
+        "美國本土外小島嶼"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/um.svg"
     },
     {
       "code": "US",
       "name": "United States of America",
+      "name_zh": "美国",
+      "name_zh_hant": "美國",
+      "display_name": "US 美国 United States of America 美國 USA",
       "icon": "usa",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/usa.png?v=bcff19e466d9",
+      "aliases": [
+        "US",
+        "usa",
+        "United States of America",
+        "美国",
+        "美國",
+        "USA"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/us.svg"
     },
     {
       "code": "UY",
       "name": "Uruguay",
+      "name_zh": "乌拉圭",
+      "name_zh_hant": "烏拉圭",
+      "display_name": "UY 乌拉圭 Uruguay 烏拉圭",
       "icon": "uruguay",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uruguay.png?v=8fae83ba1837"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uruguay.png?v=8fae83ba1837",
+      "aliases": [
+        "UY",
+        "uruguay",
+        "Uruguay",
+        "乌拉圭",
+        "烏拉圭"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/uy.svg"
     },
     {
       "code": "UZ",
       "name": "Uzbekistan",
+      "name_zh": "乌兹别克斯坦",
+      "name_zh_hant": "烏茲別克",
+      "display_name": "UZ 乌兹别克斯坦 Uzbekistan 烏茲別克",
       "icon": "uzbekistan",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uzbekistan.png?v=fcc6267e2adc"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/uzbekistan.png?v=fcc6267e2adc",
+      "aliases": [
+        "UZ",
+        "uzbekistan",
+        "Uzbekistan",
+        "乌兹别克斯坦",
+        "烏茲別克"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/uz.svg"
     },
     {
       "code": "VA",
       "name": "Holy See",
+      "name_zh": "梵蒂冈",
+      "name_zh_hant": "梵蒂岡",
+      "display_name": "VA 梵蒂冈 Holy See 梵蒂岡",
       "icon": "vatican-city",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vatican-city.png?v=c797542c540c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vatican-city.png?v=c797542c540c",
+      "aliases": [
+        "VA",
+        "vatican-city",
+        "vatican city",
+        "Holy See",
+        "梵蒂冈",
+        "梵蒂岡"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/1x1/va.svg"
     },
     {
       "code": "VC",
       "name": "Saint Vincent and the Grenadines",
+      "name_zh": "圣文森特和格林纳丁斯",
+      "name_zh_hant": "聖文森及格瑞那丁",
+      "display_name": "VC 圣文森特和格林纳丁斯 Saint Vincent and the Grenadines 聖文森及格瑞那丁",
       "icon": "saint-vincent-and-the-grenadines",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-vincent-and-the-grenadines.png?v=652a76e4d828"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/saint-vincent-and-the-grenadines.png?v=652a76e4d828",
+      "aliases": [
+        "VC",
+        "saint-vincent-and-the-grenadines",
+        "saint vincent and the grenadines",
+        "Saint Vincent and the Grenadines",
+        "圣文森特和格林纳丁斯",
+        "聖文森及格瑞那丁"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vc.svg"
     },
     {
       "code": "VE",
       "name": "Venezuela",
+      "name_zh": "委内瑞拉",
+      "name_zh_hant": "委內瑞拉",
+      "display_name": "VE 委内瑞拉 Venezuela 委內瑞拉",
       "icon": "venezuela",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/venezuela.png?v=1a19fabca44c"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/venezuela.png?v=1a19fabca44c",
+      "aliases": [
+        "VE",
+        "venezuela",
+        "Venezuela",
+        "委内瑞拉",
+        "委內瑞拉"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ve.svg"
     },
     {
       "code": "VG",
       "name": "Virgin Islands (British)",
+      "name_zh": "英属维尔京群岛",
+      "name_zh_hant": "英屬維京群島",
+      "display_name": "VG 英属维尔京群岛 Virgin Islands (British) 英屬維京群島",
       "icon": "virgin-islands-british",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-british.png?v=5207a3923e7f"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-british.png?v=5207a3923e7f",
+      "aliases": [
+        "VG",
+        "virgin-islands-british",
+        "virgin islands british",
+        "Virgin Islands (British)",
+        "英属维尔京群岛",
+        "英屬維京群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vg.svg"
     },
     {
       "code": "VI",
       "name": "Virgin Islands (U.S.)",
+      "name_zh": "美属维尔京群岛",
+      "name_zh_hant": "美屬維京群島",
+      "display_name": "VI 美属维尔京群岛 Virgin Islands (U.S.) 美屬維京群島",
       "icon": "virgin-islands-u-s",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/virgin-islands-u-s.png?v=72b7761d86d1",
+      "aliases": [
+        "VI",
+        "virgin-islands-u-s",
+        "virgin islands u s",
+        "Virgin Islands (U.S.)",
+        "美属维尔京群岛",
+        "美屬維京群島"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vi.svg"
     },
     {
       "code": "VN",
       "name": "Vietnam",
+      "name_zh": "越南",
+      "name_zh_hant": "越南",
+      "display_name": "VN 越南 Vietnam",
       "icon": "vietnam",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vietnam.png?v=e3340597dc15"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vietnam.png?v=e3340597dc15",
+      "aliases": [
+        "VN",
+        "vietnam",
+        "Vietnam",
+        "越南"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vn.svg"
     },
     {
       "code": "VU",
       "name": "Vanuatu",
+      "name_zh": "瓦努阿图",
+      "name_zh_hant": "萬那杜",
+      "display_name": "VU 瓦努阿图 Vanuatu 萬那杜",
       "icon": "vanuatu",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vanuatu.png?v=32abed289908"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vanuatu.png?v=32abed289908",
+      "aliases": [
+        "VU",
+        "vanuatu",
+        "Vanuatu",
+        "瓦努阿图",
+        "萬那杜"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/vu.svg"
     },
     {
       "code": "WF",
       "name": "Wallis and Futuna",
+      "name_zh": "瓦利斯和富图纳",
+      "name_zh_hant": "瓦利斯群島和富圖那群島",
+      "display_name": "WF 瓦利斯和富图纳 Wallis and Futuna 瓦利斯群島和富圖那群島",
       "icon": "wallis-and-futuna",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wallis-and-futuna.png?v=55aedd3e24b2",
+      "aliases": [
+        "WF",
+        "wallis-and-futuna",
+        "wallis and futuna",
+        "Wallis and Futuna",
+        "瓦利斯和富图纳",
+        "瓦利斯群島和富圖那群島"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Wallis_and_Futuna.svg",
+      "flag_kind": "regional",
+      "status_zh": "常用地方旗（非官方）",
+      "license": "Public domain",
+      "source_sha1": "c14989502966877a1396c8ec6dffdddf7cd2e943"
     },
     {
       "code": "WS",
       "name": "Samoa",
+      "name_zh": "萨摩亚",
+      "name_zh_hant": "薩摩亞",
+      "display_name": "WS 萨摩亚 Samoa 薩摩亞",
       "icon": "samoa",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/samoa.png?v=2dbe3ea31180"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/samoa.png?v=2dbe3ea31180",
+      "aliases": [
+        "WS",
+        "samoa",
+        "Samoa",
+        "萨摩亚",
+        "薩摩亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ws.svg"
     },
     {
       "code": "YE",
       "name": "Yemen",
+      "name_zh": "也门",
+      "name_zh_hant": "葉門",
+      "display_name": "YE 也门 Yemen 葉門",
       "icon": "yemen",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yemen.png?v=bb0178f5f056"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yemen.png?v=bb0178f5f056",
+      "aliases": [
+        "YE",
+        "yemen",
+        "Yemen",
+        "也门",
+        "葉門"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/ye.svg"
     },
     {
       "code": "YT",
       "name": "Mayotte",
+      "name_zh": "马约特",
+      "name_zh_hant": "馬約特島",
+      "display_name": "YT 马约特 Mayotte 馬約特島",
       "icon": "mayotte",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=4d239bf67ec3"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mayotte.png?v=470a51e967a4",
+      "aliases": [
+        "YT",
+        "mayotte",
+        "Mayotte",
+        "马约特",
+        "馬約特島"
+      ],
+      "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(local).svg",
+      "flag_kind": "regional",
+      "status_zh": "地方徽章旗（非官方）",
+      "license": "Public domain",
+      "source_sha1": "c17260c649828d82d5ec70ff95f505df88f525d2"
     },
     {
       "code": "ZA",
       "name": "South Africa",
+      "name_zh": "南非",
+      "name_zh_hant": "南非",
+      "display_name": "ZA 南非 South Africa",
       "icon": "south-africa",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-africa.png?v=6ac2ea2c4869"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-africa.png?v=6ac2ea2c4869",
+      "aliases": [
+        "ZA",
+        "south-africa",
+        "south africa",
+        "South Africa",
+        "南非"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/za.svg"
     },
     {
       "code": "ZM",
       "name": "Zambia",
+      "name_zh": "赞比亚",
+      "name_zh_hant": "尚比亞",
+      "display_name": "ZM 赞比亚 Zambia 尚比亞",
       "icon": "zambia",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zambia.png?v=2edf98798187"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zambia.png?v=2edf98798187",
+      "aliases": [
+        "ZM",
+        "zambia",
+        "Zambia",
+        "赞比亚",
+        "尚比亞"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/zm.svg"
     },
     {
       "code": "ZW",
       "name": "Zimbabwe",
+      "name_zh": "津巴布韦",
+      "name_zh_hant": "辛巴威",
+      "display_name": "ZW 津巴布韦 Zimbabwe 辛巴威",
       "icon": "zimbabwe",
-      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e"
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zimbabwe.png?v=1d48d2e7c22e",
+      "aliases": [
+        "ZW",
+        "zimbabwe",
+        "Zimbabwe",
+        "津巴布韦",
+        "辛巴威"
+      ],
+      "source": "https://github.com/lipis/flag-icons/blob/ac7e0eb3259eb62aa6100c435607e2fe03896a97/flags/4x3/zw.svg"
     }
   ]
 }
