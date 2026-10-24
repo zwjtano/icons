@@ -6,7 +6,7 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td><a href="#图标预览">总合集</a></td><td>500</td><td>
+<tr><td>总合集</td><td>500</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/emby.json
 ```
 
 </td></tr>
-<tr><td><a href="#国家及地区旗帜">国旗组</a></td><td>258</td><td>
+<tr><td><a href="#国家及地区旗帜">国旗组</a></td><td>265</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/flags.json

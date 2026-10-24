@@ -3,6 +3,34 @@
   "description": "258 面国家及地区旗帜：保留 ISO 249 条目，另补 9 面海外地区旗帜；支持中英文及地区代码搜索，波浪旗面、水彩纸纹、透明 PNG。",
   "icons": [
     {
+      "name": "asia 亚洲 Asia",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/asia.png?v=532293b34c96"
+    },
+    {
+      "name": "europe 欧洲 歐洲 Europe",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/europe.png?v=225ae6a4d721"
+    },
+    {
+      "name": "africa 非洲 Africa",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/africa.png?v=991336d02b82"
+    },
+    {
+      "name": "north-america 北美洲 North America 北美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/north-america.png?v=746ad6984041"
+    },
+    {
+      "name": "south-america 南美洲 South America 南美",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/south-america.png?v=96bbe68c55b5"
+    },
+    {
+      "name": "oceania 大洋洲 Oceania 澳大利亚洲",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oceania.png?v=ecbf1f34c563"
+    },
+    {
+      "name": "antarctica-map 南极洲地图 南極洲地圖 Antarctica Map 南极大陆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/antarctica-map.png?v=138b7ab5a281"
+    },
+    {
       "name": "AF 阿富汗 Afghanistan",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/afghanistan.png?v=9846910482ce"
     },
