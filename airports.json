@@ -1,0 +1,246 @@
+{
+  "name": "zwjtano-airports",
+  "description": "DuyaoSS 名单中的 60 家机场图标；47 项参考原标重绘，13 项彩色文字设计版。",
+  "icons": [
+    {
+      "name": "AgentNEO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
+    },
+    {
+      "name": "Aladdin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2"
+    },
+    {
+      "name": "按摩院 AmyTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b"
+    },
+    {
+      "name": "ARK",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ark.png?v=a269de2748ef"
+    },
+    {
+      "name": "ASH",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
+    },
+    {
+      "name": "白月光 ByWave",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f"
+    },
+    {
+      "name": "咖啡云 CoffeeCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96"
+    },
+    {
+      "name": "奶油 CreamData",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9"
+    },
+    {
+      "name": "cyou 次元链接 CyLink Cylink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955"
+    },
+    {
+      "name": "dagcloud 大哥云 DGY",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb"
+    },
+    {
+      "name": "erwans 尔湾云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358"
+    },
+    {
+      "name": "FastLink",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422"
+    },
+    {
+      "name": "FastNode",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a"
+    },
+    {
+      "name": "feijicloud 飞机云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309"
+    },
+    {
+      "name": "闪狐云 FlashFox",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff"
+    },
+    {
+      "name": "飞天猪 Fliggy 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113"
+    },
+    {
+      "name": "花云 FlowerCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246"
+    },
+    {
+      "name": "飞鸟 FlyingBird 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyingbird-wordmark.png?v=ac02a50046e3"
+    },
+    {
+      "name": "Flyint飞数",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flyint.png?v=4b9bdb776b0b"
+    },
+    {
+      "name": "foo-and-friends Foo&Friends FNF",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae"
+    },
+    {
+      "name": "纷达网络 Fenda Funda",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff"
+    },
+    {
+      "name": "银河云GalaxyCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b"
+    },
+    {
+      "name": "haitunwan 海豚湾 Hitun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5"
+    },
+    {
+      "name": "ImmTel ImmTelecom",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc"
+    },
+    {
+      "name": "jifengyun 疾风云 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9"
+    },
+    {
+      "name": "KooDog",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/koodog.png?v=e490ec1a3ece"
+    },
+    {
+      "name": "酷酷云KuKuYun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kukuyun.png?v=c228dfb037b0"
+    },
+    {
+      "name": "库洛米Kuromis",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kuromis.png?v=b61224c20ad6"
+    },
+    {
+      "name": "KyCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696"
+    },
+    {
+      "name": "lanfanyun 蓝帆云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4"
+    },
+    {
+      "name": "LinkCube",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "longmaoyun 龙猫云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5"
+    },
+    {
+      "name": "Luckin",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99"
+    },
+    {
+      "name": "maoxiong 猫熊网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/maoxiong.png?v=15de5ca48a30"
+    },
+    {
+      "name": "三月七 March7 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/march7-wordmark.png?v=f26d2e11199d"
+    },
+    {
+      "name": "MESL",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mesl.png?v=e0103cde5764"
+    },
+    {
+      "name": "Miaona",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/miaona.png?v=150145840cca"
+    },
+    {
+      "name": "myjs 魅影极速 MAYING",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/myjs.png?v=276f03206af4"
+    },
+    {
+      "name": "Nerwo奶瓶",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b"
+    },
+    {
+      "name": "奶昔 Nexitally",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3"
+    },
+    {
+      "name": "咸鱼加速器 NexusCloud 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexuscloud-wordmark.png?v=4a69a91fe7f8"
+    },
+    {
+      "name": "OuO Network",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb"
+    },
+    {
+      "name": "paofuyun 泡芙云",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6"
+    },
+    {
+      "name": "qingyunti 青云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
+    },
+    {
+      "name": "shaoshupai 少数派 SSP",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
+    },
+    {
+      "name": "shouhou 守候网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "ssLinks",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc"
+    },
+    {
+      "name": "ssrcloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2"
+    },
+    {
+      "name": "速鹰666 Suying666 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suying666-wordmark.png?v=7b41024592fa"
+    },
+    {
+      "name": "suyunti 速云梯 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/suyunti-wordmark.png?v=c856303b01c9"
+    },
+    {
+      "name": "tianhang 天航 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/tianhang-wordmark.png?v=95c966e69032"
+    },
+    {
+      "name": "V2Paw",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2paw.png?v=fbe81b0609da"
+    },
+    {
+      "name": "V2Tun",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903"
+    },
+    {
+      "name": "西部数据 WestData WDCloud",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/wdcloud.png?v=12413295a4ca"
+    },
+    {
+      "name": "xiaoxuanfeng 小旋风 文字设计版",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xiaoxuanfeng-wordmark.png?v=5c03f5a56e0c"
+    },
+    {
+      "name": "Xlinkworld",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/xlinkworld.png?v=edf289577cc5"
+    },
+    {
+      "name": "Yepfast椰皮加速",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yepfast.png?v=711f76ef7f2e"
+    },
+    {
+      "name": "yiyunti 一云梯",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yiyunti.png?v=a4f53fb04705"
+    },
+    {
+      "name": "YToo YTOO",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ytoo.png?v=60b63e8e4188"
+    },
+    {
+      "name": "yunyi 云翼网络",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/yunyi.png?v=ac6ef0565ace"
+    }
+  ]
+}
