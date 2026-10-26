@@ -10,21 +10,21 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>500</td><td>
+<tr><td>总合集</td><td>503</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td><a href="#应用">应用组</a></td><td>242</td><td>
+<tr><td><a href="#应用">应用组</a></td><td>245</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
 </td></tr>
-<tr><td><a href="#机场组">机场组</a></td><td>64</td><td>
+<tr><td><a href="#机场组">机场组</a></td><td>68</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/airports.json
@@ -106,7 +106,6 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png?v=2bd39c46b447" width="80" height="80" alt="game-platforms"> | game-platforms 游戏平台 游戏 Steam PlayStation Xbox Nintendo | [game-platforms.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/game-platforms.png?v=2bd39c46b447) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png?v=7f7c973dab2f" width="80" height="80" alt="gemini"> | gemini 双子座 谷歌人工智能 Google | [gemini.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gemini.png?v=7f7c973dab2f) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png?v=b55f72c9868f" width="80" height="80" alt="github"> | github 代码托管 | [github.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/github.png?v=b55f72c9868f) |
-| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab" width="80" height="80" alt="global"> | global 全球 Global | [global.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png?v=1eab1eed2246" width="80" height="80" alt="gmail"> | gmail 谷歌邮箱 Gmail | [gmail.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/gmail.png?v=1eab1eed2246) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035" width="80" height="80" alt="goodshort"> | goodshort GoodShort 海外短剧 海外短劇 竖屏短剧 | [goodshort.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/goodshort.png?v=eaa4988df035) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=ea2e7fc577cf" width="80" height="80" alt="google"> | google 谷歌 Google | [google.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/google.png?v=ea2e7fc577cf) |
@@ -214,6 +213,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422" width="80" height="80" alt="fastlink"> | 机场组 · FastLink | [fastlink.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastlink.png?v=589e13842422) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a" width="80" height="80" alt="fastnode"> | 机场组 · FastNode | [fastnode.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fastnode.png?v=eb7a88ac493a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309" width="80" height="80" alt="feijicloud-wordmark"> | 机场组 · feijicloud 飞机云 文字设计版 | [feijicloud-wordmark.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08" width="80" height="80" alt="final"> | 机场组 · final FINAL 兜底 最终规则 最終規則 Catch-all Final Rule Airport | [final.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff" width="80" height="80" alt="flashfox"> | 机场组 · 闪狐云 FlashFox | [flashfox.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113" width="80" height="80" alt="fliggy-wordmark"> | 机场组 · 飞天猪 Fliggy 文字设计版 | [fliggy-wordmark.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/fliggy-wordmark.png?v=896d2f7e9113) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246" width="80" height="80" alt="flowercloud"> | 机场组 · 花云 FlowerCloud | [flowercloud.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/flowercloud.png?v=c32bb8312246) |
@@ -222,6 +222,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae" width="80" height="80" alt="foo-and-friends"> | 机场组 · foo-and-friends Foo&amp;Friends FNF | [foo-and-friends.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/foo-and-friends.png?v=d48c5f0e8cae) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff" width="80" height="80" alt="funda"> | 机场组 · 纷达网络 Fenda Funda | [funda.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/funda.png?v=21d41dada9ff) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b" width="80" height="80" alt="galaxycloud"> | 机场组 · 银河云GalaxyCloud | [galaxycloud.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab" width="80" height="80" alt="global"> | 机场组 · global 全球 Global Airport | [global.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5" width="80" height="80" alt="haitunwan"> | 机场组 · haitunwan 海豚湾 Hitun | [haitunwan.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc" width="80" height="80" alt="immtel"> | 机场组 · ImmTel ImmTelecom | [immtel.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/immtel.png?v=5a4c5b5d32bc) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9" width="80" height="80" alt="jifengyun-wordmark"> | 机场组 · jifengyun 疾风云 文字设计版 | [jifengyun-wordmark.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/jifengyun-wordmark.png?v=7ae836a776f9) |
@@ -231,6 +232,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696" width="80" height="80" alt="kycloud-wordmark"> | 机场组 · KyCloud 文字设计版 | [kycloud-wordmark.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/kycloud-wordmark.png?v=7bc27d397696) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4" width="80" height="80" alt="lanfanyun"> | 机场组 · lanfanyun 蓝帆云 | [lanfanyun.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/lanfanyun.png?v=bf9d6c05f6b4) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0" width="80" height="80" alt="linkcube"> | 机场组 · LinkCube | [linkcube.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35" width="80" height="80" alt="local-nodes"> | 机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport | [local-nodes.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5" width="80" height="80" alt="longmaoyun"> | 机场组 · longmaoyun 龙猫云 | [longmaoyun.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/longmaoyun.png?v=f81c8595adc5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png?v=4ca5767dda83" width="80" height="80" alt="loon"> | 机场组 · loon 代理 Airport | [loon.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/loon.png?v=4ca5767dda83) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99" width="80" height="80" alt="luckin"> | 机场组 · Luckin | [luckin.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/luckin.png?v=89fccef0fa99) |
@@ -247,6 +249,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c" width="80" height="80" alt="qingyunti"> | 机场组 · qingyunti 青云梯 | [qingyunti.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68" width="80" height="80" alt="shaoshupai"> | 机场组 · shaoshupai 少数派 SSP | [shaoshupai.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5" width="80" height="80" alt="shouhou"> | 机场组 · shouhou 守候网络 | [shouhou.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7" width="80" height="80" alt="speedtest"> | 机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport | [speedtest.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc" width="80" height="80" alt="sslinks"> | 机场组 · ssLinks | [sslinks.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/sslinks.png?v=64a7f3bd46fc) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2" width="80" height="80" alt="ssrcloud"> | 机场组 · ssrcloud | [ssrcloud.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png?v=d8e74c74228f" width="80" height="80" alt="surge"> | 机场组 · surge 网络代理 Airport | [surge.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/surge.png?v=d8e74c74228f) |

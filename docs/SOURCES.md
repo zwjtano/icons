@@ -508,3 +508,11 @@ BQ-BO、BQ-SA、BQ-SE、SH-HL、SH-AC、SH-TA 是细分标识，不是新增 ISO
 - 逐张更新早期 49 项（含 Loon、Surge、TAG、WD）；已重绘的 PayPal 和亚洲地图不变。沿用原标识与配色，统一为浅色纸纹、水彩颜料、轻描边及真实透明外缘。
 - 斗鱼参考[官方应用](https://apps.apple.com/cn/app/id863882795)，Google 翻译参考[官方应用](https://apps.apple.com/us/app/id414706506)；游戏平台组合中的 Joy-Con 参考[任天堂官方图示](https://support.nintendo.com/jp/switch2/prepare/difference/index.html)。
 - 其余沿用本页已有来源及仓库既有图形；游戏平台保留融合构图。名称、检索别名、分组与订阅数量不变。均为非官方风格化重绘，品牌标志归原权利人所有。
+
+
+## 代理策略与测速图标 · 2026-10-26
+
+- FINAL 表示未匹配流量的兜底策略，参考 [Loon 官方说明](https://github.com/Loon0x00/LoonManual/blob/master/docs/cn/final_rule.md)。
+- 本地节点指手动添加或配置文件定义的代理节点，不代表局域网；参考 [Loon 官方配置](https://github.com/Loon0x00/LoonExampleConfig/blob/master/example.conf)。
+- Speedtest 参考 [Ookla 官方应用图标](https://apps.apple.com/us/app/id300704847)，按项目水彩风格重绘；品牌标志归原权利人所有。
+- FINAL、本地节点、Speedtest 及既有 Global 归入机场组；Global 图片不变。

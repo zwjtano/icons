@@ -1,6 +1,6 @@
 {
   "name": "zwjtano-airports",
-  "description": "机场组 64 项：DuyaoSS 名单中的 60 家机场，加 Loon、Surge、TAG、WD。47 项原标参考重绘，13 项彩色文字设计版，另 4 项沿用仓库现有图片。",
+  "description": "机场与代理工具图标合集，包含节点、分流、测速等常用策略图标，支持中英文名称搜索。",
   "icons": [
     {
       "name": "机场组 · AgentNEO",
@@ -59,6 +59,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/feijicloud-wordmark.png?v=bfe047f66309"
     },
     {
+      "name": "机场组 · final FINAL 兜底 最终规则 最終規則 Catch-all Final Rule Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/final.png?v=35fff506ff08"
+    },
+    {
       "name": "机场组 · 闪狐云 FlashFox",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/flashfox.png?v=3284f705c1ff"
     },
@@ -89,6 +93,10 @@
     {
       "name": "机场组 · 银河云GalaxyCloud",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/galaxycloud.png?v=8404338c950b"
+    },
+    {
+      "name": "机场组 · global 全球 Global Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab"
     },
     {
       "name": "机场组 · haitunwan 海豚湾 Hitun",
@@ -125,6 +133,10 @@
     {
       "name": "机场组 · LinkCube",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35"
     },
     {
       "name": "机场组 · longmaoyun 龙猫云",
@@ -189,6 +201,10 @@
     {
       "name": "机场组 · shouhou 守候网络",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/speedtest.png?v=8140b70a7cf7"
     },
     {
       "name": "机场组 · ssLinks",
