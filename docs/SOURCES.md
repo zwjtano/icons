@@ -501,3 +501,10 @@ BQ-BO、BQ-SA、BQ-SE、SH-HL、SH-AC、SH-TA 是细分标识，不是新增 ISO
 
 - 参考：[PayPal 当前官网](https://www.paypal.com/us/home) 所链接的[官方双 P 图标](https://www.paypalobjects.com/marketing/web/icons/monogram/pp258.png)，以及 [Pentagram 品牌设计说明](https://www.pentagram.com/work/paypal/story)。
 - 保留双 P 的倾角、轮廓和三层蓝色关系，转换为项目的水彩纸感、浅描边与圆角底板；外缘为真实透明通道。本图是非官方风格化重绘，不代表 PayPal 授权或背书，品牌标志归原权利人所有。
+
+
+## 早期应用图标重绘 · 2026-10-26
+
+- 逐张更新早期 49 项（含 Loon、Surge、TAG、WD）；已重绘的 PayPal 和亚洲地图不变。沿用原标识与配色，统一为浅色纸纹、水彩颜料、轻描边及真实透明外缘。
+- 斗鱼参考[官方应用](https://apps.apple.com/cn/app/id863882795)，Google 翻译参考[官方应用](https://apps.apple.com/us/app/id414706506)；游戏平台组合中的 Joy-Con 参考[任天堂官方图示](https://support.nintendo.com/jp/switch2/prepare/difference/index.html)。
+- 其余沿用本页已有来源及仓库既有图形；游戏平台保留融合构图。名称、检索别名、分组与订阅数量不变。均为非官方风格化重绘，品牌标志归原权利人所有。
