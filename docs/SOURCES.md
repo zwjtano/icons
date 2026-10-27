@@ -591,3 +591,20 @@ VPS 图标按各家官方标志重绘；仅供图标识别，不代表服务推�
 - `stash`：按[官方标志](https://apps.apple.com/us/app/id1596063349)重绘，Stash 代理客户端 网络工具 網路工具。
 - `viki`：按[官方标志](https://apps.apple.com/us/app/id445553058)重绘，Rakuten Viki 乐天 樂天 亚洲剧集 亞洲劇集 流媒体。
 - `wetv`：按[官方标志](https://apps.apple.com/th/app/id1441531611)重绘，WeTV 腾讯视频国际版 騰訊視頻國際版 流媒体。
+
+
+## 音乐、流媒体与办公应用补充 · 2026-10-27
+
+- `canal-plus`：按[官方应用图标](https://apps.apple.com/fr/app/id694580816)水彩重绘，CANAL+ Canal Plus myCANAL 法国 法國 流媒体。
+- `deezer`：按[官方应用图标](https://apps.apple.com/us/app/id292738169)水彩重绘，Deezer 音乐 音樂 串流。
+- `dropbox`：按[官方应用图标](https://apps.apple.com/us/app/id327630330)水彩重绘，Dropbox 云盘 網盤 雲端硬碟 文件同步 檔案同步。
+- `jiohotstar`：按[官方应用图标](https://apps.apple.com/in/app/id934459219)水彩重绘，JioHotstar Jio Hotstar 印度 影视 影視 流媒体。
+- `mubi`：按[官方应用图标](https://apps.apple.com/us/app/id626148774)水彩重绘，MUBI 艺术电影 藝術電影 流媒体。
+- `outlook`：按[官方应用图标](https://apps.apple.com/us/app/id951937596)水彩重绘，Microsoft Outlook 微软邮箱 微軟郵箱 邮件 郵件 日历 行事曆。
+- `pandora`：按[官方应用图标](https://apps.apple.com/us/app/id284035177)水彩重绘，Pandora 潘多拉 音乐电台 音樂電台。
+- `sbs-on-demand`：按[官方应用图标](https://apps.apple.com/au/app/id542090992)水彩重绘，SBS On Demand 澳大利亚 澳洲 点播 點播 流媒体。
+- `slack`：按[官方应用图标](https://apps.apple.com/us/app/id618783545)水彩重绘，Slack 团队协作 團隊協作 办公 辦公。
+- `soundcloud`：按[官方应用图标](https://apps.apple.com/us/app/id336353151)水彩重绘，SoundCloud 声云 聲雲 音乐 音樂。
+- `teams`：按[官方应用图标](https://apps.apple.com/us/app/id1113153706)水彩重绘，Microsoft Teams 微软团队 微軟團隊 办公协作 辦公協作。
+- `youtube-music`：按[官方应用图标](https://apps.apple.com/us/app/id1017492454)水彩重绘，YouTube Music 油管音乐 油管音樂 音乐串流。
+- `zoom`：按[官方应用图标](https://apps.apple.com/us/app/id546505307)水彩重绘，Zoom Workplace 视频会议 視訊會議 办公 辦公。

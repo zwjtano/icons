@@ -75,6 +75,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bybit.png?v=6358d2c53b3d"
     },
     {
+      "name": "canal-plus CANAL+ Canal Plus myCANAL 法国 法國 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/canal-plus.png?v=1907224acc18"
+    },
+    {
       "name": "chatgpt 对话助手 OpenAI",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/chatgpt.png?v=43e0fc8337bd"
     },
@@ -115,6 +119,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dcard.png?v=31aaebf8b35b"
     },
     {
+      "name": "deezer Deezer 音乐 音樂 串流",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/deezer.png?v=69dcfe5d32a0"
+    },
+    {
       "name": "dingtalk 钉钉 DingTalk",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dingtalk.png?v=7c1ed0df7d74"
     },
@@ -149,6 +157,10 @@
     {
       "name": "dramawave DramaWave 海外短剧 海外短劇 竖屏短剧",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dramawave.png?v=30618c5e8b66"
+    },
+    {
+      "name": "dropbox Dropbox 云盘 網盤 雲端硬碟 文件同步 檔案同步",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dropbox.png?v=f95f65f64f93"
     },
     {
       "name": "duolingo 多邻国 多鄰國 Duo 学习",
@@ -275,6 +287,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jellyfin.png?v=885ca5e54595"
     },
     {
+      "name": "jiohotstar JioHotstar Jio Hotstar 印度 影视 影視 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/jiohotstar.png?v=569e7ab90717"
+    },
+    {
       "name": "kakaotalk KakaoTalk 卡考 韩国聊天",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/kakaotalk.png?v=e456954e9d67"
     },
@@ -319,6 +335,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mlb.png?v=f2f571549586"
     },
     {
+      "name": "mubi MUBI 艺术电影 藝術電影 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mubi.png?v=e38aa0771af4"
+    },
+    {
       "name": "mytvsuper myTV SUPER TVB 香港",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/mytvsuper.png?v=870f0a3e3983"
     },
@@ -361,6 +381,14 @@
     {
       "name": "oracle-cloud 甲骨文云 甲骨文 Oracle Cloud OCI",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/oracle-cloud.png?v=a8feaaede236"
+    },
+    {
+      "name": "outlook Microsoft Outlook 微软邮箱 微軟郵箱 邮件 郵件 日历 行事曆",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/outlook.png?v=c81881bb43b1"
+    },
+    {
+      "name": "pandora Pandora 潘多拉 音乐电台 音樂電台",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/pandora.png?v=f4c5e91e77a0"
     },
     {
       "name": "paramount-plus 派拉蒙 Paramount+",
@@ -435,6 +463,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/roku-channel.png?v=3f5f1100c8d9"
     },
     {
+      "name": "sbs-on-demand SBS On Demand 澳大利亚 澳洲 点播 點播 流媒体",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sbs-on-demand.png?v=9bc3442d0292"
+    },
+    {
       "name": "shortmax ShortMax ShortTV 旧名 舊名 海外短剧 海外短劇 竖屏短剧",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shortmax.png?v=65d1f33d9aa5"
     },
@@ -451,12 +483,20 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/skydance.png?v=05b59febb8be"
     },
     {
+      "name": "slack Slack 团队协作 團隊協作 办公 辦公",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/slack.png?v=e5aca2d6d4c6"
+    },
+    {
       "name": "sling-tv Sling TV 美国电视直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sling-tv.png?v=368bd449083f"
     },
     {
       "name": "snapchat Snapchat 快拍 图片社交",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/snapchat.png?v=a3dbf56aa1be"
+    },
+    {
+      "name": "soundcloud SoundCloud 声云 聲雲 音乐 音樂",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/soundcloud.png?v=643bf0eaca8a"
     },
     {
       "name": "spotify 声破天 音乐",
@@ -481,6 +521,10 @@
     {
       "name": "talkatone Talkatone 网络电话 網路電話 VoIP 通话 通話",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/talkatone.png?v=5c94a750d604"
+    },
+    {
+      "name": "teams Microsoft Teams 微软团队 微軟團隊 办公协作 辦公協作",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/teams.png?v=2b2a3aeb62e3"
     },
     {
       "name": "telegram 电报 Telegram",
@@ -575,6 +619,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube.png?v=c4cada82742e"
     },
     {
+      "name": "youtube-music YouTube Music 油管音乐 油管音樂 音乐串流",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-music.png?v=44778b856987"
+    },
+    {
       "name": "youtube-tv YouTube TV 美国电视直播",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/youtube-tv.png?v=bf98718c8974"
     },
@@ -585,6 +633,10 @@
     {
       "name": "zhihu 知乎",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zhihu.png?v=674dae3b2134"
+    },
+    {
+      "name": "zoom Zoom Workplace 视频会议 視訊會議 办公 辦公",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/zoom.png?v=64bb019f0d49"
     },
     {
       "name": "机场组 · adblock AdBlock 广告拦截 廣告攔截 去广告 去廣告 Airport",
