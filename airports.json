@@ -3,6 +3,10 @@
   "description": "机场、VPS 与代理工具图标合集，包含节点、分流和测速图标，支持中英文名称搜索。",
   "icons": [
     {
+      "name": "机场组 · adblock AdBlock 广告拦截 廣告攔截 去广告 去廣告 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/adblock.png?v=0e738833dcde"
+    },
+    {
       "name": "机场组 · AgentNEO",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
     },
@@ -29,6 +33,10 @@
     {
       "name": "机场组 · ASH",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
+    },
+    {
+      "name": "机场组 · auto-select Auto Select URL-Test 自动选择 自動選擇 延迟优选 延遲優選 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/auto-select.png?v=309c693b4057"
     },
     {
       "name": "机场组 · bandwagonhost BandwagonHost BWH 搬瓦工 瓦工 VPS 云服务器 Airport",
@@ -87,8 +95,16 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=43480aef30b1"
     },
     {
+      "name": "机场组 · dns DNS 域名解析 網域解析 加密DNS Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dns.png?v=a88047b3caa8"
+    },
+    {
       "name": "机场组 · dogyun Dogyun 狗云 狗雲 VPS 云服务器 Airport",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dogyun.png?v=2b5ffd4f4e79"
+    },
+    {
+      "name": "机场组 · egern Egern 小松鼠 代理客户端 網路工具 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/egern.png?v=d574f5788454"
     },
     {
       "name": "机场组 · erwans 尔湾云 文字设计版",
@@ -97,6 +113,10 @@
     {
       "name": "机场组 · evoxt Evoxt VPS 云服务器 Airport",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/evoxt.png?v=0e2a588d1e4d"
+    },
+    {
+      "name": "机场组 · fallback Fallback Failover 故障转移 故障轉移 自动切换 自動切換 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/fallback.png?v=9d8fb9334cef"
     },
     {
       "name": "机场组 · FastLink",
@@ -211,6 +231,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lisahost.png?v=0d4c8529effc"
     },
     {
+      "name": "机场组 · load-balance Load Balance 负载均衡 負載均衡 分流均衡 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/load-balance.png?v=7230549837db"
+    },
+    {
       "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/local-nodes.png?v=90830789ac35"
     },
@@ -279,6 +303,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
     },
     {
+      "name": "机场组 · quantumult-x Quantumult X QX 圈X 圈叉 代理客户端 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/quantumult-x.png?v=d8e07c1b80eb"
+    },
+    {
       "name": "机场组 · racknerd RackNerd RN VPS 云服务器 Airport",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/racknerd.png?v=6c16ffcc8507"
     },
@@ -291,6 +319,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/self-hosted-nodes.png?v=b5a573b2caa1"
     },
     {
+      "name": "机场组 · shadowrocket Shadowrocket 小火箭 代理客户端 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shadowrocket.png?v=eca020122197"
+    },
+    {
       "name": "机场组 · shaoshupai 少数派 SSP",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
     },
@@ -301,6 +333,10 @@
     {
       "name": "机场组 · silicloud SiliCloud 硅云 矽雲 VPS 云服务器 Airport",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/silicloud.png?v=7e7714eba177"
+    },
+    {
+      "name": "机场组 · sing-box sing-box Sing Box SagerNet 通用代理 核心 客户端 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/sing-box.png?v=1f06fde87976"
     },
     {
       "name": "机场组 · spartanhost SpartanHost 斯巴达 斯巴達 VPS 云服务器 Airport",
@@ -317,6 +353,10 @@
     {
       "name": "机场组 · ssrcloud",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ssrcloud.png?v=d4cb0bb816b2"
+    },
+    {
+      "name": "机场组 · stash Stash 代理客户端 网络工具 網路工具 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/stash.png?v=1e3e8be23559"
     },
     {
       "name": "机场组 · surge 网络代理 Airport",

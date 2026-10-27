@@ -565,3 +565,29 @@ VPS 图标按各家官方标志重绘；仅供图标识别，不代表服务推�
 ## Airport 机场 · 2026-10-27
 
 - 原创纸飞机、云与双节点组合，表示通用代理服务与机场订阅；沿用水彩纸纹、细边框和透明外缘。归机场组，支持 Airport、机场及機場搜索。
+
+
+## 客户端、策略与应用补充 · 2026-10-27
+
+- `adblock`：原创策略符号，AdBlock 广告拦截 廣告攔截 去广告 去廣告。
+- `auto-select`：原创策略符号，Auto Select URL-Test 自动选择 自動選擇 延迟优选 延遲優選。
+- `aws`：按[官方标志](https://apps.apple.com/us/app/id580990573)重绘，AWS Amazon Web Services 亚马逊云 亞馬遜雲 云服务。
+- `azure`：按[官方标志](https://apps.apple.com/us/app/id1219013620)重绘，Azure Microsoft Azure 微软云 微軟雲 云服务。
+- `copilot`：按[官方标志](https://apps.apple.com/us/app/id541164041)重绘，Microsoft Copilot 微软助手 微軟助手 AI 人工智能。
+- `dns`：原创策略符号，DNS 域名解析 網域解析 加密DNS。
+- `egern`：按[官方标志](https://apps.apple.com/us/app/id1616105820)重绘，Egern 小松鼠 代理客户端 網路工具。
+- `fallback`：原创策略符号，Fallback Failover 故障转移 故障轉移 自动切换 自動切換。
+- `infuse`：按[官方标志](https://apps.apple.com/us/app/id1136220934)重绘，Infuse 影音播放器 媒体播放 媒體播放。
+- `iqiyi-international`：按[官方标志](https://apps.apple.com/us/app/id1461999674)重绘，iQIYI 爱奇艺国际版 愛奇藝國際版 国际爱奇艺 流媒体。
+- `jellyfin`：按[官方标志](https://apps.apple.com/us/app/id1480192618)重绘，Jellyfin 水母 媒体库 媒體庫 媒体服务器。
+- `kocowa`：按[官方标志](https://apps.apple.com/us/app/id1222389576)重绘，KOCOWA+ KOCOWA Plus 韩国韩剧 韓國韓劇 综艺 綜藝 流媒体。
+- `load-balance`：原创策略符号，Load Balance 负载均衡 負載均衡 分流均衡。
+- `nodeseek`：按[官方标志](https://www.nodeseek.com/static/image/favicon/android-chrome-512x512.png)重绘，NodeSeek NS 节点社区 節點社區 主机论坛 主機論壇 VPS交流。
+- `perplexity`：按[官方标志](https://apps.apple.com/us/app/id1668000334)重绘，Perplexity AI搜索 智能搜索 人工智能搜尋。
+- `plex`：按[官方标志](https://apps.apple.com/us/app/id383457673)重绘，Plex 媒体库 媒體庫 媒体服务器 媒體伺服器。
+- `quantumult-x`：按[官方标志](https://apps.apple.com/us/app/id1443988620)重绘，Quantumult X QX 圈X 圈叉 代理客户端。
+- `shadowrocket`：按[官方标志](https://apps.apple.com/us/app/id932747118)重绘，Shadowrocket 小火箭 代理客户端。
+- `sing-box`：按[官方标志](https://sing-box.sagernet.org/assets/icon.svg)重绘，sing-box Sing Box SagerNet 通用代理 核心 客户端。
+- `stash`：按[官方标志](https://apps.apple.com/us/app/id1596063349)重绘，Stash 代理客户端 网络工具 網路工具。
+- `viki`：按[官方标志](https://apps.apple.com/us/app/id445553058)重绘，Rakuten Viki 乐天 樂天 亚洲剧集 亞洲劇集 流媒体。
+- `wetv`：按[官方标志](https://apps.apple.com/th/app/id1441531611)重绘，WeTV 腾讯视频国际版 騰訊視頻國際版 流媒体。
