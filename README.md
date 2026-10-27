@@ -10,21 +10,21 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>531</td><td>
+<tr><td>总合集</td><td>532</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td><a href="#应用">应用组</a></td><td>273</td><td>
+<tr><td><a href="#应用">应用组</a></td><td>274</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
 </td></tr>
-<tr><td><a href="#机场组">机场组</a></td><td>96</td><td>
+<tr><td><a href="#机场组">机场组</a></td><td>97</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/airports.json
@@ -200,6 +200,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | **预览** | **中英文名称** | **原始链接** |
 | :---: | --- | --- |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d" width="80" height="80" alt="agentneo"> | 机场组 · AgentNEO | [agentneo.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/airport.png?v=71e952f3eff7" width="80" height="80" alt="airport"> | 机场组 · airport Airport AIRPORT 机场 機場 代理机场 代理機場 机场订阅 機場訂閱 Proxy Service VPN Subscription Airport | [airport.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/airport.png?v=71e952f3eff7) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/akile.png?v=69094778af26" width="80" height="80" alt="akile"> | 机场组 · akile Akile AK VPS 云服务器 Airport | [akile.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/akile.png?v=69094778af26) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2" width="80" height="80" alt="aladdin"> | 机场组 · Aladdin | [aladdin.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/aladdin.png?v=729207e033d2) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b" width="80" height="80" alt="amytelecom"> | 机场组 · 按摩院 AmyTelecom | [amytelecom.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/amytelecom.png?v=e09ccd5d6a7b) |
