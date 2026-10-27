@@ -516,3 +516,37 @@ BQ-BO、BQ-SA、BQ-SE、SH-HL、SH-AC、SH-TA 是细分标识，不是新增 ISO
 - 本地节点指手动添加或配置文件定义的代理节点，不代表局域网；参考 [Loon 官方配置](https://github.com/Loon0x00/LoonExampleConfig/blob/master/example.conf)。
 - Speedtest 参考 [Ookla 官方应用图标](https://apps.apple.com/us/app/id300704847)，按项目水彩风格重绘；品牌标志归原权利人所有。
 - FINAL、本地节点、Speedtest 及既有 Global 归入机场组；Global 图片不变。
+
+
+## VPS、自建节点与 friDay 影音 · 2026-10-27
+
+VPS 图标按各家官方标志重绘；仅供图标识别，不代表服务推荐。
+- `akile`：[官方站点](https://akile.io/) · [标志参考](https://akile.ai/logo-apple-512x512.png)。
+- `bandwagonhost`：[官方站点](https://bandwagonhost.com/) · [标志参考](https://bandwagonhost.com/templates/organicbandwagon/images/logo4.png)。
+- `cloudcone`：[官方站点](https://cloudcone.com/) · [标志参考](https://cloudcone.com/wp-content/uploads/2017/05/cloudcone-logo.png)。
+- `colocrossing`：[官方站点](https://www.colocrossing.com/) · [标志参考](https://www.colocrossing.com/wp-content/uploads/2017/07/colo-website-logo.svg)。
+- `contabo`：[官方站点](https://contabo.com/) · [标志参考](https://cdn.contabo.com/contabo-logo-2.svg)。
+- `crunchbits`：[官方站点](https://synteq.com/) · [标志参考](https://cloud.synteq.com/branding/synteq-logo-accent.svg)。
+- `cubecloud`：[官方站点](https://www.cubecloud.net/) · [标志参考](https://www.cubecloud.net/templates/hostino_20241012/images/logo.png)。
+- `digitalocean`：[官方站点](https://www.digitalocean.com/) · [标志参考](https://www.digitalocean.com/)。
+- `dogyun`：[官方站点](https://www.dogyun.com/) · [标志参考](https://assets.dogyun.com/home/img/logo-128px.png)。
+- `evoxt`：[官方站点](https://evoxt.com/) · [标志参考](https://evoxt.com/wp-content/uploads/2021/05/evoxt.svg)。
+- `greencloud`：[官方站点](https://greencloudvps.com/) · [标志参考](https://status.green.cloud/)。
+- `hetzner`：[官方站点](https://www.hetzner.com/) · [标志参考](https://www.hetzner.com/_resources/themes/hetzner/images/logo/hetzner-logo.svg)。
+- `hostdare`：[官方站点](https://hostdare.com/) · [标志参考](https://hostdare.com/index.html)。
+- `hosthatch`：[官方站点](https://hosthatch.com/) · [标志参考](https://hosthatch.com/images/favicon.svg)。
+- `linode`：[官方站点](https://www.linode.com/) · [标志参考](https://assets.linode.com/icons/favicon.ico)。
+- `lisahost`：[官方站点](https://lisahost.com/) · [标志参考](https://lisahost.com/favicon.ico)。
+- `netcup`：[官方站点](https://www.netcup.com/) · [标志参考](https://www.netcup.com/favicon.ico)。
+- `ovhcloud`：[官方站点](https://www.ovhcloud.com/) · [标志参考](https://us.ovhcloud.com/7af16cdb/contrib/ovh_theme_patternlab/images/logos/OVHcloud_logo.svg#ocmscloud_logo_us)。
+- `racknerd`：[官方站点](https://www.racknerd.com/) · [标志参考](https://www.racknerd.com/images/logo-light.png)。
+- `silicloud`：[官方站点](https://www.silicloud.com/) · [标志参考](https://cdn.silicloud.com/2.0/img/logo/Transprent.png?v=202308181609)。
+- `spartanhost`：[官方站点](https://spartanhost.org/) · [标志参考](https://spartanhost.org/images/logo.png)。
+- `vmiss`：[官方站点](https://vmiss.com/) · [标志参考](https://www.vmiss.com/wp-content/uploads/2023/11/logo.svg)。
+- `vps`：[官方站点](https://v.ps/) · [标志参考](https://v.ps/brand/logo_dark.svg)。
+- `vultr`：[官方站点](https://www.vultr.com/) · [标志参考](https://blogs.vultr.com/public/article-assets/logo_on_white_ad91ff8861.png)。
+- Crunchbits 已更名为 Synteq，采用新标志并保留旧名搜索：[官方公告](https://synteq.com/blogs/crunchbits-rebrands-to-synteq-launches-operations-in-dallas-and-sofia-datacenters-and-celebrates-10x-expansion)。
+- Linode 使用当前官方登录页的 Akamai 标志，同时保留 Linode 与 Akamai Cloud 搜索名。
+- 自建节点为原创齿轮与服务器组合，与手动添加的本地节点图标区分。
+- DMIT 依据[当前官网标志](https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text.svg)重绘为蓝色终端标志与字标，替换原服务器插画。
+- friDay 影音参考[远传官方应用](https://apps.apple.com/tw/app/id1027671676)，归应用组；VPS、自建节点及 DMIT 归机场组。

@@ -1,10 +1,14 @@
 {
   "name": "zwjtano-airports",
-  "description": "机场与代理工具图标合集，包含节点、分流、测速等常用策略图标，支持中英文名称搜索。",
+  "description": "机场、VPS 与代理工具图标合集，包含节点、分流和测速图标，支持中英文名称搜索。",
   "icons": [
     {
       "name": "机场组 · AgentNEO",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/agentneo.png?v=d16bdc3e030d"
+    },
+    {
+      "name": "机场组 · akile Akile AK VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/akile.png?v=69094778af26"
     },
     {
       "name": "机场组 · Aladdin",
@@ -23,16 +27,40 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ash.png?v=60331492af4d"
     },
     {
+      "name": "机场组 · bandwagonhost BandwagonHost BWH 搬瓦工 瓦工 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bandwagonhost.png?v=e1ebe04efa2f"
+    },
+    {
       "name": "机场组 · 白月光 ByWave",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/bywave.png?v=eaf17aa2325f"
+    },
+    {
+      "name": "机场组 · cloudcone CloudCone CC VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cloudcone.png?v=c425f87bd73c"
     },
     {
       "name": "机场组 · 咖啡云 CoffeeCloud 文字设计版",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/coffeecloud-wordmark.png?v=c42513b66f96"
     },
     {
+      "name": "机场组 · colocrossing ColoCrossing CCS VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/colocrossing.png?v=6e000778f972"
+    },
+    {
+      "name": "机场组 · contabo Contabo 康塔博 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/contabo.png?v=6d277eb9144b"
+    },
+    {
       "name": "机场组 · 奶油 CreamData",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/creamdata.png?v=024bfa0094d9"
+    },
+    {
+      "name": "机场组 · crunchbits Synteq Crunchbits VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/crunchbits.png?v=49f14e40b234"
+    },
+    {
+      "name": "机场组 · cubecloud CubeCloud 魔方云 魔方雲 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/cubecloud.png?v=01b008959c4b"
     },
     {
       "name": "机场组 · cyou 次元链接 CyLink Cylink",
@@ -43,8 +71,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb"
     },
     {
+      "name": "机场组 · digitalocean DigitalOcean DO 数字海洋 數字海洋 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/digitalocean.png?v=248eda4405b2"
+    },
+    {
+      "name": "机场组 · dmit 云服务器 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=43480aef30b1"
+    },
+    {
+      "name": "机场组 · dogyun Dogyun 狗云 狗雲 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/dogyun.png?v=2b5ffd4f4e79"
+    },
+    {
       "name": "机场组 · erwans 尔湾云 文字设计版",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358"
+    },
+    {
+      "name": "机场组 · evoxt Evoxt VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/evoxt.png?v=0e2a588d1e4d"
     },
     {
       "name": "机场组 · FastLink",
@@ -99,8 +143,24 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/global.png?v=e9b6e387a1ab"
     },
     {
+      "name": "机场组 · greencloud GreenCloud 绿云 綠雲 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/greencloud.png?v=de9df63a7444"
+    },
+    {
       "name": "机场组 · haitunwan 海豚湾 Hitun",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/haitunwan.png?v=573e7766e7d5"
+    },
+    {
+      "name": "机场组 · hetzner Hetzner HZ 赫茨纳 赫茲納 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hetzner.png?v=a6df20cf9374"
+    },
+    {
+      "name": "机场组 · hostdare HostDare HD VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hostdare.png?v=56dc914d5d9a"
+    },
+    {
+      "name": "机场组 · hosthatch HostHatch HH VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/hosthatch.png?v=7fd141d05635"
     },
     {
       "name": "机场组 · ImmTel ImmTelecom",
@@ -133,6 +193,14 @@
     {
       "name": "机场组 · LinkCube",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linkcube.png?v=ec785a2693a0"
+    },
+    {
+      "name": "机场组 · linode Linode Akamai Cloud 阿卡迈 阿卡邁 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/linode.png?v=b763c5c1a534"
+    },
+    {
+      "name": "机场组 · lisahost LisaHost 丽萨主机 麗薩主機 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/lisahost.png?v=0d4c8529effc"
     },
     {
       "name": "机场组 · local-nodes 本地节点 本地節點 手动节点 手動節點 Local Nodes Manual Proxy Airport",
@@ -175,6 +243,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nerwo.png?v=af65ca03270b"
     },
     {
+      "name": "机场组 · netcup netcup NC 网杯 網杯 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/netcup.png?v=5e71fe707c92"
+    },
+    {
       "name": "机场组 · 奶昔 Nexitally",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/nexitally.png?v=74b181fce0d3"
     },
@@ -187,6 +259,10 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ouo.png?v=2ac79eb1bacb"
     },
     {
+      "name": "机场组 · ovhcloud OVHcloud OVH VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/ovhcloud.png?v=17d69853a94e"
+    },
+    {
       "name": "机场组 · paofuyun 泡芙云",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6"
     },
@@ -195,12 +271,28 @@
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c"
     },
     {
+      "name": "机场组 · racknerd RackNerd RN VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/racknerd.png?v=6c16ffcc8507"
+    },
+    {
+      "name": "机场组 · self-hosted-nodes 自建节点 自建節點 自建代理 Self-hosted Nodes DIY VPS Private Proxy Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/self-hosted-nodes.png?v=b5a573b2caa1"
+    },
+    {
       "name": "机场组 · shaoshupai 少数派 SSP",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68"
     },
     {
       "name": "机场组 · shouhou 守候网络",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5"
+    },
+    {
+      "name": "机场组 · silicloud SiliCloud 硅云 矽雲 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/silicloud.png?v=7e7714eba177"
+    },
+    {
+      "name": "机场组 · spartanhost SpartanHost 斯巴达 斯巴達 VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/spartanhost.png?v=051144a6a724"
     },
     {
       "name": "机场组 · speedtest Speedtest Ookla 测速 測速 网络测试 網路測試 Speed Test Airport",
@@ -241,6 +333,18 @@
     {
       "name": "机场组 · V2Tun",
       "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/v2tun.png?v=ed3b5966e903"
+    },
+    {
+      "name": "机场组 · vmiss VMISS VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vmiss.png?v=855f58c3d341"
+    },
+    {
+      "name": "机场组 · vps V.PS 小秘书 小秘書 xTom VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vps.png?v=4f8387250c7c"
+    },
+    {
+      "name": "机场组 · vultr Vultr VPS 云服务器 Airport",
+      "url": "https://raw.githubusercontent.com/zwjtano/icons/main/icons/vultr.png?v=aa7ce23a03cb"
     },
     {
       "name": "机场组 · wd 西部数据 Western Digital Airport",
