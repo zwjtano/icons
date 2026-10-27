@@ -10,21 +10,21 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>529</td><td>
+<tr><td>总合集</td><td>530</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td><a href="#应用">应用组</a></td><td>271</td><td>
+<tr><td><a href="#应用">应用组</a></td><td>272</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
 </td></tr>
-<tr><td><a href="#机场组">机场组</a></td><td>94</td><td>
+<tr><td><a href="#机场组">机场组</a></td><td>95</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/airports.json
@@ -217,6 +217,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955" width="80" height="80" alt="cyou"> | 机场组 · cyou 次元链接 CyLink Cylink | [cyou.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/cyou.png?v=4f519e8c5955) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb" width="80" height="80" alt="dagcloud"> | 机场组 · dagcloud 大哥云 DGY | [dagcloud.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dagcloud.png?v=e2ad84292bfb) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/digitalocean.png?v=248eda4405b2" width="80" height="80" alt="digitalocean"> | 机场组 · digitalocean DigitalOcean DO 数字海洋 數字海洋 VPS 云服务器 Airport | [digitalocean.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/digitalocean.png?v=248eda4405b2) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/direct.png?v=b740f437eb3a" width="80" height="80" alt="direct"> | 机场组 · direct Direct DIRECT 直连 直連 直接连接 直接連接 Bypass No Proxy Airport | [direct.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/direct.png?v=b740f437eb3a) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=43480aef30b1" width="80" height="80" alt="dmit"> | 机场组 · dmit 云服务器 VPS 云服务器 Airport | [dmit.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dmit.png?v=43480aef30b1) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/dogyun.png?v=2b5ffd4f4e79" width="80" height="80" alt="dogyun"> | 机场组 · dogyun Dogyun 狗云 狗雲 VPS 云服务器 Airport | [dogyun.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/dogyun.png?v=2b5ffd4f4e79) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358" width="80" height="80" alt="erwans-wordmark"> | 机场组 · erwans 尔湾云 文字设计版 | [erwans-wordmark.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/erwans-wordmark.png?v=c92a57449358) |

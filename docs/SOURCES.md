@@ -550,3 +550,8 @@ VPS 图标按各家官方标志重绘；仅供图标识别，不代表服务推�
 - 自建节点为原创齿轮与服务器组合，与手动添加的本地节点图标区分。
 - DMIT 依据[当前官网标志](https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text.svg)重绘为蓝色终端标志与字标，替换原服务器插画。
 - friDay 影音参考[远传官方应用](https://apps.apple.com/tw/app/id1027671676)，归应用组；VPS、自建节点及 DMIT 归机场组。
+
+
+## Direct 直连 · 2026-10-27
+
+- 原创双端点与直达箭头，表示不经过代理的直连策略；沿用水彩纸纹、细边框和透明外缘。归机场组，支持 Direct、直连及直連搜索。
