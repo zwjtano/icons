@@ -10,21 +10,21 @@
 
 <table>
 <tr><th>组别</th><th>数量</th><th>订阅地址</th></tr>
-<tr><td>总合集</td><td>530</td><td>
+<tr><td>总合集</td><td>531</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/icons.json
 ```
 
 </td></tr>
-<tr><td><a href="#应用">应用组</a></td><td>272</td><td>
+<tr><td><a href="#应用">应用组</a></td><td>273</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/apps.json
 ```
 
 </td></tr>
-<tr><td><a href="#机场组">机场组</a></td><td>95</td><td>
+<tr><td><a href="#机场组">机场组</a></td><td>96</td><td>
 
 ```text
 https://raw.githubusercontent.com/zwjtano/icons/main/airports.json
@@ -268,6 +268,7 @@ https://raw.githubusercontent.com/zwjtano/icons/main/maps.json
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6" width="80" height="80" alt="paofuyun"> | 机场组 · paofuyun 泡芙云 | [paofuyun.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/paofuyun.png?v=18d5477335e6) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c" width="80" height="80" alt="qingyunti"> | 机场组 · qingyunti 青云梯 | [qingyunti.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/qingyunti.png?v=dba28da6bc2c) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/racknerd.png?v=6c16ffcc8507" width="80" height="80" alt="racknerd"> | 机场组 · racknerd RackNerd RN VPS 云服务器 Airport | [racknerd.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/racknerd.png?v=6c16ffcc8507) |
+| <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/reject.png?v=b69009b9d0c5" width="80" height="80" alt="reject"> | 机场组 · reject Reject REJECT 拒绝 拒絕 拒绝连接 拒絕連接 拦截 攔截 阻断 阻斷 Block Deny Airport | [reject.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/reject.png?v=b69009b9d0c5) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/self-hosted-nodes.png?v=b5a573b2caa1" width="80" height="80" alt="self-hosted-nodes"> | 机场组 · self-hosted-nodes 自建节点 自建節點 自建代理 Self-hosted Nodes DIY VPS Private Proxy Airport | [self-hosted-nodes.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/self-hosted-nodes.png?v=b5a573b2caa1) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68" width="80" height="80" alt="shaoshupai"> | 机场组 · shaoshupai 少数派 SSP | [shaoshupai.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shaoshupai.png?v=ade1f9abbd68) |
 | <img src="https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5" width="80" height="80" alt="shouhou"> | 机场组 · shouhou 守候网络 | [shouhou.png](https://raw.githubusercontent.com/zwjtano/icons/main/icons/shouhou.png?v=6eeedce385a5) |
